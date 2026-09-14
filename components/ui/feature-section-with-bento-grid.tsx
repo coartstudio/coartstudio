@@ -373,7 +373,7 @@ function ServiceTile({
       <div
         className="absolute inset-0"
         style={{
-          backgroundColor: isRealImage ? "#ffffff" : undefined,
+          backgroundColor: isRealImage ? (service.id === "web" ? "#0060ad" : service.id === "ai" ? "#ffffff" : undefined) : undefined,
           backgroundImage: `url("${service.bgImage}")`,
           backgroundSize: service.bgSize || "cover",
           backgroundPosition: service.bgPosition || "center",
