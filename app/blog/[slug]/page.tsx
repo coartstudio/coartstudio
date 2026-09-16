@@ -1,8 +1,22 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
+import Image from 'next/image'
 import { posts } from '@/lib/posts'
 import { ArrowLeft } from 'lucide-react'
+
+function extractFaqs(html: string) {
+  const faqs: { question: string; answer: string }[] = []
+  const h2Regex = /<h2>([^<]+)<\/h2>\s*<p>([\s\S]*?)<\/p>/g
+  let match: RegExpExecArray | null
+  while ((match = h2Regex.exec(html)) !== null) {
+    const question = match[1].trim()
+    if (!question.endsWith('?')) continue
+    const answer = match[2].replace(/<[^>]+>/g, '').trim()
+    if (answer.length > 0) faqs.push({ question, answer })
+  }
+  return faqs
+}
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -48,6 +62,7 @@ export default async function BlogPost({ params }: Props) {
     description: post.excerpt,
     image: post.image,
     datePublished: new Date(post.date).toISOString(),
+    dateModified: new Date(post.date).toISOString(),
     author: {
       '@type': 'Organization',
       name: 'CoArt Studio',
@@ -67,12 +82,49 @@ export default async function BlogPost({ params }: Props) {
     },
   }
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.coart.studio' },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: 'https://www.coart.studio/blog' },
+      { '@type': 'ListItem', position: 3, name: post.title, item: `https://www.coart.studio/blog/${post.slug}` },
+    ],
+  }
+
+  const faqs = extractFaqs(post.content)
+  const faqJsonLd =
+    faqs.length > 0
+      ? {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: faqs.map((faq) => ({
+            '@type': 'Question',
+            name: faq.question,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: faq.answer,
+            },
+          })),
+        }
+      : null
+
   return (
     <main className="min-h-screen bg-white">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
       <article className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
         <Link
           href="/blog"
@@ -96,10 +148,13 @@ export default async function BlogPost({ params }: Props) {
         </h1>
 
         <div className="relative h-64 md:h-80 rounded-2xl overflow-hidden mb-10">
-          <img
+          <Image
             src={post.image}
             alt={post.title}
-            className="w-full h-full object-cover"
+            fill
+            sizes="(max-width: 768px) 100vw, 768px"
+            priority
+            className="object-cover"
           />
         </div>
 
