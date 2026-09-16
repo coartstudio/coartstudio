@@ -21,11 +21,61 @@ export default function Home() {
    
   ]
 
+  const faqJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: 'What services does CoArt Studio offer?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'CoArt Studio offers four core services: Brand Identity Design (logo, visual identity, brand strategy, guidelines, pitch decks), Web & Mobile App Development (custom web apps, iOS/Android apps, SaaS platforms, API architecture), AI-Powered Automation (AI search optimization, business AI integration, lead generation, workflow automation), and Digital Marketing (SEO, social media management, paid advertising, performance analytics).',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'How can AI automation help my business?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'CoArt Studio embeds AI where it creates the most impact: automating your busiest workflows, uncovering your best leads, and making your brand visible on AI search platforms like ChatGPT, Perplexity, and Gemini. Our AI clients report up to 70% reduction in manual workload within the first 90 days.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'How much does it cost to hire a digital agency?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Project costs vary depending on scope, complexity, and timeline. CoArt Studio offers a free discovery call to understand your needs and provide a tailored proposal. We work with startups and established businesses alike, scaling our approach to fit your budget and goals.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'What is CoArt Studio\'s process for working with clients?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'CoArt Studio follows a four-step proven process: (1) Discover & Strategize — deep dive into your business, brand, and goals; (2) Design & Create — turn strategy into brand identities, UI/UX designs, and content; (3) Build & Launch — bring digital products to life with clean, scalable code; (4) Grow & Optimise — continuously monitor, test, and optimise for maximum ROI.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'How do I get started with CoArt Studio?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Schedule a free discovery call at coart.studio. During the call, we\'ll discuss your business goals, challenges, and how CoArt Studio can help. There\'s no obligation — it\'s a conversation to see if we\'re the right fit for each other.',
+        },
+      },
+    ],
+  }
+
   return (
     <main className="min-h-screen bg-white">
-      {/* Header */}
-       {/* Animated Navbar */}
-       <NavBar items={navItems} />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+      />
+      {/* Animated Navbar */}
+      <NavBar items={navItems} />
 
       {/* Hero Section */}
       <section id="hero"  className="pt-20">
