@@ -6,11 +6,11 @@ import './globals.css'
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.coart.studio'),
   title: {
-    default: 'CoArt Studio — Branding, Web Development, AI & Digital Marketing Agency',
+    default: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
     template: '%s | CoArt Studio',
   },
   description:
-    'CoArt Studio is a full-service digital agency specialising in brand identity, custom web and mobile app development, AI-powered automation, and digital marketing. We help startups and businesses grow with creative strategy and technology.',
+    'Social media, brand identity, custom websites, mobile apps, and AI automation crafted by real designers, strategists, and developers. Not AI slop. Dubai digital agency.',
   keywords: [
     'digital agency',
     'branding agency',
@@ -32,9 +32,9 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: '/',
     siteName: 'CoArt Studio',
-    title: 'CoArt Studio — Branding, Web Development, AI & Digital Marketing Agency',
+    title: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
     description:
-      'Full-service digital agency specialising in brand identity, web & mobile development, AI automation, and digital marketing. Creative strategy meets technology.',
+      'Social media, brand identity, custom websites, mobile apps, and AI automation crafted by real designers, strategists, and developers. Not AI slop. Dubai digital agency.',
     images: [
       {
         url: '/og-image.png',
@@ -46,9 +46,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'CoArt Studio — Branding, Web, AI & Marketing Agency',
+    title: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
     description:
-      'Full-service digital agency: brand identity, web & mobile apps, AI automation, and digital marketing.',
+      'Social media, brand identity, custom websites, mobile apps, and AI automation crafted by real designers, strategists, and developers. Dubai digital agency.',
     images: ['/og-image.png'],
   },
   robots: {
@@ -108,7 +108,7 @@ export default function RootLayout({
                   },
                   sameAs: ['https://www.instagram.com/coartstudio'],
                   description:
-                    'Full-service digital agency specialising in brand identity, web & mobile development, AI automation, and digital marketing.',
+                    'Human-first digital agency crafting social media, brand identity, custom websites, mobile apps, and AI automation. Real designers, strategists, and developers in Dubai.',
                   contactPoint: {
                     '@type': 'ContactPoint',
                     contactType: 'sales',
@@ -128,7 +128,7 @@ export default function RootLayout({
                   '@type': 'WebPage',
                   '@id': 'https://www.coart.studio/#webpage',
                   url: 'https://www.coart.studio',
-                  name: 'CoArt Studio — Branding, Web Development, AI & Digital Marketing Agency',
+                  name: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
                   isPartOf: {
                     '@id': 'https://www.coart.studio/#website',
                   },
@@ -136,7 +136,7 @@ export default function RootLayout({
                     '@id': 'https://www.coart.studio/#organization',
                   },
                   description:
-                    'CoArt Studio is a full-service digital agency specialising in brand identity, custom web and mobile app development, AI-powered automation, and digital marketing.',
+                    'Social media, brand identity, custom websites, mobile apps, and AI automation crafted by real designers, strategists, and developers. Not AI slop. Dubai digital agency.',
                 },
                 {
                   '@type': 'ProfessionalService',
