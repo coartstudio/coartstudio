@@ -1,0 +1,238 @@
+{
+  "last_updated": "2026-09-16",
+  "target_geo": "Dubai/UAE primary, MENA secondary, global tertiary",
+  "domain": "www.coart.studio",
+  "services": ["Brand Identity Design", "Web & Mobile App Development", "AI-Powered Automation", "Digital Marketing"],
+  "content_queue": [
+    {
+      "rank": 1,
+      "title": "How Much Does It Cost to Build a Mobile App in Dubai?",
+      "slug": "mobile-app-development-cost-dubai",
+      "category": "Web & Mobile Apps",
+      "intent": "transactional",
+      "priority": "critical",
+      "status": "published",
+      "keywords": ["mobile app development cost Dubai", "app development Dubai price", "how much does an app cost UAE", "Flutter app cost Dubai"],
+      "notes": "AED 18K-1.47M range. 89% of pricing searchers contact agency within 2 weeks."
+    },
+    {
+      "rank": 2,
+      "title": "How Much Does Branding Cost in Dubai? (2026 Guide)",
+      "slug": "branding-cost-dubai",
+      "category": "Branding",
+      "intent": "transactional",
+      "priority": "critical",
+      "status": "published",
+      "keywords": ["branding cost Dubai", "brand identity design price UAE", "logo design cost Dubai", "rebranding agency Dubai price"],
+      "notes": "AED 5K-500K range. Pricing articles rank #1 for transactional branding queries."
+    },
+    {
+      "rank": 3,
+      "title": "How Much Does a Website Cost in Dubai?",
+      "slug": "website-cost-dubai",
+      "category": "Web & Mobile Apps",
+      "intent": "transactional",
+      "priority": "critical",
+      "status": "published",
+      "keywords": ["website design cost Dubai", "web development price UAE", "ecommerce website cost Dubai", "custom website Dubai price"],
+      "notes": "AED 1.5K-50K+ range. Extremely high search volume."
+    },
+    {
+      "rank": 4,
+      "title": "How Much Does AI Consulting Cost in Dubai?",
+      "slug": "ai-consulting-cost-dubai",
+      "category": "AI & Technology",
+      "intent": "transactional",
+      "priority": "critical",
+      "status": "published",
+      "keywords": ["AI consulting cost Dubai", "AI automation price UAE", "AI integration cost Dubai", "workflow automation Dubai pricing"],
+      "notes": "AED 147K-1.4M project range. Very few content competitors."
+    },
+    {
+      "rank": 5,
+      "title": "What Is GEO (Generative Engine Optimization) and Why Your Dubai Business Needs It",
+      "slug": "geo-generative-engine-optimization-dubai",
+      "category": "AI & Technology",
+      "intent": "commercial",
+      "priority": "critical",
+      "status": "published",
+      "keywords": ["GEO Dubai", "generative engine optimization UAE", "AI search optimization Dubai", "AEO answer engine optimization"],
+      "notes": "Brand new category. Gartner predicts 25% drop in traditional search by end of 2026. Almost zero competition in MENA."
+    },
+    {
+      "rank": 6,
+      "title": "How to Get Your Business Cited in ChatGPT and AI Search",
+      "slug": "get-business-cited-chatgpt-ai-search",
+      "category": "AI & Technology",
+      "intent": "commercial",
+      "priority": "high",
+      "status": "published",
+      "keywords": ["ChatGPT for business Dubai", "AI search optimization", "how to appear in ChatGPT", "llms.txt SEO"],
+      "notes": "89% of UAE consumers start searches with AI. 59.4% of working-age population uses AI tools."
+    },
+    {
+      "rank": 7,
+      "title": "How to Choose the Best Digital Agency in Dubai (2026)",
+      "slug": "how-to-choose-a-digital-agency-for-your-startup",
+      "category": "Business Growth",
+      "intent": "transactional",
+      "priority": "high",
+      "status": "published",
+      "keywords": ["best digital agency Dubai", "how to choose digital agency UAE", "digital agency Dubai comparison"],
+      "notes": "Already published. Top transactional query."
+    },
+    {
+      "rank": 8,
+      "title": "SEO vs Google Ads in Dubai: Where Should You Spend Your Budget?",
+      "slug": "seo-vs-google-ads-dubai",
+      "category": "Digital Marketing",
+      "intent": "commercial",
+      "priority": "high",
+      "status": "queued",
+      "keywords": ["SEO agency Dubai", "Google Ads Dubai", "SEO vs PPC Dubai", "digital marketing budget UAE"],
+      "notes": "SEO agency Dubai gets 8,100 monthly searches — highest volume marketing keyword in UAE."
+    },
+    {
+      "rank": 9,
+      "title": "AI Automation for Small Business in the UAE: A Practical Guide",
+      "slug": "ai-automation-for-small-business",
+      "category": "AI & Technology",
+      "intent": "commercial",
+      "priority": "high",
+      "status": "published",
+      "keywords": ["AI automation small business UAE", "AI tools UAE SME", "workflow automation Dubai"],
+      "notes": "Already published. 64% of UAE companies plan to increase automation investment."
+    },
+    {
+      "rank": 10,
+      "title": "The Complete Guide to E-commerce Development in Dubai",
+      "slug": "ecommerce-development-guide-dubai",
+      "category": "Web & Mobile Apps",
+      "intent": "commercial",
+      "priority": "high",
+      "status": "queued",
+      "keywords": ["ecommerce website Dubai", "Shopify developer Dubai", "online store UAE", "ecommerce platform Dubai"],
+      "notes": "46% of UAE consumers purchased via social media in 2025."
+    },
+    {
+      "rank": 11,
+      "title": "Why Your Dubai Startup Needs a Brand Identity Before Marketing",
+      "slug": "brand-identity-why-it-matters",
+      "category": "Branding",
+      "intent": "commercial",
+      "priority": "medium",
+      "status": "published",
+      "keywords": ["startup branding Dubai", "brand identity importance", "when to invest in branding"],
+      "notes": "Already published."
+    },
+    {
+      "rank": 12,
+      "title": "Mobile App Development Trends in UAE for 2026",
+      "slug": "mobile-app-development-trends-uae-2026",
+      "category": "Web & Mobile Apps",
+      "intent": "informational",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": ["app development trends UAE 2026", "Flutter React Native Dubai", "super apps MENA"],
+      "notes": "MENA SaaS market growing at 13.7% CAGR."
+    },
+    {
+      "rank": 13,
+      "title": "Social Media Marketing Trends in Dubai for 2026",
+      "slug": "social-media-marketing-trends-dubai-2026",
+      "category": "Digital Marketing",
+      "intent": "informational",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": ["social media trends Dubai 2026", "TikTok marketing UAE", "social commerce Dubai"],
+      "notes": "UAE digital ad market projected at $2.64B by 2026."
+    },
+    {
+      "rank": 14,
+      "title": "Do You Need Arabic and English Branding in Dubai?",
+      "slug": "arabic-english-branding-dubai",
+      "category": "Branding",
+      "intent": "informational",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": ["Arabic branding Dubai", "bilingual brand identity UAE", "Arabic typography design"],
+      "notes": "Arabic search volume grew 34% YoY, now 42% of all UAE searches."
+    },
+    {
+      "rank": 15,
+      "title": "How AI Is Changing Digital Marketing in the UAE",
+      "slug": "ai-changing-digital-marketing-uae",
+      "category": "AI & Technology",
+      "intent": "informational",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": ["AI marketing UAE", "AI digital marketing Dubai", "ChatGPT marketing"],
+      "notes": "77% of UAE companies using or exploring AI."
+    },
+    {
+      "rank": 16,
+      "title": "What Is the Best E-commerce Platform for UAE Businesses?",
+      "slug": "best-ecommerce-platform-uae",
+      "category": "Web & Mobile Apps",
+      "intent": "commercial",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": ["best ecommerce platform UAE", "Shopify vs WooCommerce Dubai", "online store platform Dubai"],
+      "notes": "Platform comparison content captures buyers at start of build project."
+    },
+    {
+      "rank": 17,
+      "title": "How to Use LinkedIn for B2B Lead Generation in Dubai",
+      "slug": "linkedin-b2b-lead-generation-dubai",
+      "category": "Digital Marketing",
+      "intent": "commercial",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": ["LinkedIn marketing Dubai", "B2B lead generation UAE", "LinkedIn ads Dubai"],
+      "notes": "UAE has one of the highest LinkedIn penetration rates globally."
+    },
+    {
+      "rank": 18,
+      "title": "Website Redesign: When and Why Your Dubai Business Needs One",
+      "slug": "website-redesign-dubai",
+      "category": "Web & Mobile Apps",
+      "intent": "transactional",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": ["website redesign Dubai", "when to redesign website UAE", "website refresh Dubai"],
+      "notes": "Targets businesses with existing sites — higher-value projects."
+    },
+    {
+      "rank": 19,
+      "title": "WhatsApp AI Chatbots for Dubai Businesses",
+      "slug": "whatsapp-ai-chatbot-dubai",
+      "category": "AI & Technology",
+      "intent": "commercial",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": ["WhatsApp bot Dubai", "AI chatbot UAE", "WhatsApp business automation Dubai"],
+      "notes": "WhatsApp is the dominant messaging platform in UAE."
+    },
+    {
+      "rank": 20,
+      "title": "Local SEO for Dubai Businesses: How to Rank in Your Area",
+      "slug": "local-seo-dubai",
+      "category": "Digital Marketing",
+      "intent": "commercial",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": ["local SEO Dubai", "Google Business Profile Dubai", "local search ranking UAE"],
+      "notes": "72% of searches in UAE have local intent."
+    }
+  ],
+  "seo_rules": {
+    "answer_block": "Every article must open with a 40-60 word direct answer to the title question, then one sentence of supporting context.",
+    "internal_links": "Every article should have at least 3 internal /blog/ links to other CoArt articles.",
+    "external_citations": "Every external citation must link to a specific article or page, not just a homepage.",
+    "cta": "Every article ends with a CoArt Studio discovery call CTA.",
+    "voice": "Authoritative but accessible. Write as a knowledgeable partner, not a salesperson. Third-person preferred, first-person plural (we) acceptable when discussing CoArt specifically.",
+    "geo_focus": "Dubai/UAE primary. Reference MENA market data where available. Include AED pricing when relevant.",
+    "ai_optimization": "Structure content with clear question-answer pairs that AI search engines can extract. Use FAQ-style H2s.",
+    "word_count": "1500-2500 words per article."
+  }
+}
