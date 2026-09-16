@@ -192,8 +192,8 @@ export default function Home() {
             <div>
               <h4 className="font-bold mb-4">Company</h4>
               <ul className="space-y-2 text-gray-400">
-                <li><Link href="#" className="hover:text-white transition-colors">About</Link></li>
-                <li><Link href="#" className="hover:text-white transition-colors">Blog</Link></li>
+                <li><Link href="#hero" className="hover:text-white transition-colors">About</Link></li>
+                <li><Link href="/blog" className="hover:text-white transition-colors">Blog</Link></li>
                
               </ul>
             </div>
@@ -201,8 +201,8 @@ export default function Home() {
             <div>
               <h4 className="font-bold mb-4">Resources</h4>
               <ul className="space-y-2 text-gray-400">
-                <li><Link href="#" className="hover:text-white transition-colors">Case Studies</Link></li>
-                <li><Link href="#" className="hover:text-white transition-colors">Resources</Link></li>
+                <li><Link href="#portfolio" className="hover:text-white transition-colors">Case Studies</Link></li>
+                <li><Link href="/blog" className="hover:text-white transition-colors">Resources</Link></li>
                 <li><Link href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" className="hover:text-white transition-colors">Book a discovery call</Link></li>
               </ul>
             </div>
