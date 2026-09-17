@@ -90,7 +90,7 @@ export function NavBar({ items, className }: NavBarProps) {
               className="w-full h-full object-contain"
             />
           </div>
-          <span className="hidden sm:inline text-sm md:text-base font-bold text-gray-900">
+          <span className="hidden sm:inline text-sm md:text-base font-bold text-gray-900 whitespace-nowrap">
             CoArt Studio
           </span>
         </Link>
@@ -176,7 +176,7 @@ export function NavBar({ items, className }: NavBarProps) {
           href={CALENDAR_URL}
           target="_blank"
           rel="noopener noreferrer"
-          className="hidden sm:flex items-center gap-1.5 px-3 py-2 md:px-4 md:py-2 rounded-full text-xs md:text-sm font-semibold text-white transition-all duration-200 hover:opacity-90 hover:scale-105 active:scale-95 animate-pulse-glow"
+          className="hidden sm:flex items-center gap-1.5 px-3 py-2 md:px-4 md:py-2 rounded-full text-xs md:text-sm font-semibold text-white whitespace-nowrap transition-all duration-200 hover:opacity-90 hover:scale-105 active:scale-95 animate-pulse-glow"
           style={{
             background: "linear-gradient(135deg, #0071BC 0%, #29ABE2 100%)",
           }}
