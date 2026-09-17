@@ -349,13 +349,16 @@ const Gallery6 = ({
             <h2 className="mb-3 text-3xl font-semibold md:mb-4 md:text-4xl lg:mb-6">
               {heading}
             </h2>
-            {/* Mobile: blue pulsing button | Desktop: text link */}
+            {/* Blue pulsing button on both mobile and desktop */}
             <a
               href={demoUrl}
-              className="hidden md:flex group items-center gap-1 text-sm font-medium md:text-base lg:text-lg"
+              className="hidden md:inline-flex items-center gap-2 px-6 py-3 rounded-full text-white text-sm font-semibold animate-pulse-glow"
+              style={{
+                background: "linear-gradient(135deg, #0071BC 0%, #29ABE2 100%)",
+              }}
             >
               View full portfolio
-              <ArrowUpRight className="size-4 transition-transform group-hover:translate-x-1" />
+              <ArrowUpRight className="size-4" />
             </a>
             <a
               href={demoUrl}

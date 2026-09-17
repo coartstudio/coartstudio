@@ -1,6 +1,26 @@
 import { useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { MoveRight, PhoneCall } from "lucide-react";
+
+function HandwrittenUnderline({ className }: { className?: string }) {
+  return (
+    <svg
+      className={className}
+      viewBox="0 0 200 12"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      preserveAspectRatio="none"
+    >
+      <path
+        d="M2 8.5C20 3.5 60 2 100 5.5C140 9 180 7 198 4"
+        stroke="#29ABE2"
+        strokeWidth="3"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
 import { Button } from "@/components/ui/button";
 
 function Hero() {
@@ -40,7 +60,7 @@ function Hero() {
           <div className="flex gap-4 flex-col">
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl max-w-2xl tracking-tighter text-center font-regular">
               <span className="text-black font-[800] ">Make your business</span>
-              <span className="relative flex w-full justify-center overflow-hidden text-center pb-2 md:pb-4 pt-1 md:pt-1">
+              <span className="relative flex w-full justify-center overflow-hidden text-center pb-2 md:pb-4 pt-1 md:pt-1 text-4xl sm:text-4xl md:text-5xl lg:text-7xl">
                 &nbsp;
                 {titles.map((title, index) => (
                   <motion.span
@@ -67,13 +87,22 @@ function Hero() {
             </h1>
 
             <p className="text-base sm:text-lg md:text-xl leading-relaxed tracking-tight text-muted-foreground max-w-2xl text-center px-4">
-            Running a business is complex, but growth shouldn’t be. We provide end-to-end solutions: from branding and websites to AI-powered automation, helping your business work smarter, not harder.
+            Marketing that connects, brands people remember, websites that convert, and AI that actually works.<br className="md:hidden" /> Crafted by real humans,{" "}
+            <span className="relative inline-block">
+              <span className="font-semibold text-gray-900">not AI slop.</span>
+              <HandwrittenUnderline className="absolute -bottom-1 left-0 w-full h-3" />
+            </span>
             </p>
           </div>
-          <div className="flex justify-center w-full max-w-md px-4">
+          <div className="flex flex-col items-center gap-3 w-full max-w-md px-4 mt-8 md:mt-0">
+            <a href="#services" className="md:hidden">
+              <Button size="lg" variant="outline" className="rounded-full border-2 border-[#0071BC] text-[#0071BC] hover:bg-[#0071BC]/5">
+                Explore our services
+              </Button>
+            </a>
             <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">
-              <Button size="lg" className="gap-4 w-full sm:w-auto bg-gradient-to-r from-[#0071BC] to-[#29ABE2] text-white text-xl rounded-full" >
-                Jump on a call <PhoneCall className="w-4 h-4" />
+              <Button size="lg" className="gap-4 bg-gradient-to-r from-[#0071BC] to-[#29ABE2] text-white text-xl rounded-full" >
+                Get a free consultation <PhoneCall className="w-4 h-4" />
               </Button>
             </a>
            

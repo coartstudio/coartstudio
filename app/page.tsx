@@ -6,7 +6,7 @@ import { MarqueeDemo } from '@/components/ui/marquee-demo'
 import { AnimatedTestimonialsDemo } from '@/components/ui/animated-testimonials-demo'
 import { TimelineDemo } from '@/components/ui/timeline-demo'
 import { NavBar } from '@/components/ui/tubelight-navbar'
-import { Home as HomeIcon, Users, Briefcase, FileText, Phone, User, Instagram } from 'lucide-react'
+import { Home as HomeIcon, Users, Briefcase, FileText, Phone, User, Instagram, MessageCircle } from 'lucide-react'
 import { Gallery6 } from '@/components/ui/gallery6'
 import { Feature } from '@/components/ui/feature-section-with-bento-grid'
 import { Hero } from '@/components/ui/animated-hero'
@@ -14,11 +14,12 @@ import { Cta4 } from '@/components/ui/cta-4'
 
 export default function Home() {
   const navItems = [
-    { name: 'Home', url: '#hero', icon: HomeIcon },
-    { name: 'Services', url: '#services', icon: Briefcase },
-    { name: 'Portfolio', url: '#portfolio', icon: User },
-    { name: 'Process', url: '#process', icon: Users },
-   
+    { name: 'Home', url: '#hero', icon: HomeIcon, mobileHidden: true },
+    { name: 'Services', url: '#services', icon: Briefcase, mobileHidden: true },
+    { name: 'Portfolio', url: '#portfolio', icon: Briefcase },
+    { name: 'Clients', url: '#testimonials', icon: User },
+    { name: 'Process', url: '#process', icon: Users, mobileHidden: true },
+
   ]
 
   const faqJsonLd = {
@@ -84,9 +85,9 @@ export default function Home() {
 
       {/* Company Logos Marquee */}
       <section className="bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center py-8">
-          <p className="text-gray-600 text-sm font-medium mb-8">
-             Trusted by compaines 
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center py-4 md:py-8">
+          <p className="text-gray-400 md:text-gray-600 text-sm font-medium mb-1 md:mb-8">
+             Trusted by companies
           </p>
           <MarqueeDemo />
         </div>
@@ -112,7 +113,7 @@ export default function Home() {
         <div className="h-px bg-gradient-to-r from-transparent via-gray-300 to-transparent" />
       </div>
       {/* Animated Testimonials Section */}
-      <section id="testimonials">
+      <section id="testimonials" className="scroll-mt-24">
         <AnimatedTestimonialsDemo />
       </section>
 
@@ -147,7 +148,7 @@ export default function Home() {
                 className="mb-4"
               />
               <p className="text-gray-400">
-              Design, strategy, and AI. Everything your business needs to succeed. Awarded 2025’s most innovative technology agency.
+              Digital marketing, design, strategy, and AI crafted by real people for businesses that want to stand out. Awarded 2025’s most innovative technology agency.
               </p>
             </div>
             

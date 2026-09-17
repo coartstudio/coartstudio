@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react"
 import { motion } from "framer-motion"
 import Link from "next/link"
 import Image from "next/image"
-import { LucideIcon, PhoneCall } from "lucide-react"
+import { LucideIcon, PhoneCall, ArrowUpRight } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 const CALENDAR_URL =
@@ -14,7 +14,10 @@ interface NavItem {
   name: string
   url: string
   icon: LucideIcon
+  mobileHidden?: boolean
 }
+
+const PORTFOLIO_URL = "https://coart2018.wixsite.com/digitaldesigncontent"
 
 interface NavBarProps {
   items: NavItem[]
@@ -99,7 +102,7 @@ export function NavBar({ items, className }: NavBarProps) {
         {items.map((item, index) => {
           const Icon = item.icon
           const isActive = activeTab === item.name
-          const hiddenOnMobile = index >= 3
+          const hiddenOnMobile = item.mobileHidden === true
 
           return (
             <Link
@@ -151,10 +154,24 @@ export function NavBar({ items, className }: NavBarProps) {
           )
         })}
 
+        {/* Mobile: View Portfolio pulsing button */}
+        <a
+          href={PORTFOLIO_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="sm:hidden flex items-center gap-1.5 px-3 py-2 rounded-full text-xs font-semibold text-white animate-pulse-glow"
+          style={{
+            background: "linear-gradient(135deg, #0071BC 0%, #29ABE2 100%)",
+          }}
+        >
+          Portfolio
+          <ArrowUpRight size={16} strokeWidth={2.5} />
+        </a>
+
         {/* Separator */}
         <div className="w-px h-5 bg-gray-300/70 hidden sm:block" />
 
-        {/* Persistent CTA pill */}
+        {/* Persistent CTA pill — desktop only */}
         <Link
           href={CALENDAR_URL}
           target="_blank"

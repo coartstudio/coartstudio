@@ -18,7 +18,7 @@ const Logos = {
     <Image src="/companies/sobha.svg" alt="Sobha" fill className="h-full object-contain" />
   ),
   solu: () => (
-    <Image src="/companies/solu.png" alt="Solu" width={88} height={88} className="object-contain" />
+    <Image src="/companies/solu.png" alt="Solu" fill className="h-full object-contain" />
   ),
   talabat: () => (
     <Image src="/companies/talabat.svg" alt="Talabat" fill className="h-full object-contain" />
@@ -46,7 +46,7 @@ export function MarqueeDemo() {
       {arr.map((Logo, index) => (
         <div
           key={index}
-          className="relative flex items-center justify-center min-w-[200px] h-16 mx-8"
+          className="relative flex items-center justify-center min-w-[70px] md:min-w-[200px] h-5 md:h-16 mx-3 md:mx-8"
         >
           <Logo />
         </div>
