@@ -26,6 +26,12 @@ const Logos = {
   boki: () => (
     <Image src="/companies/boki.svg" alt="Boki" fill className="h-full object-contain" />
   ),
+  daughterDad: () => (
+    <Image src="/companies/daughter-dad-coffee.svg" alt="Daughter & Dad Coffee" fill className="h-full object-contain" />
+  ),
+  sagra: () => (
+    <Image src="/companies/sagra.svg" alt="Sagra Italian Pastificio" fill className="h-full object-contain" />
+  ),
 };
 
 
@@ -39,6 +45,8 @@ export function MarqueeDemo() {
     Logos.solu,
     Logos.talabat,
     Logos.boki,
+    Logos.daughterDad,
+    Logos.sagra,
   ];
 
   return (

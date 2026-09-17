@@ -55,12 +55,12 @@ function Hero() {
         <div className="absolute bottom-1/3 left-0 w-full h-0.5 bg-gradient-to-r from-transparent via-cyan-400 to-transparent animate-pulse blur-sm" style={{ animationDelay: '4s' }}></div>
       </div>
       <div className="container mx-auto relative z-10">
-        <div className="flex gap-6 md:gap-8 py-16 md:py-20 lg:py-40 items-center justify-center flex-col">
+        <div className="flex gap-6 md:gap-8 py-24 md:py-20 lg:py-40 items-center justify-center flex-col">
          
           <div className="flex gap-4 flex-col">
-            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl max-w-2xl tracking-tighter text-center font-regular">
+            <h1 className="text-4xl sm:text-5xl md:text-5xl lg:text-7xl max-w-2xl tracking-tighter text-center font-regular">
               <span className="text-black font-[800] ">Make your business</span>
-              <span className="relative flex w-full justify-center overflow-hidden text-center pb-2 md:pb-4 pt-1 md:pt-1 text-4xl sm:text-4xl md:text-5xl lg:text-7xl">
+              <span className="relative flex w-full justify-center overflow-hidden text-center pb-2 md:pb-4 pt-1 md:pt-1 text-5xl sm:text-5xl md:text-5xl lg:text-7xl">
                 &nbsp;
                 {titles.map((title, index) => (
                   <motion.span

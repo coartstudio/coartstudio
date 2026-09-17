@@ -494,8 +494,8 @@ function Feature() {
         <div className="container mx-auto px-4">
           <div className="flex flex-col gap-10">
             {/* Heading */}
-            <div className="flex gap-4 flex-col items-start">
-              <Badge variant="secondary">Services</Badge>
+            <div className="flex gap-2 md:gap-4 flex-col items-start">
+              <Badge variant="secondary" className="hidden md:inline-flex">Services</Badge>
               <div className="flex gap-2 flex-col">
                 <h2 className="text-3xl md:text-5xl tracking-tighter max-w-xl font-regular text-left text-gray-900">
                   Creative Solutions for Your Business
