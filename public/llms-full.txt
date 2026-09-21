@@ -87,6 +87,7 @@ We build marketing strategies rooted in understanding real audiences, not just a
 ## Blog
 
 Recent articles on our blog at https://www.coart.studio/blog:
+- What Is Agentic Commerce and Is Your Dubai Online Store Ready for AI Shopping Agents? — /blog/agentic-commerce-dubai-online-store-ai-shopping-agents
 - What Are AI Agents and How Are Dubai Businesses Using Them in 2026? — /blog/ai-agents-dubai-businesses-2026
 - How Much Does It Cost to Build a Mobile App in Dubai? — /blog/mobile-app-development-cost-dubai
 - How Much Does Branding Cost in Dubai? (2026 Guide) — /blog/branding-cost-dubai
