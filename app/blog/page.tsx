@@ -1,8 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import Image from 'next/image'
 import { posts } from '@/lib/posts'
-import { ArrowRight } from 'lucide-react'
+import BlogList from './BlogList'
 
 export const metadata: Metadata = {
   title: 'Blog',
@@ -16,6 +15,12 @@ export const metadata: Metadata = {
     url: '/blog',
   },
 }
+
+// Newest first; ties (same date) fall back to array order, latest appended wins
+const sorted = posts
+  .map((post, i) => ({ post, i }))
+  .sort((a, b) => Date.parse(b.post.date) - Date.parse(a.post.date) || b.i - a.i)
+  .map(({ post }) => post)
 
 export default function BlogPage() {
   return (
@@ -37,47 +42,7 @@ export default function BlogPage() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {posts.map((post) => (
-            <Link
-              key={post.slug}
-              href={`/blog/${post.slug}`}
-              className="group flex flex-col rounded-2xl overflow-hidden border border-gray-100 hover:border-gray-200 hover:shadow-lg transition-all duration-300"
-            >
-              <div className="relative h-48 overflow-hidden">
-                <Image
-                  src={post.image}
-                  alt={post.title}
-                  fill
-                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                  className="object-cover group-hover:scale-105 transition-transform duration-500"
-                />
-                <div className="absolute top-3 left-3">
-                  <span className="px-3 py-1 text-xs font-semibold rounded-full bg-white/90 text-gray-700 backdrop-blur-sm">
-                    {post.category}
-                  </span>
-                </div>
-              </div>
-              <div className="flex flex-col flex-1 p-5">
-                <div className="flex items-center gap-3 text-xs text-gray-500 mb-3">
-                  <span>{post.date}</span>
-                  <span className="w-1 h-1 rounded-full bg-gray-300" />
-                  <span>{post.readTime}</span>
-                </div>
-                <h2 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-[#0071BC] transition-colors leading-snug">
-                  {post.title}
-                </h2>
-                <p className="text-sm text-gray-500 leading-relaxed flex-1">
-                  {post.excerpt.slice(0, 120)}...
-                </p>
-                <div className="flex items-center gap-1 mt-4 text-sm font-semibold text-[#0071BC] group-hover:gap-2 transition-all">
-                  Read article
-                  <ArrowRight className="w-4 h-4" />
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
+        <BlogList posts={sorted} />
       </div>
     </main>
   )
