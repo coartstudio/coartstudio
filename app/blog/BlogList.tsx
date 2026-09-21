@@ -32,38 +32,38 @@ export default function BlogList({ posts }: { posts: Post[] }) {
   return (
     <>
       {featured && (
-        <div className="mb-14">
-          <p className="text-xs font-semibold tracking-widest uppercase text-[#0071BC] mb-4">
+        <div className="mb-10">
+          <p className="text-xs font-semibold tracking-widest uppercase text-[#0071BC] mb-3">
             Latest article
           </p>
           <Link
             href={`/blog/${featured.slug}`}
-            className="group grid md:grid-cols-2 rounded-2xl overflow-hidden border border-gray-100 hover:border-gray-200 hover:shadow-lg transition-all duration-300"
+            className="group grid md:grid-cols-5 rounded-2xl overflow-hidden border border-gray-100 hover:border-gray-200 hover:shadow-lg transition-all duration-300"
           >
-            <div className="relative h-64 md:h-full min-h-[280px] overflow-hidden">
+            <div className="relative h-48 md:h-full md:col-span-2 overflow-hidden">
               <Image
                 src={featured.image}
                 alt={featured.title}
                 fill
                 priority
-                sizes="(max-width: 768px) 100vw, 50vw"
+                sizes="(max-width: 768px) 100vw, 40vw"
                 className="object-cover group-hover:scale-105 transition-transform duration-500"
               />
               <span className="absolute top-4 left-4 px-3 py-1 text-xs font-semibold rounded-full bg-[#0071BC] text-white">
                 New
               </span>
             </div>
-            <div className="flex flex-col justify-center p-6 md:p-10">
-              <div className="flex items-center gap-3 text-xs text-gray-500 mb-4">
+            <div className="flex flex-col justify-center md:col-span-3 p-5 md:p-7">
+              <div className="flex items-center gap-3 text-xs text-gray-500 mb-3">
                 <span className="px-3 py-1 rounded-full bg-gray-100 text-gray-700 font-semibold">
                   {featured.category}
                 </span>
                 <span>{featured.readTime}</span>
               </div>
-              <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-3 leading-snug group-hover:text-[#0071BC] transition-colors">
+              <h2 className="text-xl md:text-2xl font-bold text-gray-900 mb-2 leading-snug group-hover:text-[#0071BC] transition-colors">
                 {featured.title}
               </h2>
-              <p className="text-gray-600 leading-relaxed mb-6">{featured.excerpt}</p>
+              <p className="text-sm text-gray-600 leading-relaxed mb-4 line-clamp-2">{featured.excerpt}</p>
               <div className="flex items-center justify-between text-sm">
                 <span className="text-gray-500">{featured.date}</span>
                 <span className="flex items-center gap-1 font-semibold text-[#0071BC] group-hover:gap-2 transition-all">
