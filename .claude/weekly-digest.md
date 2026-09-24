@@ -37,3 +37,12 @@
 - Source: trending research (Sunday Sept 20)
 - Live at: www.coart.studio/blog/agentic-commerce-dubai-online-store-ai-shopping-agents
 - Note: ~1,000 words, under the 1,500 target; UAE adoption stats cite Zawya/Gulf Business homepages (no deep links verified); AED cost ranges are estimates
+
+## Thursday September 24, 2026 — SEO & Site Optimizer
+- Average article score: 7.6/10 (GEO 7.1, AI agents 8.0, agentic commerce 7.7)
+- Top weakness: citation precision (headline stats link to homepages or to sources that do not contain the figure)
+- Top finding: answer engines score each retrieved passage on relevance, authority, recency, and structure, so every H2 must be a self-contained, precisely sourced answer unit; Google's 2026 update rewards first-hand Experience most
+- Site audit issues found: 14
+- Site fixes applied: 7
+- Monday cron updated: yes
+- Needs Gerald: homepage FAQPage schema has no visible FAQ section (Google policy mismatch); homepage services don't link to blog articles; no named author/About page for E-E-A-T; GEO article's arXiv "115-230% CTR" claim should be corrected in the next monthly patch

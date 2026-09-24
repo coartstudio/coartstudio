@@ -107,6 +107,16 @@ export default function RootLayout({
                     url: 'https://www.coart.studio/coart-logo.png',
                   },
                   sameAs: ['https://www.instagram.com/coartstudio'],
+                  knowsAbout: [
+                    'Brand identity design',
+                    'Web development',
+                    'Mobile app development',
+                    'AI automation',
+                    'AI search optimization',
+                    'Generative engine optimization',
+                    'Digital marketing',
+                    'Search engine optimization',
+                  ],
                   description:
                     'Human-first digital agency crafting social media, brand identity, custom websites, mobile apps, and AI automation. Real designers, strategists, and developers in Dubai.',
                   contactPoint: {
@@ -120,6 +130,7 @@ export default function RootLayout({
                   '@id': 'https://www.coart.studio/#website',
                   url: 'https://www.coart.studio',
                   name: 'CoArt Studio',
+                  inLanguage: 'en',
                   publisher: {
                     '@id': 'https://www.coart.studio/#organization',
                   },
@@ -145,6 +156,18 @@ export default function RootLayout({
                   url: 'https://www.coart.studio',
                   image: 'https://www.coart.studio/coart-logo.png',
                   priceRange: '$$',
+                  parentOrganization: {
+                    '@id': 'https://www.coart.studio/#organization',
+                  },
+                  address: {
+                    '@type': 'PostalAddress',
+                    addressLocality: 'Dubai',
+                    addressCountry: 'AE',
+                  },
+                  areaServed: [
+                    { '@type': 'City', name: 'Dubai' },
+                    { '@type': 'Country', name: 'United Arab Emirates' },
+                  ],
                   hasOfferCatalog: {
                     '@type': 'OfferCatalog',
                     name: 'Digital Agency Services',

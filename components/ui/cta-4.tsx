@@ -35,7 +35,7 @@ export const Cta4 = ({
               }}
             >
               <div className="md:w-1/2">
-                <h4 className="mb-1 text-2xl font-bold md:text-3xl">{title}</h4>
+                <h2 className="mb-1 text-2xl font-bold md:text-3xl">{title}</h2>
                 <p className="text-muted-foreground">{description}</p>
                 <a
                   href={buttonUrl}

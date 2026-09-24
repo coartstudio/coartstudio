@@ -153,7 +153,7 @@ export default function Home() {
             </div>
             
             <div>
-              <h4 className="font-bold mb-4">Services</h4>
+              <h3 className="font-bold mb-4">Services</h3>
               <ul className="space-y-2 text-gray-400">
                 <li>
                   <div className="group relative h-6 flex items-center">
@@ -191,7 +191,7 @@ export default function Home() {
             </div>
             
             <div>
-              <h4 className="font-bold mb-4">Company</h4>
+              <h3 className="font-bold mb-4">Company</h3>
               <ul className="space-y-2 text-gray-400">
                 <li><Link href="#hero" className="hover:text-white transition-colors">About</Link></li>
                 <li><Link href="/blog" className="hover:text-white transition-colors">Blog</Link></li>
@@ -200,7 +200,7 @@ export default function Home() {
             </div>
             
             <div>
-              <h4 className="font-bold mb-4">Resources</h4>
+              <h3 className="font-bold mb-4">Resources</h3>
               <ul className="space-y-2 text-gray-400">
                 <li><Link href="#portfolio" className="hover:text-white transition-colors">Case Studies</Link></li>
                 <li><Link href="/blog" className="hover:text-white transition-colors">Resources</Link></li>
@@ -209,7 +209,7 @@ export default function Home() {
             </div>
 
             <div>
-              <h4 className="font-bold mb-4">Socials</h4>
+              <h3 className="font-bold mb-4">Socials</h3>
               <ul className="space-y-3 text-gray-400">
                 <li>
                   <Link

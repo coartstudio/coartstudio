@@ -38,6 +38,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: `/blog/${post.slug}`,
       type: 'article',
       publishedTime: new Date(post.date).toISOString(),
+      modifiedTime: new Date(post.date).toISOString(),
+      section: post.category,
       authors: ['CoArt Studio'],
       images: [{ url: post.image, width: 800, height: 400, alt: post.title }],
     },
@@ -63,13 +65,18 @@ export default async function BlogPost({ params }: Props) {
     image: post.image,
     datePublished: new Date(post.date).toISOString(),
     dateModified: new Date(post.date).toISOString(),
+    articleSection: post.category,
+    inLanguage: 'en',
+    isPartOf: { '@id': 'https://www.coart.studio/#website' },
     author: {
       '@type': 'Organization',
+      '@id': 'https://www.coart.studio/#organization',
       name: 'CoArt Studio',
       url: 'https://www.coart.studio',
     },
     publisher: {
       '@type': 'Organization',
+      '@id': 'https://www.coart.studio/#organization',
       name: 'CoArt Studio',
       logo: {
         '@type': 'ImageObject',
