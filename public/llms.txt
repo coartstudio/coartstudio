@@ -1,6 +1,6 @@
 # CoArt Studio
 
-> CoArt Studio is a human-first digital agency in Dubai. Real designers, strategists, and developers craft brand identities, custom websites, mobile apps, AI automation, and digital marketing for businesses that want human expertise behind their technology.
+> CoArt Studio is a human-first digital agency in Dubai. Real designers, strategists, and developers craft brand identities, social media content, video and photography, custom websites, mobile apps, AI automation, and digital marketing for businesses that want human expertise behind their technology.
 
 ## About
 
@@ -11,6 +11,9 @@ Book a discovery call: https://calendar.google.com/calendar/u/0/appointments/sch
 Instagram: https://www.instagram.com/coartstudio
 
 ## Services
+
+### Content Production, Videography & Photography
+We plan, shoot, and edit the content brands post every week, with real creative direction on set, not generic AI-generated filler. Services include short-form video for Instagram Reels, TikTok, and YouTube Shorts, brand and corporate videos, product and lifestyle photography, shoot planning and creative direction, editing and motion graphics, and monthly content production for social media. Content is produced in Dubai and can be delivered in English and Arabic.
 
 ### Brand Identity Design
 We craft brand identities by hand, informed by strategy and built to connect with real people. Services include logo and visual identity design, brand strategy and positioning, brand guidelines, and pitch decks and collateral. Brands refreshed by CoArt report 35% stronger audience recall within 60 days.
@@ -28,7 +31,7 @@ We build marketing strategies rooted in understanding real audiences, not just a
 
 - Human-first agency: real designers, strategists, and developers behind every project
 - Awarded 2025's most innovative technology agency
-- End-to-end capabilities: branding, development, AI, and marketing under one roof
+- End-to-end capabilities: branding, content production, videography, photography, development, AI, and marketing under one roof
 - Data-driven approach with measurable ROI
 - Proven process: Discover & Strategize → Design & Create → Build & Launch → Grow & Optimise
 

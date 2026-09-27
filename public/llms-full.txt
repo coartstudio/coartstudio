@@ -1,6 +1,6 @@
 # CoArt Studio — Full Reference
 
-> CoArt Studio is a human-first digital agency in Dubai. Real designers, strategists, and developers craft brand identities, custom websites, mobile apps, AI automation, and digital marketing for businesses that want human expertise behind their technology. We use AI as a tool, not a replacement for creative thinking, strategic judgement, and the human connection that makes brands resonate.
+> CoArt Studio is a human-first digital agency in Dubai. Real designers, strategists, and developers craft brand identities, social media content, video and photography, custom websites, mobile apps, AI automation, and digital marketing for businesses that want human expertise behind their technology. We use AI as a tool, not a replacement for creative thinking, strategic judgement, and the human connection that makes brands resonate.
 
 ## Company Overview
 
@@ -13,7 +13,19 @@ Instagram: https://www.instagram.com/coartstudio
 
 ## Detailed Service Offerings
 
-### 1. Brand Identity Design
+### 1. Content Production, Videography & Photography
+
+We plan, shoot, and edit the content brands publish every week. Every shoot has human creative direction: understanding what the brand stands for, what stops the scroll for its audience, and how to turn one shoot day into weeks of usable content. AI can help with editing workflows, but the ideas, the direction on set, and the final cut come from people.
+
+**Sub-services:**
+- **Short-Form Social Video** — Instagram Reels, TikTok, and YouTube Shorts, scripted and edited to hook viewers in the first seconds and built for how each platform works.
+- **Brand & Corporate Video** — Brand films, launch videos, about-us videos, and event coverage that tell the business's story with craft.
+- **Product & Lifestyle Photography** — Product, e-commerce, lifestyle, and team photography for websites, social media, and campaigns.
+- **Shoot Planning & Creative Direction** — Concepts, shot lists, locations, talent, and on-set direction so every shoot produces content with a purpose.
+- **Editing & Motion Graphics** — Post-production, colour grading, captions, and motion graphics, with English and Arabic versions where needed.
+- **Monthly Content Production** — An ongoing supply of video and photo content for social media, planned alongside the brand's content calendar.
+
+### 2. Brand Identity Design
 
 We create brand identities by hand, informed by strategy and built to connect with real people. Every identity is the product of human creative direction: understanding the business, feeling the audience, and making design decisions that no algorithm can replicate.
 
@@ -25,7 +37,7 @@ We create brand identities by hand, informed by strategy and built to connect wi
 
 **Result:** Brands refreshed by CoArt report 35% stronger audience recall within 60 days.
 
-### 2. Web & Mobile App Development
+### 3. Web & Mobile App Development
 
 We design and build human-centric digital products: websites, mobile apps, and SaaS platforms where every interaction feels intentional and every user journey is shaped by genuine understanding of how people behave, not just what analytics dashboards suggest.
 
@@ -37,7 +49,7 @@ We design and build human-centric digital products: websites, mobile apps, and S
 
 **Result:** CoArt clients see an average 2.4x lift in online conversions after launch.
 
-### 3. AI-Powered Automation
+### 4. AI-Powered Automation
 
 We integrate AI thoughtfully into business operations, always with human expertise guiding the strategy. The goal is never to replace people but to free them: AI handles the repetitive, time-intensive work so teams can focus on the creative, strategic, and relational work that humans do best.
 
@@ -49,7 +61,7 @@ We integrate AI thoughtfully into business operations, always with human experti
 
 **Result:** CoArt AI clients report up to 70% reduction in manual workload within the first 90 days.
 
-### 4. Digital Marketing
+### 5. Digital Marketing
 
 We build marketing strategies rooted in understanding real audiences, not just algorithms. Every campaign is shaped by human insight into what makes communities engage, what makes customers trust, and what makes brands stick in memory.
 
@@ -64,7 +76,7 @@ We build marketing strategies rooted in understanding real audiences, not just a
 ## Our Proven Process
 
 1. **Discover & Strategize** — We dive deep into your business, brand, and goals through real conversations with real people. Every strategy we craft is tailored to you.
-2. **Design & Create** — We turn strategy into creative work with human taste and judgement: brand identities, UI/UX designs, and content that captures your vision.
+2. **Design & Create** — We turn strategy into creative work with human taste and judgement: brand identities, UI/UX designs, video, photography, and content that captures your vision.
 3. **Build & Launch** — We bring your digital products to life with clean, scalable code and robust infrastructure, then launch with precision and care.
 4. **Grow & Optimise** — Launch is just the beginning. We continuously monitor, test, and optimise to maximise your growth and ROI over time.
 
@@ -80,7 +92,7 @@ We build marketing strategies rooted in understanding real audiences, not just a
 
 - Human-first agency: real designers, strategists, and developers behind every project
 - Awarded 2025's most innovative technology agency
-- End-to-end capabilities: branding, development, AI, and marketing under one roof
+- End-to-end capabilities: branding, content production, videography, photography, development, AI, and marketing under one roof
 - Data-driven approach with measurable ROI
 - Trusted by companies including Jaguar, Zendesk, and NovaTech
 
