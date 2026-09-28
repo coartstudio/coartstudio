@@ -14,6 +14,11 @@ interface SubService {
   description: string;
 }
 
+interface Guide {
+  title: string;
+  href: string;
+}
+
 interface ServiceData {
   id: string;
   name: string;
@@ -27,6 +32,7 @@ interface ServiceData {
   blurb: string;
   socialProof: string;
   subServices: SubService[];
+  guides: Guide[];
   bgImage: string;
   bgPosition?: string;
   bgSize?: string;
@@ -51,6 +57,10 @@ const services: ServiceData[] = [
     overlayFrom: "#0071BC",
     overlayTo: "#29ABE2",
     bgImage: serviceBgImages.web,
+    guides: [
+      { title: "How much does a website cost in Dubai?", href: "/blog/website-cost-dubai" },
+      { title: "How much does a mobile app cost in Dubai?", href: "/blog/mobile-app-development-cost-dubai" },
+    ],
     bgPosition: "right 85%",
     bgSize: "65%",
     blurb:
@@ -91,6 +101,10 @@ const services: ServiceData[] = [
     overlayFrom: "#B43C14",
     overlayTo: "#D27828",
     bgImage: serviceBgImages.branding,
+    guides: [
+      { title: "How much does branding cost in Dubai?", href: "/blog/branding-cost-dubai" },
+      { title: "Why does brand identity matter?", href: "/blog/brand-identity-why-it-matters" },
+    ],
     blurb:
       "We craft brand identities that make your business impossible to ignore and easy to trust, across every platform, touchpoint, and audience.",
     socialProof:
@@ -129,6 +143,10 @@ const services: ServiceData[] = [
     overlayFrom: "#C8A000",
     overlayTo: "#EAC028",
     bgImage: serviceBgImages.ai,
+    guides: [
+      { title: "What is GEO (AI search optimization)?", href: "/blog/geo-generative-engine-optimization-dubai" },
+      { title: "How much does AI consulting cost in Dubai?", href: "/blog/ai-consulting-cost-dubai" },
+    ],
     bgPosition: "right center",
     bgSize: "contain",
     blurb:
@@ -169,6 +187,10 @@ const services: ServiceData[] = [
     overlayFrom: "#EA580C",
     overlayTo: "#FB923C",
     bgImage: serviceBgImages.marketing,
+    guides: [
+      { title: "How much does content production cost in Dubai?", href: "/blog/social-media-content-production-cost-dubai" },
+      { title: "How to choose the right digital agency", href: "/blog/how-to-choose-a-digital-agency-for-your-startup" },
+    ],
     blurb:
       "We build and execute marketing strategies that attract the right audience, convert them into paying customers, and build the kind of brand loyalty that compounds over time.",
     socialProof:
@@ -196,6 +218,14 @@ const services: ServiceData[] = [
       },
     ],
   },
+];
+
+const pricingGuides: Guide[] = [
+  { title: "Content production", href: "/blog/social-media-content-production-cost-dubai" },
+  { title: "Branding", href: "/blog/branding-cost-dubai" },
+  { title: "Websites", href: "/blog/website-cost-dubai" },
+  { title: "Mobile apps", href: "/blog/mobile-app-development-cost-dubai" },
+  { title: "AI consulting", href: "/blog/ai-consulting-cost-dubai" },
 ];
 
 // ── Expanded service overlay ────────────────────────────────────────────────
@@ -325,6 +355,27 @@ function ServiceOverlay({
                 </p>
               </div>
             ))}
+          </div>
+
+          {/* Related guides from the blog */}
+          <div className="mb-6">
+            <p className="text-xs font-semibold uppercase tracking-widest text-gray-500 mb-2">
+              Helpful guides
+            </p>
+            <ul className="space-y-1.5">
+              {service.guides.map((guide) => (
+                <li key={guide.href}>
+                  <Link
+                    href={guide.href}
+                    className="inline-flex items-center gap-1.5 text-sm font-medium hover:underline"
+                    style={{ color: service.iconColor }}
+                  >
+                    {guide.title}
+                    <ArrowRight className="w-3.5 h-3.5" />
+                  </Link>
+                </li>
+              ))}
+            </ul>
           </div>
 
           {/* CTA */}
@@ -517,6 +568,19 @@ function Feature() {
                 />
               ))}
             </div>
+
+            {/* Crawlable guide links (the overlay links only render after a click) */}
+            <p className="text-sm text-gray-500 text-center leading-relaxed">
+              Pricing guides:{" "}
+              {pricingGuides.map((guide, i) => (
+                <span key={guide.href}>
+                  {i > 0 && <span className="mx-1.5 text-gray-300">·</span>}
+                  <Link href={guide.href} className="text-gray-600 underline-offset-4 hover:text-[#0071BC] hover:underline">
+                    {guide.title}
+                  </Link>
+                </span>
+              ))}
+            </p>
 
             {/* CTA inside the Services section */}
             <div className="flex justify-center pt-2">

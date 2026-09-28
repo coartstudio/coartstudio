@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import Image from 'next/image'
 import { posts } from '@/lib/posts'
+import { getPostAuthor, authorJsonLd } from '@/lib/authors'
 import { ArrowLeft } from 'lucide-react'
 
 function extractFaqs(html: string) {
@@ -40,7 +41,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       publishedTime: new Date(post.date).toISOString(),
       modifiedTime: new Date(post.date).toISOString(),
       section: post.category,
-      authors: ['CoArt Studio'],
+      authors: [getPostAuthor(post).name],
       images: [{ url: post.image, width: 800, height: 400, alt: post.title }],
     },
     twitter: {
@@ -57,6 +58,8 @@ export default async function BlogPost({ params }: Props) {
   const post = posts.find((p) => p.slug === slug)
   if (!post) notFound()
 
+  const author = getPostAuthor(post)
+
   const articleJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -68,12 +71,7 @@ export default async function BlogPost({ params }: Props) {
     articleSection: post.category,
     inLanguage: 'en',
     isPartOf: { '@id': 'https://www.coart.studio/#website' },
-    author: {
-      '@type': 'Organization',
-      '@id': 'https://www.coart.studio/#organization',
-      name: 'CoArt Studio',
-      url: 'https://www.coart.studio',
-    },
+    author: authorJsonLd(author),
     publisher: {
       '@type': 'Organization',
       '@id': 'https://www.coart.studio/#organization',
@@ -141,11 +139,18 @@ export default async function BlogPost({ params }: Props) {
           All articles
         </Link>
 
-        <div className="flex items-center gap-3 text-sm text-gray-500 mb-4">
+        <div className="flex flex-wrap items-center gap-3 text-sm text-gray-500 mb-4">
           <span className="px-3 py-1 text-xs font-semibold rounded-full bg-gray-100 text-gray-700">
             {post.category}
           </span>
           <span>{post.date}</span>
+          <span className="w-1 h-1 rounded-full bg-gray-300" />
+          <span>
+            By{' '}
+            <Link href={`/authors/${author.slug}`} className="font-medium text-gray-700 hover:text-[#0071BC] transition-colors">
+              {author.name}
+            </Link>
+          </span>
           <span className="w-1 h-1 rounded-full bg-gray-300" />
           <span>{post.readTime}</span>
         </div>
@@ -177,7 +182,21 @@ export default async function BlogPost({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: post.content }}
         />
 
-        <div className="mt-16 pt-8 border-t border-gray-100">
+        <div className="mt-12 flex items-start gap-4 rounded-2xl bg-gray-50 p-5 md:p-6">
+          <div className="w-12 h-12 shrink-0 rounded-full flex items-center justify-center text-white font-semibold" style={{ background: 'linear-gradient(135deg, #0071BC, #29ABE2)' }}>
+            {author.name.split(' ').map((n) => n[0]).join('')}
+          </div>
+          <div>
+            <p className="text-xs uppercase tracking-widest text-gray-500 mb-1">Written by</p>
+            <Link href={`/authors/${author.slug}`} className="font-semibold text-gray-900 hover:text-[#0071BC] transition-colors">
+              {author.name}
+            </Link>
+            <p className="text-sm text-gray-500 mb-2">{author.jobTitle}</p>
+            <p className="text-sm text-gray-600 leading-relaxed">{author.bio}</p>
+          </div>
+        </div>
+
+        <div className="mt-12 pt-8 border-t border-gray-100">
           <div className="flex items-center justify-between">
             <Link
               href="/blog"
