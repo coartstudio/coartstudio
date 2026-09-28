@@ -18,6 +18,7 @@ interface GalleryItem {
   summary: string;
   url: string;
   image?: string;
+  video?: string;
   isPlaceholder?: boolean;
   category?: string;
   before: string;
@@ -42,6 +43,16 @@ const defaultItems: GalleryItem[] = [
       "The Boki team was managing content operations manually across disconnected platforms, losing hours weekly to scheduling, tracking, and creator coordination with no scalable system in sight.",
     after:
       "CoArt delivered a fully operational AI-powered SaaS platform that automated Boki's core content workflows, cutting operational time by 60% and positioning the product as investor-ready within 4 months of launch.",
+  },
+  {
+    id: "item-content",
+    title: "Content Production",
+    summary: "Created by humans, not AI",
+    video: "/portfilo/content-production.mp4",
+    url: "#",
+    category: "Content",
+    before: "",
+    after: "",
   },
   {
     id: "item-2",
@@ -152,9 +163,18 @@ function PortfolioModal({
         }}
         onClick={(e) => e.stopPropagation()}
       >
-        {/* Hero image or placeholder */}
+        {/* Hero image, video, or placeholder */}
         <div className="relative h-52 overflow-hidden rounded-t-3xl shrink-0">
-          {item.isPlaceholder ? (
+          {item.video ? (
+            <video
+              src={item.video}
+              autoPlay
+              loop
+              muted
+              playsInline
+              className="h-full w-full object-cover object-center"
+            />
+          ) : item.isPlaceholder ? (
             <div
               className="h-full w-full flex flex-col items-center justify-center gap-3"
               style={{
@@ -421,13 +441,27 @@ const Gallery6 = ({
           <CarouselContent className="-mr-4 ml-8 2xl:ml-[max(8rem,calc(50vw-700px+1rem))] 2xl:mr-[max(0rem,calc(50vw-700px-1rem))]">
             {items.map((item) => (
               <CarouselItem key={item.id} className="pl-4 md:max-w-[452px]">
-                <button
+                <div
                   className="group flex flex-col justify-between w-full text-left cursor-pointer"
+                  role="button"
+                  tabIndex={0}
                   onClick={() => setSelectedItem(item)}
+                  onKeyDown={(e) => e.key === "Enter" && setSelectedItem(item)}
                 >
                   <div>
                     <div className="flex aspect-[3/2] overflow-clip rounded-2xl relative">
-                      {item.isPlaceholder ? (
+                      {item.video ? (
+                        <div className="flex-1 relative bg-black">
+                          <video
+                            src={item.video}
+                            autoPlay
+                            loop
+                            muted
+                            playsInline
+                            className="h-full w-full object-cover object-center"
+                          />
+                        </div>
+                      ) : item.isPlaceholder ? (
                         <div
                           className="flex-1 flex flex-col items-center justify-center gap-3"
                           style={{
@@ -486,7 +520,7 @@ const Gallery6 = ({
                   <div className="mb-8 line-clamp-2 text-sm text-muted-foreground md:mb-12 md:text-base lg:mb-9">
                     {item.summary}
                   </div>
-                </button>
+                </div>
               </CarouselItem>
             ))}
           </CarouselContent>

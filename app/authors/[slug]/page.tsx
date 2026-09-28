@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { ArrowRight } from 'lucide-react'
 import { posts } from '@/lib/posts'
 import { authors, getPostAuthor, authorJsonLd, authorUrl } from '@/lib/authors'
+import { AuthorAvatar } from '@/components/ui/author-avatar'
 
 type Props = { params: Promise<{ slug: string }> }
 
@@ -64,12 +65,7 @@ export default async function AuthorPage({ params }: Props) {
         </Link>
 
         <div className="flex items-center gap-5 mb-6">
-          <div
-            className="w-16 h-16 shrink-0 rounded-full flex items-center justify-center text-white text-xl font-semibold"
-            style={{ background: 'linear-gradient(135deg, #0071BC, #29ABE2)' }}
-          >
-            {author.name.split(' ').map((n) => n[0]).join('')}
-          </div>
+          <AuthorAvatar author={author} size={96} />
           <div>
             <h1 className="text-3xl md:text-4xl font-bold text-gray-900">{author.name}</h1>
             <p className="text-gray-500">{author.jobTitle}</p>

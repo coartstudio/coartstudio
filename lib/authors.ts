@@ -5,6 +5,7 @@ export type Author = {
   name: string
   jobTitle: string
   bio: string
+  image: string
 }
 
 export const authors: Record<string, Author> = {
@@ -12,13 +13,15 @@ export const authors: Record<string, Author> = {
     slug: 'gerald-tony',
     name: 'Gerald Tony',
     jobTitle: 'Founder, CoArt Studio',
-    bio: 'Gerald Tony is the founder of CoArt Studio, a human-first digital agency in Dubai, and writes about branding, web and app development, AI, and growing a business in the UAE.',
+    bio: 'Gerald Tony is the founder of CoArt Studio, a human-first digital agency in Dubai. He has 17+ years of industry experience and has launched more than 10 brands and businesses. He writes about branding, web and app development, AI, and growing a business in the UAE.',
+    image: '/authors/gerald-tony.jpg',
   },
   'hannah-finch': {
     slug: 'hannah-finch',
     name: 'Hannah Finch',
     jobTitle: 'Head of Content, CoArt Studio',
-    bio: 'Hannah Finch is Head of Content at CoArt Studio in Dubai, writing about social media, content production, and digital marketing for brands in the UAE.',
+    bio: 'Hannah Finch is Head of Content at CoArt Studio in Dubai and has worked in content since 2020. She writes about social media, content production, and digital marketing for brands in the UAE.',
+    image: '/authors/hannah-finch.jpg',
   },
 }
 
@@ -40,6 +43,7 @@ export function authorJsonLd(author: Author) {
     name: author.name,
     jobTitle: author.jobTitle.split(',')[0],
     url: authorUrl(author),
+    image: `https://www.coart.studio${author.image}`,
     worksFor: { '@id': 'https://www.coart.studio/#organization' },
   }
 }

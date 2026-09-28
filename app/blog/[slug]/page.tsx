@@ -4,6 +4,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { posts } from '@/lib/posts'
 import { getPostAuthor, authorJsonLd } from '@/lib/authors'
+import { AuthorAvatar } from '@/components/ui/author-avatar'
 import { ArrowLeft } from 'lucide-react'
 
 function extractFaqs(html: string) {
@@ -183,9 +184,7 @@ export default async function BlogPost({ params }: Props) {
         />
 
         <div className="mt-12 flex items-start gap-4 rounded-2xl bg-gray-50 p-5 md:p-6">
-          <div className="w-12 h-12 shrink-0 rounded-full flex items-center justify-center text-white font-semibold" style={{ background: 'linear-gradient(135deg, #0071BC, #29ABE2)' }}>
-            {author.name.split(' ').map((n) => n[0]).join('')}
-          </div>
+          <AuthorAvatar author={author} size={56} />
           <div>
             <p className="text-xs uppercase tracking-widest text-gray-500 mb-1">Written by</p>
             <Link href={`/authors/${author.slug}`} className="font-semibold text-gray-900 hover:text-[#0071BC] transition-colors">
