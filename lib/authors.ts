@@ -6,6 +6,7 @@ export type Author = {
   jobTitle: string
   bio: string
   image: string
+  linkedin?: string
 }
 
 export const authors: Record<string, Author> = {
@@ -15,6 +16,7 @@ export const authors: Record<string, Author> = {
     jobTitle: 'Founder, CoArt Studio',
     bio: 'Gerald Tony is the founder of CoArt Studio, a human-first digital agency in Dubai. He has 17+ years of industry experience and has launched more than 10 brands and businesses. He writes about branding, web and app development, AI, and growing a business in the UAE.',
     image: '/authors/gerald-tony.jpg',
+    linkedin: 'https://www.linkedin.com/in/gerald-tony/',
   },
   'hannah-finch': {
     slug: 'hannah-finch',
@@ -45,5 +47,6 @@ export function authorJsonLd(author: Author) {
     url: authorUrl(author),
     image: `https://www.coart.studio${author.image}`,
     worksFor: { '@id': 'https://www.coart.studio/#organization' },
+    ...(author.linkedin && { sameAs: [author.linkedin] }),
   }
 }

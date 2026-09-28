@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
-import { ArrowRight } from 'lucide-react'
+import { ArrowRight, Linkedin } from 'lucide-react'
 import { posts } from '@/lib/posts'
 import { authors, getPostAuthor, authorJsonLd, authorUrl } from '@/lib/authors'
 import { AuthorAvatar } from '@/components/ui/author-avatar'
@@ -69,6 +69,17 @@ export default async function AuthorPage({ params }: Props) {
           <div>
             <h1 className="text-3xl md:text-4xl font-bold text-gray-900">{author.name}</h1>
             <p className="text-gray-500">{author.jobTitle}</p>
+            {author.linkedin && (
+              <a
+                href={author.linkedin}
+                target="_blank"
+                rel="me noopener noreferrer"
+                className="inline-flex items-center gap-1.5 mt-1 text-sm font-medium text-[#0071BC] hover:underline"
+              >
+                <Linkedin className="w-4 h-4" />
+                LinkedIn
+              </a>
+            )}
           </div>
         </div>
         <p className="text-lg text-gray-600 leading-relaxed mb-12">{author.bio}</p>
