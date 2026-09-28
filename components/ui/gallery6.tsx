@@ -33,6 +33,18 @@ interface Gallery6Props {
 
 const defaultItems: GalleryItem[] = [
   {
+    id: "item-content",
+    title: "Content Production",
+    summary: "Created by humans, not AI",
+    video: "/portfilo/content-production.mp4",
+    url: "#",
+    category: "Content",
+    before:
+      "The client wanted an ad that felt nothing like AI slop. Something raw, real, and cinematic that his audience would actually feel and connect with, not another templated edit that blends into the feed.",
+    after:
+      "CoArt's team organized a full-scale desert shoot with speeding cars, helicopters, and flying cameras to capture something audiences could feel in their chest. The result was a piece of content that looked nothing like an ad and everything like a moment.",
+  },
+  {
     id: "item-1",
     title: "Boki",
     summary: "AI-powered SaaS platform for content marketing operations",
@@ -45,16 +57,6 @@ const defaultItems: GalleryItem[] = [
       "CoArt delivered a fully operational AI-powered SaaS platform that automated Boki's core content workflows, cutting operational time by 60% and positioning the product as investor-ready within 4 months of launch.",
   },
   {
-    id: "item-content",
-    title: "Content Production",
-    summary: "Created by humans, not AI",
-    video: "/portfilo/content-production.mp4",
-    url: "#",
-    category: "Content",
-    before: "",
-    after: "",
-  },
-  {
     id: "item-2",
     title: "Solu",
     summary: "Women's wellness mobile app from concept to App Store",
@@ -65,18 +67,6 @@ const defaultItems: GalleryItem[] = [
       "Solu's founder had a clear vision for a women's wellness platform but no technical partner, no unified design language, and no roadmap from idea to a live product on the App Store.",
     after:
       "CoArt took Solu from zero to a polished, published mobile app, complete with brand identity, UX design, and a fully built product, reaching 1,000 downloads within its first month.",
-  },
-  {
-    id: "item-3",
-    title: "Ryla AI",
-    summary: "AI platform enabling fitness coaches to scale their client base",
-    image: "/portfilo/ryla.jpeg",
-    url: "#",
-    category: "AI / Mobile App",
-    before:
-      "Fitness coaches were juggling client programs across spreadsheets, WhatsApp threads, and memory, with no scalable system to track progress or grow their roster beyond a handful of clients.",
-    after:
-      "CoArt built Ryla AI: a branded, intelligent platform that gave coaches the infrastructure to manage 3x more clients with significantly less admin. Early adopters reported a 40% increase in client retention within the first 3 months.",
   },
   {
     id: "item-4",
@@ -104,9 +94,9 @@ const defaultItems: GalleryItem[] = [
   },
   {
     id: "item-6",
-    title: "Dubai Retail & F&B Brand",
+    title: "Dubai F&B Business",
     summary: "AI search optimization for a boutique retail and dining brand",
-    isPlaceholder: true,
+    video: "/portfilo/dubai-fnb.mp4",
     url: "#",
     category: "AI Search Optimization",
     before:
@@ -167,6 +157,7 @@ function PortfolioModal({
         <div className="relative h-52 overflow-hidden rounded-t-3xl shrink-0">
           {item.video ? (
             <video
+              ref={(el) => { if (el) el.play().catch(() => {}); }}
               src={item.video}
               autoPlay
               loop
@@ -276,6 +267,22 @@ function PortfolioModal({
               </p>
             </div>
           </div>
+
+          {/* View full portfolio CTA */}
+          <div className="flex justify-center pt-6">
+            <a
+              href="https://coart2018.wixsite.com/digitaldesigncontent"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-6 py-3 rounded-full text-white text-sm font-semibold animate-pulse-glow transition-all hover:opacity-90 hover:scale-105 active:scale-95"
+              style={{
+                background: "linear-gradient(135deg, #0071BC 0%, #29ABE2 100%)",
+              }}
+            >
+              View full portfolio
+              <ArrowUpRight className="size-4" />
+            </a>
+          </div>
         </div>
       </motion.div>
     </motion.div>
@@ -296,12 +303,15 @@ const Gallery6 = ({
   const resumeTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const carouselRef = useRef<HTMLDivElement>(null);
 
-  // Pause auto-scroll on any user interaction, resume 3s after settle
+  // Pause auto-scroll on any user interaction, return to start when resuming
   const pauseAutoScroll = useCallback(() => {
     setIsUserScrolling(true);
     if (resumeTimerRef.current) clearTimeout(resumeTimerRef.current);
-    resumeTimerRef.current = setTimeout(() => setIsUserScrolling(false), 3000);
-  }, []);
+    resumeTimerRef.current = setTimeout(() => {
+      carouselApi?.scrollTo(0);
+      setIsUserScrolling(false);
+    }, 3000);
+  }, [carouselApi]);
 
   // Track scroll buttons state
   useEffect(() => {
@@ -314,9 +324,11 @@ const Gallery6 = ({
     carouselApi.on("select", updateSelection);
     carouselApi.on("pointerDown", pauseAutoScroll);
     carouselApi.on("settle", () => {
-      // After settle, start the 3s countdown to resume
       if (resumeTimerRef.current) clearTimeout(resumeTimerRef.current);
-      resumeTimerRef.current = setTimeout(() => setIsUserScrolling(false), 3000);
+      resumeTimerRef.current = setTimeout(() => {
+        carouselApi?.scrollTo(0);
+        setIsUserScrolling(false);
+      }, 3000);
     });
     return () => {
       carouselApi.off("select", updateSelection);
@@ -435,7 +447,7 @@ const Gallery6 = ({
       <div className="w-full" ref={carouselRef}>
         <Carousel
           setApi={setCarouselApi}
-          opts={{ loop: true, dragFree: true }}
+          opts={{ loop: true, dragFree: true, startIndex: 0 }}
           className="relative left-[-1rem]"
         >
           <CarouselContent className="-mr-4 ml-8 2xl:ml-[max(8rem,calc(50vw-700px+1rem))] 2xl:mr-[max(0rem,calc(50vw-700px-1rem))]">
@@ -453,6 +465,7 @@ const Gallery6 = ({
                       {item.video ? (
                         <div className="flex-1 relative bg-black">
                           <video
+                            ref={(el) => { if (el) el.play().catch(() => {}); }}
                             src={item.video}
                             autoPlay
                             loop
