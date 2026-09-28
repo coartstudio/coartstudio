@@ -603,4 +603,115 @@ export const posts: Post[] = [
 </ul>
     `.trim(),
   },
+  {
+    slug: "social-media-content-production-cost-dubai",
+    title: "How Much Does Social Media Content Production Cost in Dubai?",
+    excerpt: "Social media content production in Dubai costs AED 1,500-6,000 per Reel, AED 7,000-20,000 per shoot day and AED 8,000-35,000 a month on a UAE retainer.",
+    date: "September 28, 2026",
+    category: "Digital Marketing",
+    image: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&q=85",
+    readTime: "10 min read",
+    content: `
+<p>Social media content production in Dubai typically costs AED 1,500 to AED 6,000 per finished Reel, AED 7,000 to AED 20,000 per shoot day, and AED 8,000 to AED 35,000 per month for a content retainer. Prices in the UAE rise with creative direction, crew size, on-camera talent, location permits, and Arabic plus English versions.</p>
+
+<h2>Why Are UAE Brands Spending More on Short-Form Video Content?</h2>
+<p>UAE brands spend more on short-form video because the audience is almost entirely on social platforms and short video drives the strongest marketing returns. DataReportal counted 12.5 million social media user identities in the UAE in October 2025, equal to 110 percent of the population, and HubSpot reports that short-form video is marketers' top ROI format.</p>
+<p>The detail behind those numbers matters for budgeting. According to <a href="https://datareportal.com/reports/digital-2026-united-arab-emirates" target="_blank" rel="noopener noreferrer">DataReportal's Digital 2026 report for the UAE</a>, TikTok ads reached 134.6 percent of adults aged 18 and over at the end of 2025. The same report puts YouTube's ad reach at 73.3 percent of the total population and Instagram's at 70.5 percent. Reach above 100 percent reflects duplicate and business accounts, but the signal is clear: TikTok, Instagram Reels, and YouTube Shorts are where UAE attention sits.</p>
+<p>Marketers are following that attention. <a href="https://www.hubspot.com/marketing-statistics" target="_blank" rel="noopener noreferrer">HubSpot's 2026 marketing statistics</a> show 49 percent of marketers name short-form video as their top ROI-driving format, ahead of long-form video at 29 percent. Dubai's own policy direction points the same way. The <a href="https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/finance-and-economy/dubai-creative-economy-strategy" target="_blank" rel="noopener noreferrer">Dubai Creative Economy Strategy</a> set out to double the emirate's creators from 70,000 in 2020 to 140,000, which means more supply of crews, editors, and studios, and more competition for attention.</p>
+
+<h2>What Does Social Media Content Production Include?</h2>
+<p>Social media content production is the planning, filming, photography, and editing that turn a brand's message into posts, Reels, TikToks, and Stories. A complete service covers concept and scripting, shoot planning, on-set creative direction, filming and photography, editing, captions and subtitles, and delivery in platform-ready formats. Posting and community management are usually a separate service.</p>
+<p>Understanding the stages helps when comparing quotes, because two studios can quote very different prices for what looks like the same deliverable. A typical production pipeline has six stages:</p>
+<ol>
+  <li><strong>Strategy and concepts:</strong> content pillars, hooks, and formats matched to the brand and audience.</li>
+  <li><strong>Scripting and shot lists:</strong> the opening line, the sequence of shots, and the call to action for each video.</li>
+  <li><strong>Pre-production:</strong> locations, permits, talent, props, wardrobe, and the shoot schedule.</li>
+  <li><strong>Shoot day:</strong> video and photo capture with a director, camera operator, and often a photographer.</li>
+  <li><strong>Post-production:</strong> editing, colour grading, sound, motion graphics, and on-screen text.</li>
+  <li><strong>Versioning and delivery:</strong> vertical and square cuts, Arabic and English subtitles, and cover images.</li>
+</ol>
+<p>Social media management, meaning publishing, replying to comments, and reporting, is priced separately in most Dubai proposals. Buyers should check which of the two a quote actually covers.</p>
+
+<h2>How Much Does a Single Reel, Shoot Day, or Photoshoot Cost in Dubai?</h2>
+<p>A single branded Reel in Dubai typically costs AED 1,500 to AED 6,000 including concept, filming, and editing, while editing supplied footage costs AED 300 to AED 1,200 per video. A half-day shoot usually runs AED 3,500 to AED 9,000, and a full shoot day with video and photo coverage runs AED 7,000 to AED 20,000.</p>
+<p>The ranges below are typical Dubai market estimates for professional studio work, excluding VAT, talent fees, and paid location fees:</p>
+<ul>
+  <li><strong>Editing only (client-supplied footage):</strong> AED 300 to AED 1,200 per short video.</li>
+  <li><strong>Single branded Reel or TikTok, end to end:</strong> AED 1,500 to AED 6,000.</li>
+  <li><strong>Half-day shoot, small crew:</strong> AED 3,500 to AED 9,000.</li>
+  <li><strong>Full shoot day, video plus photo selects:</strong> AED 7,000 to AED 20,000.</li>
+  <li><strong>Batch of 4 to 8 short videos from one shoot:</strong> AED 8,000 to AED 25,000.</li>
+  <li><strong>Product photography on a plain background:</strong> AED 150 to AED 600 per final image.</li>
+  <li><strong>Lifestyle or brand photoshoot, half day:</strong> AED 4,000 to AED 12,000.</li>
+  <li><strong>Multi-location campaign shoot with talent:</strong> AED 25,000 to AED 60,000 or more.</li>
+</ul>
+<p>Batching is the main lever on unit cost. A single Reel carries the full cost of planning, crew call time, and travel. Spreading that fixed cost across six or eight videos from one shoot day often halves the price per video. Content production also sits on top of a brand's visual identity, so businesses without clear brand guidelines should factor in <a href="/blog/branding-cost-dubai">how much branding costs in Dubai</a> before commissioning a large shoot.</p>
+
+<h2>How Much Does a Monthly Content Retainer Cost in the UAE?</h2>
+<p>A monthly content retainer in the UAE typically costs AED 8,000 to AED 15,000 for around eight short videos with photo selects, and AED 15,000 to AED 35,000 for 12 to 16 Reels per month. Full-service retainers that add strategy, bilingual versions, community management, and reporting usually start around AED 35,000 per month in Dubai.</p>
+<p>A content retainer is a fixed monthly fee for a set volume of planned content, usually produced in one or two shoot days per month. Retainers suit brands that need a steady posting rhythm, because the studio learns the brand, reuses locations and talent, and plans content a month ahead.</p>
+<p>Retainer pricing usually scales with four variables: the number of finished videos, the number of shoot days, whether photography is included, and whether the studio also publishes and manages the accounts. Minimum terms of three to six months are common in Dubai. Three months is the practical minimum for judging performance, because platforms such as Instagram and TikTok need several weeks of consistent posting before reach patterns become readable.</p>
+
+<h2>What Drives the Price of Content Production in Dubai?</h2>
+<p>Content production prices in Dubai are driven mainly by creative direction and scripting time, crew size, on-camera talent, locations and permits, post-production depth, and language versions. A one-person crew filming on a phone costs a fraction of a directed shoot with a camera operator, photographer, and editor, and the difference usually shows in retention and brand consistency.</p>
+<p>Each factor adds cost in a predictable way:</p>
+<ul>
+  <li><strong>Creative direction:</strong> a strategist or director who writes hooks and runs the set adds cost but lifts the value of every video shot that day.</li>
+  <li><strong>Crew size:</strong> each additional camera operator, photographer, or assistant adds a day rate.</li>
+  <li><strong>Talent:</strong> models, presenters, and actors are paid per day, and usage rights for paid ads often cost extra.</li>
+  <li><strong>Locations:</strong> hotels, malls, and private venues in Dubai may charge location fees on top of permit costs.</li>
+  <li><strong>Post-production:</strong> colour grading, motion graphics, and sound design add editing hours per video.</li>
+  <li><strong>Arabic and English versions:</strong> bilingual subtitles, voiceovers, or re-shot lines typically add 15 to 30 percent.</li>
+</ul>
+<p>Cheap short-form content often underperforms for reasons unrelated to camera quality. The usual causes are weak hooks in the first two seconds, no content strategy behind the posts, and inconsistent visual identity. The link between consistent identity and audience trust is covered in <a href="/blog/brand-identity-why-it-matters">why brand identity matters and when to invest in it</a>.</p>
+
+<h2>Do Dubai Content Shoots Need Filming or Advertiser Permits?</h2>
+<p>Commercial shoots in public locations in Dubai generally need a filming permit through a licensed UAE production house, with a non-refundable application fee of AED 520. Separately, since 1 February 2026 individuals publishing promotional content from the UAE, including influencers and on-camera creators, need a UAE Media Council Advertiser Permit.</p>
+<p>On filming, <a href="https://www.khaleejtimes.com/life-and-living/dubai-how-to-apply-for-filming-permit-rules-fines-process-explained" target="_blank" rel="noopener noreferrer">Khaleej Times' guide to Dubai filming permits</a> explains that productions must work through a licensed UAE-based production house. It lists the AED 520 application fee, location fees of up to AED 25,000 per day for private sites, and fines of AED 25,000 for filming without permission. Script approvals can take up to 25 business days, so permit timelines belong in the production plan, not the week of the shoot.</p>
+<p>On advertising, the requirement sits under Federal Decree-Law No. 55 of 2023 on media regulation. Two independent sources confirm the fee structure. The <a href="https://www.nma.gov.ae/en/services/permit-for-an-individual-to-provide-advertising-or-media-content-on-social-media-and-other-digital-platforms" target="_blank" rel="noopener noreferrer">National Media Authority's service page</a> lists the individual advertising permit as free for the first three years, then AED 1,000. <a href="https://www.middleeastbriefing.com/news/uae-influencers-must-obtain-advertiser-permit-under-new-media-law/" target="_blank" rel="noopener noreferrer">Middle East Briefing</a> reports the same three-year free period and the 1 February 2026 start date. Brands booking creators or presenters should confirm permits before sponsored content goes live. This is general information, not legal advice.</p>
+
+<h2>Is Polished Brand Production or Creator-Style Content Better Value?</h2>
+<p>Polished brand production is better value for launches, brand films, hero campaigns, and content that must last months, while creator-style content is better value for fast-moving trends and paid social testing. Most Dubai brands get the best results from a mix, with a directed shoot day producing both polished assets and looser, phone-native clips.</p>
+<p>Creator-style content, often called UGC, meaning user-generated-style video filmed to look native to the feed, is cheaper per video and fast to produce. It works well for ads that need many variations. Its weakness is consistency: dozens of creators produce dozens of different brand impressions. Polished production costs more per asset but builds recognisable visual identity, which compounds over time.</p>
+<p>Episodic formats are an emerging third option in 2026. Micro-dramas and recurring series, such as a weekly behind-the-scenes episode or a character-led mini story, give audiences a reason to follow rather than scroll past. They need scripting and continuity, which makes them a strong fit for retainers.</p>
+<p>AI tools now handle useful production tasks: auto-captions, rough cuts, resizing for each platform, and translation drafts. They do not replace creative direction. Fully AI-generated filler tends to look generic, and audiences in a market as saturated as Dubai scroll past it. The strongest workflow uses AI for speed and people for ideas, taste, and on-set judgement.</p>
+
+<h2>Should a Dubai Business Book a One-Off Shoot or a Monthly Retainer?</h2>
+<p>A Dubai business should book a one-off shoot for a launch, a campaign, or a photo library refresh, and a monthly retainer when it needs to post short-form video several times a week. One-off shoots have higher per-video costs but no commitment, while retainers lower unit costs and improve quality through accumulated brand knowledge.</p>
+<p>In CoArt Studio's work with Dubai brands, the most common mistake is booking a shoot before the hooks and scripts are written. The crew arrives, footage is captured, and the edit then struggles to find a story. Businesses that spend the week before the shoot agreeing concepts, opening lines, and a shot list get far more usable content from the same day. The results can be measurable: for one Dubai hospitality and F&B client, content produced by <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> reached nearly 215,000 Instagram views in 90 days, with 51 percent of views coming from non-followers.</p>
+<p>A well-planned shoot day can supply a month of content. A practical sequence looks like this:</p>
+<ol>
+  <li>Agree three or four content pillars, such as product, people, behind the scenes, and customer questions.</li>
+  <li>Write 8 to 12 hooks and scripts across those pillars before booking the crew.</li>
+  <li>Group scenes by location and wardrobe so the crew moves as little as possible.</li>
+  <li>Capture photo selects between video setups rather than booking a separate photoshoot.</li>
+  <li>Film extra b-roll, meaning supporting footage without dialogue, for future edits and ads.</li>
+  <li>Schedule the edits across four weeks, with bilingual versions where the audience needs them.</li>
+</ol>
+
+<h2>What Should You Ask a Content Studio Before Booking?</h2>
+<p>Before booking a Dubai content studio, ask who owns the usage rights, whether raw files are included, how many revision rounds the fee covers, the turnaround per video, and who handles permits and talent. Clear answers to these five questions prevent most disputes and hidden costs in UAE content production projects.</p>
+<p>A short checklist for comparing proposals:</p>
+<ul>
+  <li><strong>Usage rights:</strong> can the content run in paid ads, on websites, and in other markets, and for how long?</li>
+  <li><strong>Raw files:</strong> are unedited clips and full-resolution photos delivered, or only final edits?</li>
+  <li><strong>Revisions:</strong> how many rounds are included, and what does an extra round cost?</li>
+  <li><strong>Turnaround:</strong> how many working days from shoot to first edit?</li>
+  <li><strong>Permits and talent:</strong> who secures filming permits, and are on-camera creators permitted to advertise?</li>
+  <li><strong>Strategy:</strong> who writes the hooks and scripts, and how is performance reviewed each month?</li>
+</ul>
+<p>Red flags include a price per video with no mention of scripting, no portfolio of short-form work in the brand's sector, and unclear ownership of footage. Broader criteria for vetting creative partners are covered in <a href="/blog/how-to-choose-a-digital-agency-for-your-startup">how to choose the right digital agency for your startup</a>.</p>
+
+<h2>How Can a Dubai Brand Get a Content Production Quote?</h2>
+<p>A Dubai brand gets the most accurate content production quote by sharing its goals, target platforms, posting frequency, languages, and any existing brand guidelines before a studio prices the work. A short discovery call usually clarifies whether a one-off shoot, a batch, or a monthly retainer fits the budget and the audience.</p>
+<p>At <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a>, real strategists, directors, photographers, and editors plan and shoot every piece of content in Dubai, using AI as a tool for speed, never as a substitute for creative judgement. Content can be delivered in English and Arabic. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to get a content plan and a clear AED quote for your brand.</p>
+
+<h2>Related Reading</h2>
+<ul>
+  <li><a href="/blog/branding-cost-dubai">How much does branding cost in Dubai?</a></li>
+  <li><a href="/blog/geo-generative-engine-optimization-dubai">What is GEO and why your Dubai business needs it</a></li>
+  <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
+</ul>
+    `.trim(),
+  },
 ]
