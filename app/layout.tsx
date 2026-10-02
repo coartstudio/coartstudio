@@ -110,7 +110,10 @@ export default function RootLayout({
                     '@type': 'ImageObject',
                     url: 'https://www.coart.studio/coart-logo.png',
                   },
-                  sameAs: ['https://www.instagram.com/coartstudio'],
+                  sameAs: [
+                    'https://www.instagram.com/coartstudio',
+                    'https://www.linkedin.com/company/coart-studio',
+                  ],
                   knowsAbout: [
                     'Social media management',
                     'Social media content production',
