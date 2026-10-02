@@ -189,6 +189,7 @@ const services: ServiceData[] = [
     bgImage: serviceBgImages.marketing,
     guides: [
       { title: "How much does content production cost in Dubai?", href: "/blog/social-media-content-production-cost-dubai" },
+      { title: "How much does social media management cost in Dubai?", href: "/blog/social-media-management-cost-dubai" },
       { title: "How to choose the right digital agency", href: "/blog/how-to-choose-a-digital-agency-for-your-startup" },
     ],
     blurb:
@@ -222,6 +223,7 @@ const services: ServiceData[] = [
 
 const pricingGuides: Guide[] = [
   { title: "Content production", href: "/blog/social-media-content-production-cost-dubai" },
+  { title: "Social media management", href: "/blog/social-media-management-cost-dubai" },
   { title: "Branding", href: "/blog/branding-cost-dubai" },
   { title: "Websites", href: "/blog/website-cost-dubai" },
   { title: "Mobile apps", href: "/blog/mobile-app-development-cost-dubai" },

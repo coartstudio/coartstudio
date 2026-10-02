@@ -3,6 +3,8 @@ export type Post = {
   title: string
   excerpt: string
   date: string
+  // Date of the last substantive revision; drives dateModified and sitemap lastModified
+  updated?: string
   category: string
   image: string
   readTime: string
@@ -88,6 +90,7 @@ export const posts: Post[] = [
     title: "How Can AI Automation Help My Small Business Save Time and Money?",
     excerpt: "AI automation isn't just for enterprise companies anymore. Here's a practical breakdown of where AI creates the most impact for small businesses — from lead generation to workflow automation — with real numbers on time and cost savings.",
     date: "September 14, 2026",
+    updated: "October 1, 2026",
     category: "AI & Technology",
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=85",
     readTime: "7 min read",
@@ -153,6 +156,7 @@ export const posts: Post[] = [
     title: "Why Does Brand Identity Matter and When Should You Invest in It?",
     excerpt: "Your brand identity is far more than a logo. It's the system of visual and strategic elements that determines whether people trust you, remember you, and choose you over alternatives. Here's when and why to invest in it properly.",
     date: "September 12, 2026",
+    updated: "October 1, 2026",
     category: "Branding",
     image: "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=85",
     readTime: "5 min read",
@@ -228,6 +232,7 @@ export const posts: Post[] = [
     title: "How Much Does It Cost to Build a Mobile App in Dubai?",
     excerpt: "Mobile app development in Dubai costs between AED 18,000 and AED 1,470,000. This guide breaks down pricing by app type, platform, and feature complexity with real 2026 market data.",
     date: "September 16, 2026",
+    updated: "October 1, 2026",
     category: "Web & Mobile Apps",
     image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=85",
     readTime: "8 min read",
@@ -285,6 +290,7 @@ export const posts: Post[] = [
     title: "How Much Does Branding Cost in Dubai? (2026 Guide)",
     excerpt: "Branding in Dubai costs between AED 5,000 and AED 500,000 depending on scope. This guide breaks down pricing for logo design, full brand identity, and rebranding projects in the UAE market.",
     date: "September 16, 2026",
+    updated: "October 1, 2026",
     category: "Branding",
     image: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=85",
     readTime: "7 min read",
@@ -339,6 +345,7 @@ export const posts: Post[] = [
     title: "How Much Does a Website Cost in Dubai?",
     excerpt: "A professional website in Dubai costs between AED 1,500 and AED 185,000+. This guide breaks down pricing by website type with real 2026 data from the UAE market.",
     date: "September 16, 2026",
+    updated: "October 1, 2026",
     category: "Web & Mobile Apps",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=85",
     readTime: "7 min read",
@@ -397,6 +404,7 @@ export const posts: Post[] = [
     title: "How Much Does AI Consulting Cost in Dubai?",
     excerpt: "AI consulting in Dubai costs between AED 25,000 and AED 1,470,000 per project. This guide covers pricing for AI strategy, workflow automation, and custom AI development in the UAE.",
     date: "September 16, 2026",
+    updated: "October 1, 2026",
     category: "AI & Technology",
     image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=85",
     readTime: "8 min read",
@@ -448,6 +456,7 @@ export const posts: Post[] = [
     title: "What Is GEO (Generative Engine Optimization) and Why Your Dubai Business Needs It",
     excerpt: "GEO is the practice of optimizing your business to appear in AI search results from ChatGPT, Gemini, and Perplexity. Here's why it matters for Dubai businesses and how to start.",
     date: "September 16, 2026",
+    updated: "October 1, 2026",
     category: "AI & Technology",
     image: "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=85",
     readTime: "8 min read",
@@ -561,6 +570,7 @@ export const posts: Post[] = [
     title: "What Is Agentic Commerce and Is Your Dubai Online Store Ready for AI Shopping Agents?",
     excerpt: "Agentic commerce lets AI agents compare and buy for shoppers. See what makes a Dubai online store agent-ready, from structured data to brand trust and AED costs.",
     date: "September 21, 2026",
+    updated: "October 1, 2026",
     category: "Web & Mobile Apps",
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=85",
     readTime: "7 min read",

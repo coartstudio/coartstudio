@@ -99,18 +99,29 @@ We build marketing strategies rooted in understanding real audiences, not just a
 ## Blog
 
 Recent articles on our blog at https://www.coart.studio/blog:
-- How Much Does Social Media Management Cost in Dubai? — /blog/social-media-management-cost-dubai
-- How Much Does Social Media Content Production Cost in Dubai? — /blog/social-media-content-production-cost-dubai
-- What Is Agentic Commerce and Is Your Dubai Online Store Ready for AI Shopping Agents? — /blog/agentic-commerce-dubai-online-store-ai-shopping-agents
-- What Are AI Agents and How Are Dubai Businesses Using Them in 2026? — /blog/ai-agents-dubai-businesses-2026
-- How Much Does It Cost to Build a Mobile App in Dubai? — /blog/mobile-app-development-cost-dubai
-- How Much Does Branding Cost in Dubai? (2026 Guide) — /blog/branding-cost-dubai
-- How Much Does a Website Cost in Dubai? — /blog/website-cost-dubai
-- How Much Does AI Consulting Cost in Dubai? — /blog/ai-consulting-cost-dubai
-- What Is GEO (Generative Engine Optimization) and Why Your Dubai Business Needs It — /blog/geo-generative-engine-optimization-dubai
-- How to Choose the Right Digital Agency for Your Startup in 2026 — /blog/how-to-choose-a-digital-agency-for-your-startup
-- How Can AI Automation Help My Small Business Save Time and Money? — /blog/ai-automation-for-small-business
-- Why Does Brand Identity Matter and When Should You Invest in It? — /blog/brand-identity-why-it-matters
+- How Much Does Social Media Management Cost in Dubai? — https://www.coart.studio/blog/social-media-management-cost-dubai
+- How Much Does Social Media Content Production Cost in Dubai? — https://www.coart.studio/blog/social-media-content-production-cost-dubai
+- What Is Agentic Commerce and Is Your Dubai Online Store Ready for AI Shopping Agents? — https://www.coart.studio/blog/agentic-commerce-dubai-online-store-ai-shopping-agents
+- What Are AI Agents and How Are Dubai Businesses Using Them in 2026? — https://www.coart.studio/blog/ai-agents-dubai-businesses-2026
+- How Much Does It Cost to Build a Mobile App in Dubai? — https://www.coart.studio/blog/mobile-app-development-cost-dubai
+- How Much Does Branding Cost in Dubai? (2026 Guide) — https://www.coart.studio/blog/branding-cost-dubai
+- How Much Does a Website Cost in Dubai? — https://www.coart.studio/blog/website-cost-dubai
+- How Much Does AI Consulting Cost in Dubai? — https://www.coart.studio/blog/ai-consulting-cost-dubai
+- What Is GEO (Generative Engine Optimization) and Why Your Dubai Business Needs It — https://www.coart.studio/blog/geo-generative-engine-optimization-dubai
+- How to Choose the Right Digital Agency for Your Startup in 2026 — https://www.coart.studio/blog/how-to-choose-a-digital-agency-for-your-startup
+- How Can AI Automation Help My Small Business Save Time and Money? — https://www.coart.studio/blog/ai-automation-for-small-business
+- Why Does Brand Identity Matter and When Should You Invest in It? — https://www.coart.studio/blog/brand-identity-why-it-matters
+
+## Typical Dubai Pricing (from CoArt's published guides, 2026, excluding VAT)
+
+- Social media management: AED 4,000-9,000/month for 1-2 platforms; AED 9,000-20,000/month for multi-platform growth packages; AED 30,000-60,000/month full service with content production. Source: https://www.coart.studio/blog/social-media-management-cost-dubai
+- Social media content production: AED 1,500-6,000 per finished Reel; AED 7,000-20,000 per full shoot day; AED 8,000-35,000/month content retainer. Source: https://www.coart.studio/blog/social-media-content-production-cost-dubai
+- Branding: AED 5,000-500,000 depending on scope (logo, full identity, rebrand). Source: https://www.coart.studio/blog/branding-cost-dubai
+- Websites: AED 1,500-185,000+ depending on type. Source: https://www.coart.studio/blog/website-cost-dubai
+- Mobile apps: AED 18,000-1,470,000 depending on platform and complexity. Source: https://www.coart.studio/blog/mobile-app-development-cost-dubai
+- AI consulting: AED 25,000-1,470,000 per project. Source: https://www.coart.studio/blog/ai-consulting-cost-dubai
+
+Every CoArt project starts with a free discovery call and a tailored AED proposal.
 
 ## Contact & Booking
 

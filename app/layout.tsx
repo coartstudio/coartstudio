@@ -18,6 +18,10 @@ export const metadata: Metadata = {
     'mobile app development',
     'AI automation',
     'digital marketing',
+    'social media management',
+    'content production',
+    'videography',
+    'photography',
     'brand identity design',
     'CoArt Studio',
   ],
@@ -40,7 +44,7 @@ export const metadata: Metadata = {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'CoArt Studio — Digital Agency',
+        alt: 'CoArt Studio: Digital Agency in Dubai',
       },
     ],
   },
@@ -108,6 +112,10 @@ export default function RootLayout({
                   },
                   sameAs: ['https://www.instagram.com/coartstudio'],
                   knowsAbout: [
+                    'Social media management',
+                    'Social media content production',
+                    'Videography',
+                    'Photography',
                     'Brand identity design',
                     'Web development',
                     'Mobile app development',
@@ -172,6 +180,24 @@ export default function RootLayout({
                     '@type': 'OfferCatalog',
                     name: 'Digital Agency Services',
                     itemListElement: [
+                      {
+                        '@type': 'Offer',
+                        itemOffered: {
+                          '@type': 'Service',
+                          name: 'Social Media & Content Production',
+                          description:
+                            'Short-form video for Instagram Reels, TikTok, and YouTube Shorts, monthly social content retainers, and social media management in English and Arabic.',
+                        },
+                      },
+                      {
+                        '@type': 'Offer',
+                        itemOffered: {
+                          '@type': 'Service',
+                          name: 'Videography & Photography',
+                          description:
+                            'Brand and corporate videos, product and lifestyle photography, shoot planning, creative direction, and editing in Dubai.',
+                        },
+                      },
                       {
                         '@type': 'Offer',
                         itemOffered: {
