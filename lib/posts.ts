@@ -570,7 +570,7 @@ export const posts: Post[] = [
     title: "What Is Agentic Commerce and Is Your Dubai Online Store Ready for AI Shopping Agents?",
     excerpt: "Agentic commerce lets AI agents compare and buy for shoppers. See what makes a Dubai online store agent-ready, from structured data to brand trust and AED costs.",
     date: "September 21, 2026",
-    updated: "October 1, 2026",
+    updated: "October 2, 2026",
     category: "Web & Mobile Apps",
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=85",
     readTime: "7 min read",
@@ -581,9 +581,9 @@ export const posts: Post[] = [
 <p>Agentic commerce is online buying in which a shopper sets an intent, a budget, and guardrails, and an AI agent researches options, compares them, and completes the purchase. The shopper approves the goal rather than clicking through product pages. An agent is software that plans and acts toward a goal, as covered in <a href="/blog/ai-agents-dubai-businesses-2026">how Dubai businesses use AI agents</a>.</p>
 <p>Standard ecommerce depends on a human browsing a store. Search-based discovery depends on a human choosing from a results page. Agentic commerce removes both steps: the agent reads many stores at once and returns one recommendation or one completed order. Platforms such as ChatGPT, Gemini, and Perplexity are already becoming retail channels, and vendors are shipping agentic checkout tooling.</p>
 
-<h2>How Many UAE Shoppers Already Use AI to Buy?</h2>
-<p>Recent UAE research reported by <a href="https://www.zawya.com" target="_blank" rel="noopener noreferrer">Zawya</a> and <a href="https://gulfbusiness.com" target="_blank" rel="noopener noreferrer">Gulf Business</a> indicates about 85 percent of UAE consumers already use AI tools for shopping, and around 79 percent are comfortable letting an AI complete a purchase. Both outlets report the same direction of travel, which makes the finding a multi-source signal rather than a single survey outlier.</p>
-<p>These figures sit on top of a mature digital base: 99.0 percent of the UAE population was online at the end of 2025, according to <a href="https://datareportal.com/reports/digital-2026-united-arab-emirates" target="_blank" rel="noopener noreferrer">DataReportal's Digital 2026 UAE report</a>. Survey figures vary by sample and method, so retailers should treat them as directional evidence of comfort with AI-led buying, not as a forecast of conversion rates.</p>
+<h2>Are UAE Shoppers Ready for AI-Led Buying?</h2>
+<p>UAE shoppers are well placed for AI-led buying because almost the entire population is online and AI assistants such as ChatGPT, Gemini, and Perplexity are widely available for product research. Dubai retailers should treat agentic commerce as a channel to prepare for now, not a distant trend to revisit later.</p>
+<p>The digital base is well documented: 99.0 percent of the UAE population was online at the end of 2025, according to <a href="https://datareportal.com/reports/digital-2026-united-arab-emirates" target="_blank" rel="noopener noreferrer">DataReportal's Digital 2026 UAE report</a>. Agentic checkout itself is still early, and published survey figures on AI shopping vary widely by sample and method. Retailers should plan around readiness rather than forecast conversion rates from any single study.</p>
 
 <h2>What Makes an Online Store Agent-Ready?</h2>
 <p>An agent-ready store exposes clean, structured, machine-readable information that an AI can verify without guessing. That means accurate product schema, live pricing and stock, clear delivery times and fees, published return and warranty policies, and a fast, stable site. If an agent cannot confirm a fact, it recommends a competitor whose facts it can confirm.</p>
