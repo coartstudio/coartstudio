@@ -182,7 +182,7 @@
         "lifestyle photoshoot cost Dubai"
       ],
       "notes": "Per-image vs per-day pricing, studio vs lifestyle, retouching, usage rights. Strong booking intent for CoArt photography.",
-      "status": "queued"
+      "status": "published"
     },
     {
       "rank": 12,
@@ -191,7 +191,7 @@
       "category": "Digital Marketing",
       "intent": "informational",
       "priority": "high",
-      "status": "queued",
+      "status": "published",
       "keywords": [
         "social media trends Dubai 2026",
         "TikTok marketing UAE",
@@ -440,6 +440,36 @@
         "WhatsApp business automation Dubai"
       ],
       "notes": "WhatsApp is the dominant messaging platform in UAE."
+    },
+    {
+      "rank": 29,
+      "title": "What Should Dubai Brands Post Now That Instagram Ranks Shares and Watch Time?",
+      "slug": "instagram-algorithm-2026-dubai-brands",
+      "category": "Digital Marketing",
+      "intent": "informational",
+      "priority": "high",
+      "status": "queued",
+      "keywords": [
+        "Instagram algorithm 2026",
+        "Instagram Reels ranking factors",
+        "Instagram strategy Dubai brands"
+      ],
+      "notes": "Mosseri confirmed watch time, likes-per-reach and DM shares as top Reels signals; interest graph means followers no longer guarantee reach; Reels up to 20 min. Distinct from #12 (broad 2026 trends round-up) and #19 (posting frequency): this is a format/creative explainer on what earns shares. CTA to social media management + content production."
+    },
+    {
+      "rank": 30,
+      "title": "When Should Dubai Brands Start Planning Ramadan 2027 Content?",
+      "slug": "ramadan-2027-content-planning-dubai",
+      "category": "Digital Marketing",
+      "intent": "commercial",
+      "priority": "high",
+      "status": "queued",
+      "keywords": [
+        "Ramadan campaign Dubai",
+        "Ramadan content ideas brands UAE",
+        "Ramadan video campaign Dubai"
+      ],
+      "notes": "Ramadan 2027 expected to begin around early-to-mid February (confirm date from an official source). Ipsos Ramadan 2026 UAE handbook: family and tradition outweigh ad messaging. Cover timeline, culturally intelligent storytelling, shoot planning, bilingual creative, Eid follow-on. Best published November-December. CTA to campaign video/photo production."
     }
   ],
   "seo_rules": {
