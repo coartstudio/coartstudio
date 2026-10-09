@@ -6,7 +6,7 @@ import { MarqueeDemo } from '@/components/ui/marquee-demo'
 import { AnimatedTestimonialsDemo } from '@/components/ui/animated-testimonials-demo'
 import { TimelineDemo } from '@/components/ui/timeline-demo'
 import { NavBar } from '@/components/ui/tubelight-navbar'
-import { Home as HomeIcon, Users, Briefcase, FileText, Phone, User, Instagram, MessageCircle } from 'lucide-react'
+import { Home as HomeIcon, Users, Briefcase, FileText, Phone, User, Instagram, Linkedin, MessageCircle } from 'lucide-react'
 import { Gallery6 } from '@/components/ui/gallery6'
 import { Feature } from '@/components/ui/feature-section-with-bento-grid'
 import { Hero } from '@/components/ui/animated-hero'
@@ -177,6 +177,24 @@ export default function Home() {
                       <Instagram className="w-4 h-4 text-white" strokeWidth={1.8} />
                     </span>
                     <span className="text-sm">@coartstudio</span>
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    href="https://www.linkedin.com/company/coart-studio"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center gap-2 hover:text-white transition-colors group"
+                  >
+                    <span
+                      className="w-8 h-8 rounded-lg flex items-center justify-center transition-all group-hover:scale-110"
+                      style={{
+                        background: "#0A66C2",
+                      }}
+                    >
+                      <Linkedin className="w-4 h-4 text-white" strokeWidth={1.8} />
+                    </span>
+                    <span className="text-sm">LinkedIn</span>
                   </Link>
                 </li>
               </ul>

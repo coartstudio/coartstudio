@@ -20,6 +20,16 @@ function extractFaqs(html: string) {
   return faqs
 }
 
+// Social previews need 1200x630; Unsplash covers are stored at w=800, so request a 1200x630 crop for OG/Twitter/schema
+function socialImage(src: string) {
+  if (!src.includes('images.unsplash.com')) return src
+  const url = new URL(src)
+  url.searchParams.set('w', '1200')
+  url.searchParams.set('h', '630')
+  url.searchParams.set('fit', 'crop')
+  return url.toString()
+}
+
 type Props = { params: Promise<{ slug: string }> }
 
 export async function generateStaticParams() {
@@ -43,13 +53,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       modifiedTime: new Date(post.updated ?? post.date).toISOString(),
       section: post.category,
       authors: [getPostAuthor(post).name],
-      images: [{ url: post.image, width: 800, height: 400, alt: post.title }],
+      images: [{ url: socialImage(post.image), width: 1200, height: 630, alt: post.title }],
     },
     twitter: {
       card: 'summary_large_image',
       title: post.title,
       description: post.excerpt,
-      images: [post.image],
+      images: [socialImage(post.image)],
     },
   }
 }
@@ -66,7 +76,7 @@ export default async function BlogPost({ params }: Props) {
     '@type': 'Article',
     headline: post.title,
     description: post.excerpt,
-    image: post.image,
+    image: socialImage(post.image),
     datePublished: new Date(post.date).toISOString(),
     dateModified: new Date(post.updated ?? post.date).toISOString(),
     articleSection: post.category,
