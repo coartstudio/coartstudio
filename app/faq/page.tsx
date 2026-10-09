@@ -16,6 +16,13 @@ export const metadata: Metadata = {
     url: '/faq',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'CoArt Studio FAQ' }],
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'FAQ | CoArt Studio',
+    description:
+      'Answers to common questions about CoArt Studio: services, pricing, process, AI use, and how to get started.',
+    images: ['/og-image.png'],
+  },
 }
 
 // Answers are HTML so they can link to guides; the FAQPage schema uses the same text with tags stripped,
@@ -39,7 +46,7 @@ const faqs: { question: string; answer: string }[] = [
   {
     question: 'How much does it cost to hire CoArt Studio?',
     answer:
-      'Costs depend on scope, complexity, and timeline, so every project starts with a free discovery call and a tailored proposal. For typical Dubai market ranges, see the guides to <a href="/blog/social-media-content-production-cost-dubai">content production costs</a>, <a href="/blog/branding-cost-dubai">branding costs</a>, <a href="/blog/website-cost-dubai">website costs</a>, and <a href="/blog/mobile-app-development-cost-dubai">mobile app costs</a> in Dubai.',
+      'Costs depend on scope, complexity, and timeline, so every project starts with a free discovery call and a tailored proposal. For typical Dubai market ranges, see the guides to <a href="/blog/social-media-content-production-cost-dubai">content production costs</a>, <a href="/blog/social-media-management-cost-dubai">social media management costs</a>, <a href="/blog/product-photography-cost-dubai">product photography costs</a>, <a href="/blog/branding-cost-dubai">branding costs</a>, <a href="/blog/website-cost-dubai">website costs</a>, and <a href="/blog/mobile-app-development-cost-dubai">mobile app costs</a> in Dubai.',
   },
   {
     question: 'How can AI automation help my business?',

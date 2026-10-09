@@ -731,6 +731,8 @@ export const posts: Post[] = [
   <li><a href="/blog/branding-cost-dubai">How much does branding cost in Dubai?</a></li>
   <li><a href="/blog/geo-generative-engine-optimization-dubai">What is GEO and why your Dubai business needs it</a></li>
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
+  <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
+  <li><a href="/blog/social-media-marketing-trends-dubai-2026">What are the social media marketing trends in Dubai for 2026?</a></li>
 </ul>
     `.trim(),
   },
@@ -846,6 +848,7 @@ export const posts: Post[] = [
   <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
   <li><a href="/blog/brand-identity-why-it-matters">Why does brand identity matter and when should you invest in it?</a></li>
   <li><a href="/blog/geo-generative-engine-optimization-dubai">What is GEO and why your Dubai business needs it</a></li>
+  <li><a href="/blog/social-media-marketing-trends-dubai-2026">What are the social media marketing trends in Dubai for 2026?</a></li>
 </ul>
     `.trim(),
   },

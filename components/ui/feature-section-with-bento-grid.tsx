@@ -224,6 +224,7 @@ const services: ServiceData[] = [
 const pricingGuides: Guide[] = [
   { title: "Content production", href: "/blog/social-media-content-production-cost-dubai" },
   { title: "Social media management", href: "/blog/social-media-management-cost-dubai" },
+  { title: "Product photography", href: "/blog/product-photography-cost-dubai" },
   { title: "Branding", href: "/blog/branding-cost-dubai" },
   { title: "Websites", href: "/blog/website-cost-dubai" },
   { title: "Mobile apps", href: "/blog/mobile-app-development-cost-dubai" },

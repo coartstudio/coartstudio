@@ -1,17 +1,18 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { posts } from '@/lib/posts'
+import { getPostAuthor } from '@/lib/authors'
 import BlogList from './BlogList'
 
 export const metadata: Metadata = {
   title: 'Blog',
   description:
-    'Insights on branding, web development, AI automation, and digital marketing from CoArt Studio. Practical strategies to help your business grow.',
+    'Guides on social media, content production, video and photography, branding, web development, AI and digital marketing in Dubai from CoArt Studio, with typical UAE costs.',
   alternates: { canonical: '/blog' },
   openGraph: {
     title: 'Blog | CoArt Studio',
     description:
-      'Insights on branding, web development, AI automation, and digital marketing from CoArt Studio.',
+      'Guides on social media, content production, video and photography, branding, web, AI and digital marketing in Dubai from CoArt Studio.',
     url: '/blog',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'CoArt Studio Blog' }],
   },
@@ -19,7 +20,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Blog | CoArt Studio',
     description:
-      'Insights on branding, web development, AI automation, and digital marketing from CoArt Studio.',
+      'Guides on social media, content production, video and photography, branding, web, AI and digital marketing in Dubai from CoArt Studio.',
     images: ['/og-image.png'],
   },
 }
@@ -44,6 +45,8 @@ const blogJsonLd = {
     headline: post.title,
     url: `https://www.coart.studio/blog/${post.slug}`,
     datePublished: new Date(post.date).toISOString(),
+    dateModified: new Date(post.updated ?? post.date).toISOString(),
+    author: { '@type': 'Person', name: getPostAuthor(post).name, url: `https://www.coart.studio/authors/${getPostAuthor(post).slug}` },
   })),
 }
 
