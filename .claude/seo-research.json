@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27",
+  "last_updated": "2026-10-11",
   "target_geo": "Dubai/UAE primary, MENA secondary, global tertiary",
   "domain": "www.coart.studio",
   "services": [
@@ -212,7 +212,7 @@
         "promotional video cost UAE"
       ],
       "notes": "Longer-form brand films, launch videos, about-us videos. Keep distinct from short-form social content production article.",
-      "status": "queued"
+      "status": "published"
     },
     {
       "rank": 14,
@@ -227,7 +227,7 @@
         "social media agency questions to ask"
       ],
       "notes": "Questions to ask, red flags, retainer vs project, what reporting should look like. Link to how-to-choose-a-digital-agency.",
-      "status": "queued"
+      "status": "published"
     },
     {
       "rank": 15,
@@ -470,6 +470,36 @@
         "Ramadan video campaign Dubai"
       ],
       "notes": "Ramadan 2027 expected to begin around early-to-mid February (confirm date from an official source). Ipsos Ramadan 2026 UAE handbook: family and tradition outweigh ad messaging. Cover timeline, culturally intelligent storytelling, shoot planning, bilingual creative, Eid follow-on. Best published November-December. CTA to campaign video/photo production."
+    },
+    {
+      "rank": 31,
+      "title": "How Much Does Influencer Marketing Cost in Dubai?",
+      "slug": "influencer-marketing-cost-dubai",
+      "category": "Digital Marketing",
+      "intent": "transactional",
+      "priority": "high",
+      "status": "queued",
+      "keywords": [
+        "influencer marketing cost Dubai",
+        "UAE influencer rates",
+        "creator campaign budget Dubai"
+      ],
+      "notes": "Pricing by creator tier (nano to macro), per-post vs package vs usage-rights fees, production costs on top, and measuring creator work like media (tracked links, defined outcomes). Mention the UAE Media Council advertiser permit only briefly and link to an official source (verify current rules). Distinct from #18 (UGC vs professional content is a format choice, not pricing). CTA to CoArt planning and producing creator campaigns alongside social media management."
+    },
+    {
+      "rank": 32,
+      "title": "Should Your Dubai Brand Make an Episodic Video Series?",
+      "slug": "episodic-brand-video-series-dubai",
+      "category": "Digital Marketing",
+      "intent": "commercial",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": [
+        "brand video series Dubai",
+        "documentary brand storytelling UAE",
+        "episodic content marketing"
+      ],
+      "notes": "Dubai brands (real estate, hospitality, finance) moving from one-off promo clips to documentary and episodic formats with real voices instead of scripted actors. Cover formats, how one shoot block feeds a season of episodes plus Reels cutdowns, and when it beats ads. Distinct from #13 (video pricing) and #29 (Instagram ranking): this is a format/strategy explainer. CTA to video production + content retainer."
     }
   ],
   "seo_rules": {

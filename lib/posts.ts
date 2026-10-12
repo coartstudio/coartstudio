@@ -733,6 +733,7 @@ export const posts: Post[] = [
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
   <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
   <li><a href="/blog/social-media-marketing-trends-dubai-2026">What are the social media marketing trends in Dubai for 2026?</a></li>
+  <li><a href="/blog/ai-generated-ads-vs-real-shoots-dubai">Should Dubai Brands Use AI-Generated Ads or Real Shoots?</a></li>
 </ul>
     `.trim(),
   },
@@ -849,6 +850,7 @@ export const posts: Post[] = [
   <li><a href="/blog/brand-identity-why-it-matters">Why does brand identity matter and when should you invest in it?</a></li>
   <li><a href="/blog/geo-generative-engine-optimization-dubai">What is GEO and why your Dubai business needs it</a></li>
   <li><a href="/blog/social-media-marketing-trends-dubai-2026">What are the social media marketing trends in Dubai for 2026?</a></li>
+  <li><a href="/blog/how-to-choose-social-media-agency-dubai">How Do You Choose a Social Media Agency in Dubai?</a></li>
 </ul>
     `.trim(),
   },
@@ -1059,6 +1061,7 @@ export const posts: Post[] = [
   <li><a href="/blog/website-cost-dubai">How much does a website cost in Dubai?</a></li>
   <li><a href="/blog/agentic-commerce-dubai-online-store-ai-shopping-agents">What is agentic commerce and is your Dubai online store ready?</a></li>
   <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
+  <li><a href="/blog/brand-video-production-cost-dubai">How Much Does a Corporate or Brand Video Cost in Dubai?</a></li>
 </ul>
     `.trim(),
   },
@@ -1152,6 +1155,402 @@ export const posts: Post[] = [
   <li><a href="/blog/brand-identity-why-it-matters">Why does brand identity matter and when should you invest in it?</a></li>
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
   <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "ai-generated-ads-vs-real-shoots-dubai",
+    title: "Should Dubai Brands Use AI-Generated Ads or Real Shoots?",
+    excerpt: "AI-generated ads vs real shoots: Dubai brands should film real people, products and places and use AI for subtitles and resizing. Costs, rules and a checklist.",
+    date: "October 12, 2026",
+    category: "Digital Marketing",
+    image: "https://images.unsplash.com/photo-1601506521793-dc748fc80b67?w=800&q=85",
+    readTime: "9 min read",
+    content: `
+<p>Dubai brands should use real shoots, not AI-generated ads, for any ad that shows people, products, food or real places, and keep AI for storyboards, subtitles, resizing and translation drafts. In the UAE, audiences want authenticity and regulators are watching AI imagery closely, so a human-led shoot with AI-assisted editing protects both trust and budget.</p>
+
+<h2>Why Are Brands Facing a Backlash Against AI-Generated Ads in 2026?</h2>
+<p>Brands face a backlash against AI-generated ads in 2026 because consumers like them far less than marketers assume. An IAB study found that 82 percent of US ad executives believe younger consumers feel positive about AI-generated ads, while only 45 percent of Gen Z and Millennial consumers actually do. Neuroscience research also links AI ads to weaker memory.</p>
+<p>The perception gap is growing, not closing. According to the <a href="https://www.iab.com/insights/the-ai-ad-gap-widens/" target="_blank" rel="noopener noreferrer">IAB's January 2026 report, The AI Ad Gap Widens</a>, the gap between executives and consumers rose from 32 points in 2024 to 37 points in 2026. The study surveyed 505 US Gen Z and Millennial consumers and 104 US ad executives between October 2025 and January 2026. Gen Z is the most sceptical group: 39 percent feel negative about AI ads, nearly double the 20 percent of Millennials.</p>
+<p>The effect goes beyond stated opinion. In a 2024 study by <a href="https://nielseniq.com/global/en/news-center/2024/niq-research-uncovers-hidden-consumer-attitudes-toward-ai-generated-ads/" target="_blank" rel="noopener noreferrer">NIQ (formerly NielsenIQ)</a>, more than 2,000 participants watched AI-generated ads, and about 150 had their brain activity measured with EEG. Viewers spotted most of the AI ads on their own and described them as more annoying, boring and confusing than traditional ads. Even AI ads rated as high quality produced weaker memory activation, and NIQ warned of a negative halo that can spill onto the brand itself.</p>
+<p>High-profile campaigns have made the debate public. Coca-Cola's AI-made holiday films drew <a href="https://www.techradar.com/ai-platforms-assistants/coca-cola-faces-backlash-again-for-missing-the-spirit-of-the-holidays-with-another-ai-slop-ad" target="_blank" rel="noopener noreferrer">a second round of criticism for missing the spirit of the holidays</a>, and "AI slop" is now a common comment under brand posts. AI slop is the term audiences use for low-effort, mass-produced AI content that feels generic or slightly wrong.</p>
+
+<h2>Do UAE Rules Restrict AI-Generated Advertising Content?</h2>
+<p>UAE rules restrict some AI-generated advertising content. In late September 2026, the National Media Authority warned that using AI to create images or videos of national symbols or public figures without prior official approval violates the UAE's media content standards. No general AI-labelling rule for ads was found, but AI imagery in UAE marketing now carries real compliance risk.</p>
+<p>The warning was reported independently by <a href="https://www.khaleejtimes.com/uae/uae-national-media-authority-warns-against-ai-images-of-national-symbols-rules" target="_blank" rel="noopener noreferrer">Khaleej Times</a> and <a href="https://gulfnews.com/uae/uae-warns-against-ai-generated-images-of-national-symbols-public-figures-1.500692441" target="_blank" rel="noopener noreferrer">Gulf News</a>, and both describe the same requirement: prior official approval for AI depictions of national symbols and public figures. The authority's message was blunt: not everything that can be generated is permitted. For Dubai brands, that rules out the quick AI shortcut of placing a leader, a national emblem or a recognisable public figure into festive or National Day creative.</p>
+<p>The wider policy direction points the same way. The <a href="https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/policies/Ai/The-UAE-Charter-for-the-Development-and-Use-of-Artificial-Intelligence" target="_blank" rel="noopener noreferrer">UAE Charter for the Development and Use of Artificial Intelligence</a> lists transparency and human oversight among its 12 principles. It stresses the irreplaceable value of human judgement over AI. The charter is a set of principles rather than an advertising regulation, but it signals what UAE institutions expect from businesses that use AI publicly.</p>
+<p>Existing rules still apply to every ad, however it is made. On-camera creators need a UAE Advertiser Permit under Federal Decree-Law No. 55 of 2023, a requirement covered in <a href="/blog/social-media-content-production-cost-dubai">how much social media content production costs in Dubai</a>. AI does not remove that obligation for any real person who appears in the content.</p>
+
+<h2>Where Does AI Help in Ad Production, and Where Does It Hurt?</h2>
+<p>AI helps Dubai ad production most in behind-the-scenes tasks: concept testing, storyboards, rough cuts, subtitles, resizing for each platform and first-draft translations. AI hurts most in anything an audience is asked to trust, such as faces, real people, food, products, real Dubai locations and Arabic text, where small errors look fake and damage credibility.</p>
+<p>The decision table below summarises where each approach fits by content type:</p>
+<table>
+  <thead>
+    <tr><th>Content type</th><th>AI-generated visuals</th><th>Recommended approach</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Storyboards, moodboards, concept tests</td><td>Low risk, fast and cheap</td><td>Use AI freely, internal only</td></tr>
+    <tr><td>Subtitles, resizing, cutdowns, translation drafts</td><td>Low risk with human review</td><td>AI-assisted, checked by an editor</td></tr>
+    <tr><td>Abstract backgrounds, motion graphics, textures</td><td>Moderate risk</td><td>AI acceptable if on brand</td></tr>
+    <tr><td>Product shots, packaging, food and drinks</td><td>High risk: labels, textures and colours distort</td><td>Real shoot</td></tr>
+    <tr><td>People, faces, staff and customers</td><td>High risk: uncanny faces, consent issues</td><td>Real shoot with real people</td></tr>
+    <tr><td>Real Dubai locations and venues</td><td>High risk: invented or wrong details</td><td>Real shoot, with permits</td></tr>
+    <tr><td>National symbols, public figures</td><td>Needs prior official approval</td><td>Avoid AI depictions</td></tr>
+  </tbody>
+</table>
+<p>The pattern is simple. AI is a production tool, not a substitute for the subject. Product imagery is a good example: shoppers judge colour, texture and scale from photos, and the case for real photography is covered in <a href="/blog/product-photography-cost-dubai">how much product photography costs in Dubai</a>.</p>
+<p>Arabic content is where generic AI output fails most visibly. Image and video generators often render Arabic script as broken or reversed letterforms. AI-written Arabic copy frequently reads as stiff Modern Standard Arabic rather than the Gulf tone a Dubai audience expects. Bilingual brands should treat AI translations as drafts for a native speaker, never as final copy.</p>
+
+<h2>How Much Does an AI-Generated Campaign Cost Compared With a Real Shoot in Dubai?</h2>
+<p>An AI-generated campaign in Dubai usually costs less in cash, often AED 2,000 to AED 6,000 a month for editing time and software, while a real shoot day costs AED 7,000 to AED 20,000. The real shoot usually delivers better value per usable asset, because one well-planned day produces video, stills and cutdowns that audiences trust and remember.</p>
+<p>The comparison below shows typical monthly costs for roughly eight short videos plus stills:</p>
+<table>
+  <thead>
+    <tr><th>Approach</th><th>What it includes</th><th>Typical AED per month</th><th>Best for</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>AI-generated only</td><td>Generated clips and images, editor time, tool subscriptions</td><td>AED 2,000 to AED 6,000</td><td>Internal concepts, abstract filler</td></tr>
+    <tr><td>Hybrid: one shoot day plus AI-assisted editing</td><td>Directed shoot, 6 to 8 Reels, photo selects, AI-assisted subtitles and resizing</td><td>AED 8,000 to AED 15,000</td><td>Most Dubai SMEs posting weekly</td></tr>
+    <tr><td>Full production retainer</td><td>Two shoot days, 12 to 16 Reels, stills, bilingual versions</td><td>AED 15,000 to AED 35,000</td><td>Hospitality, F&amp;B, retail and real estate brands posting daily</td></tr>
+  </tbody>
+</table>
+<p>These ranges reflect the production rates set out in CoArt Studio's published content production pricing and typical Dubai market rates checked in October 2026, excluding VAT, talent fees, usage rights and ad spend. Talent, multiple locations and Arabic plus English versions move a project from the low end to the high end.</p>
+<p>A worked example shows why cash cost misleads. Take a Dubai cafe with a hybrid budget of AED 12,000 for one shoot day. The day yields eight Reels, 40 edited stills and 16 Story cutdowns, or 64 usable assets at about AED 190 each. An AI-only month at AED 4,000 might yield 30 assets at about AED 130 each. Those AI assets cannot show the real food, staff or venue, and the NIQ findings suggest they are remembered less. Longer brand films follow different economics, set out in <a href="/blog/brand-video-production-cost-dubai">how much a corporate or brand video costs in Dubai</a>.</p>
+
+<h2>Why Do Real Shoots Perform Better for Dubai Brands on Social Media?</h2>
+<p>Real shoots perform better for Dubai brands on social media because recognisable people, places and products give audiences a reason to trust, share and return. On Instagram and TikTok, content that feels local and human earns direct-message shares and watch time, while AI-made visuals are often spotted quickly and scrolled past as generic.</p>
+<p>Hannah Finch, Head of Content at CoArt Studio, sees the same mistake in many Dubai briefs: brands try AI visuals to save a shoot day, then spend weeks fixing hands, labels and Arabic text, and finally book the shoot anyway. Her rule of thumb is to decide early which assets must be real. Faces, food, products and the venue almost always qualify. AI is then planned into the edit for subtitles, resizing and versioning, not into the frame.</p>
+<p>Human-led content can produce measurable results. In CoArt Studio's own client work, content for a Dubai hospitality and F&amp;B client reached nearly 215,000 Instagram views in 90 days, with 51 percent of views coming from non-followers. That figure is CoArt Studio's own reported result, not an independent industry benchmark.</p>
+<p>Real shoots also feed seasonal campaigns. National Day, Dubai Shopping Festival and New Year content works best with genuine staff, customers and recognisable Dubai settings, as covered in <a href="/blog/dsf-festive-season-content-plan-dubai">how Dubai brands should plan DSF and festive season content</a>. The same footage can then be reused across a <a href="/blog/social-media-management-cost-dubai">social media management retainer</a> for weeks.</p>
+
+<h2>How Should a Dubai Brand Brief a Shoot That Feeds a Month of Content?</h2>
+<p>A Dubai brand should brief a content shoot by agreeing goals, content pillars, hooks and a shot list before the crew is booked, then grouping scenes by location and wardrobe. A well-briefed shoot day in Dubai can supply a full month of Reels, stills and Story cutdowns, with AI used afterwards for subtitles and resizing.</p>
+<p>A practical briefing checklist:</p>
+<ol>
+  <li>Set one business goal for the month, such as bookings, store visits or enquiries.</li>
+  <li>Choose three or four content pillars, for example product, people, behind the scenes and customer questions.</li>
+  <li>Write 8 to 12 hooks, meaning the opening line or image that stops the scroll in the first two seconds.</li>
+  <li>List which assets must be real (faces, food, products, venue) and which tasks AI may assist (subtitles, resizing, cutdowns).</li>
+  <li>Confirm locations, filming permits and Advertiser Permits for any on-camera creators.</li>
+  <li>Plan Arabic and English versions, with a native speaker reviewing any AI translation draft.</li>
+  <li>Capture b-roll, meaning supporting footage without dialogue, for future ads and edits.</li>
+  <li>Schedule edits across four weeks and review performance at the end of the month.</li>
+</ol>
+
+<h2>How Should Dubai Brands Disclose AI Use in Ads?</h2>
+<p>Dubai brands should disclose AI use in ads whenever AI creates or materially changes a person, product, place or claim the audience might take as real. A short line such as "Visuals created with AI" in the caption or on screen is usually enough. Disclosure costs little, and the IAB found it rarely hurts purchase intent among younger US consumers.</p>
+<p>The IAB study reported that 73 percent of Gen Z and Millennial respondents said knowing an ad was made with AI would either increase their likelihood to buy or make no difference. The same report found that 89 percent of advertisers using generative AI for ads disclose it at least sometimes, but fewer than half always do. Consistent disclosure is therefore a simple way to stand apart.</p>
+<p>Basic disclosure practice for UAE brands:</p>
+<ul>
+  <li><strong>Label generated people and scenes:</strong> say so in the caption or on screen.</li>
+  <li><strong>Use platform tools:</strong> Instagram, Facebook and TikTok offer AI labels for altered or generated media.</li>
+  <li><strong>Never fake evidence:</strong> no AI-generated customers, reviews, results or product performance.</li>
+  <li><strong>Avoid restricted subjects:</strong> no AI depictions of national symbols or public figures without approval.</li>
+  <li><strong>Keep records:</strong> note which tools and prompts produced each asset in case questions arise.</li>
+</ul>
+
+<h2>How Can a Dubai Brand Plan a Human-First Content Shoot?</h2>
+<p>A Dubai brand can plan a human-first content shoot by starting with a short discovery call that sets goals, platforms, languages and budget. From there, a studio can recommend a one-off shoot, a hybrid month or a retainer, and show exactly where AI will save time without replacing real people, products and places.</p>
+<p>At <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a>, a human-first Dubai studio, real strategists, directors, photographers and editors plan and shoot every campaign, using AI as a tool for speed, never as a substitute for creative judgement. CoArt Studio delivers social media management, content production, videography, photography and branding, in English and Arabic. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to plan a shoot that feeds a month of content, with a clear AED quote.</p>
+
+<h2>Related Reading</h2>
+<ul>
+  <li><a href="/blog/how-to-choose-social-media-agency-dubai">How to choose a social media agency in Dubai</a></li>
+  <li><a href="/blog/social-media-marketing-trends-dubai-2026">What are the social media marketing trends in Dubai for 2026?</a></li>
+  <li><a href="/blog/brand-identity-why-it-matters">Why brand identity matters and when to invest in it</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "brand-video-production-cost-dubai",
+    title: "How Much Does a Corporate or Brand Video Cost in Dubai?",
+    excerpt: "A corporate or brand video in Dubai costs AED 6,000-15,000 for interviews, AED 12,000-35,000 for a company profile and AED 50,000+ for a directed brand film.",
+    date: "October 12, 2026",
+    category: "Digital Marketing",
+    image: "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&q=85",
+    readTime: "10 min read",
+    content: `
+<p>A corporate or brand video in Dubai typically costs AED 6,000 to AED 15,000 for a simple interview or testimonial film, AED 12,000 to AED 35,000 for a company profile, and AED 50,000 to AED 150,000 or more for a directed brand film. Prices in the UAE rise with shoot days, locations, talent, post-production and Arabic versions.</p>
+
+<h2>How Much Does a Corporate or Brand Video Cost in Dubai in 2026?</h2>
+<p>A corporate or brand video in Dubai costs between AED 5,000 and AED 150,000 or more in 2026, depending on the type of film. Event highlight and testimonial videos sit at the low end, company profiles and launch videos in the middle, and directed brand films with talent, several locations and a full crew at the top.</p>
+<p>The type of video sets the budget more than any other choice, because it decides how many shoot days, crew members and edit hours the project needs. The table below shows typical Dubai ranges by video type:</p>
+<table>
+  <thead>
+    <tr><th>Video type</th><th>What's usually included</th><th>Typical AED price</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Event highlight film</td><td>Half or full day of coverage, 2 to 3 minute edit, one short teaser</td><td>AED 5,000 to AED 18,000</td></tr>
+    <tr><td>Interview or testimonial video</td><td>One location, 2 to 3 interviews, 1 to 2 minute edit, subtitles</td><td>AED 6,000 to AED 15,000</td></tr>
+    <tr><td>Animated explainer</td><td>Script, storyboard, voiceover, 60 to 90 seconds of motion graphics</td><td>AED 10,000 to AED 35,000</td></tr>
+    <tr><td>Company profile or about-us video</td><td>Script, one shoot day, interviews plus supporting footage, 2 to 3 minute edit</td><td>AED 12,000 to AED 35,000</td></tr>
+    <tr><td>Product or service launch video</td><td>Concept, scripted shoot, talent, 60 to 90 second hero edit, cutdowns</td><td>AED 20,000 to AED 60,000</td></tr>
+    <tr><td>Directed brand film or commercial</td><td>Director, full crew, 1 to 3 shoot days, talent, several locations, grading and sound design</td><td>AED 50,000 to AED 150,000 or more</td></tr>
+  </tbody>
+</table>
+<p>These ranges reflect typical Dubai market rates checked in October 2026, cross-checked against publicly listed starting prices from Dubai video studios, which list short corporate films from around AED 6,000 to AED 10,000. They exclude VAT, paid media, talent usage fees and permit fees. Extra shoot days, aerial footage and bilingual voiceovers move a project from the low end of a range to the high end.</p>
+
+<h2>What Is the Difference Between a Brand Film, a Corporate Video and Social Content?</h2>
+<p>A brand film, a corporate video and social content differ in purpose, length and shelf life. A brand film is a directed story about what a company stands for, usually 60 seconds to 3 minutes long and used for a year or more. A corporate video explains a company to buyers, investors or staff. Social content is short, frequent and replaced every few weeks.</p>
+<p>The distinction matters when comparing quotes. Long-form brand and corporate films carry heavier pre-production, scripting and post-production per minute of finished video. Social content spreads one shoot day across many short videos, so the cost per video falls. That model is covered in detail in <a href="/blog/social-media-content-production-cost-dubai">how much social media content production costs in Dubai</a>, which prices Reels, shoot days and monthly retainers.</p>
+<p>Common long-form formats commissioned by Dubai businesses include:</p>
+<ul>
+  <li><strong>Company profile:</strong> who the company is, what it does and who it serves, often used on the website, in pitch decks and at events.</li>
+  <li><strong>Brand film:</strong> an emotional, story-led piece built around the brand's values, often used to open a campaign or a rebrand.</li>
+  <li><strong>Launch video:</strong> a product, property, venue or service introduced in 60 to 90 seconds, with cutdowns (shorter edits of the main film) for paid social.</li>
+  <li><strong>Recruitment or culture video:</strong> employees and workplaces shown on camera, mainly for LinkedIn and careers pages.</li>
+  <li><strong>Case study video:</strong> a client explains a result in their own words, which is common in B2B, real estate and professional services.</li>
+</ul>
+<p>Video also needs a clear identity to sit on. A business without brand guidelines should first check <a href="/blog/branding-cost-dubai">how much branding costs in Dubai</a>, because colours, typography and tone of voice shape every frame, title card and end slate.</p>
+
+<h2>What Drives the Cost of Brand Video Production in Dubai?</h2>
+<p>The cost of brand video production in Dubai is driven by six factors: pre-production and scripting, crew size, the number of shoot days, locations and permits, on-camera talent, and post-production depth. Language versions add a seventh factor in the UAE, because many brands need English and Arabic edits for the same campaign.</p>
+<p>Each factor adds cost in a predictable way:</p>
+<ul>
+  <li><strong>Pre-production:</strong> pre-production is the planning stage before filming, covering concept, script, storyboard, shot list, casting and location scouting. Thin pre-production is the most common cause of expensive reshoots.</li>
+  <li><strong>Crew:</strong> a director, a director of photography (the person responsible for camera and lighting), a camera assistant, a sound recordist and a gaffer (the lighting lead) each carry a day rate. A one-person crew is cheaper but limits lighting, sound and camera movement.</li>
+  <li><strong>Shoot days:</strong> each extra day adds crew, equipment and travel. Most company profiles fit into one well-planned day.</li>
+  <li><strong>Locations:</strong> hotels, malls, offices and private venues may charge location fees on top of any filming permit.</li>
+  <li><strong>Talent:</strong> presenters, actors and voiceover artists are paid per day, and usage rights for paid advertising usually cost extra.</li>
+  <li><strong>Post-production:</strong> post-production is everything after filming, including the edit, colour grading (adjusting colour and contrast for a consistent look), sound mix, licensed music, motion graphics and subtitles.</li>
+  <li><strong>Arabic and English versions:</strong> bilingual subtitles are inexpensive, while separate Arabic voiceovers or on-camera lines add recording, editing and review time.</li>
+</ul>
+<p>The local market also shapes pricing. Dubai has a deep pool of studios and freelancers. The <a href="https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/finance-and-economy/dubai-creative-economy-strategy" target="_blank" rel="noopener noreferrer">Dubai Creative Economy Strategy</a> aimed to grow the number of Dubai-based creative companies from 8,300 in 2020 to 15,000 by 2025. More supply widens the spread of quotes, so buyers should compare like-for-like line items rather than headline prices.</p>
+
+<h2>What Does a Real Brand Video Budget Look Like in AED?</h2>
+<p>A real brand video budget in Dubai for a two-minute company profile, filmed in one day across two locations with English audio and Arabic subtitles, comes to roughly AED 31,500 before VAT and about AED 33,100 after VAT. Production crew and post-production make up more than half of that total.</p>
+<p>The worked example below breaks one typical mid-range project into line items, so the share of each stage is visible:</p>
+<table>
+  <thead>
+    <tr><th>Line item</th><th>What it covers</th><th>Example AED cost</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Pre-production</td><td>Concept, script, storyboard, shot list, location scouting</td><td>AED 4,000</td></tr>
+    <tr><td>Shoot day</td><td>Director, director of photography, camera assistant, sound, lighting kit, two cameras</td><td>AED 12,000</td></tr>
+    <tr><td>Filming permit</td><td>Dubai permit application plus corporate content location fee, if filming in a public location</td><td>AED 3,020</td></tr>
+    <tr><td>Presenter</td><td>One on-camera presenter for a half day, online use</td><td>AED 3,000</td></tr>
+    <tr><td>Post-production</td><td>Edit, two revision rounds, colour grade, sound mix, licensed music</td><td>AED 6,500</td></tr>
+    <tr><td>Versions and cutdowns</td><td>Arabic subtitles plus 30 second, 15 second and vertical social edits</td><td>AED 3,000</td></tr>
+    <tr><td>Total before VAT</td><td>All line items above</td><td>AED 31,520</td></tr>
+  </tbody>
+</table>
+<p>This worked example reflects typical Dubai market rates checked in October 2026 and excludes paid media and extended talent usage. Filming only inside the company's own premises may reduce or remove the permit line. A second shoot day or a drone unit moves the total toward AED 45,000.</p>
+<p>VAT applies on top of production quotes. Both the <a href="https://u.ae/en/information-and-services/finance-and-investment/taxation/vat/valueaddedtaxvat" target="_blank" rel="noopener noreferrer">UAE government portal</a> and the <a href="https://mof.gov.ae/en/public-finance/tax/" target="_blank" rel="noopener noreferrer">UAE Ministry of Finance</a> confirm that VAT was introduced on 1 January 2018 at a standard rate of 5 percent. On the example above, that adds AED 1,576, bringing the total to AED 33,096.</p>
+
+<h2>Do Corporate Video Shoots in Dubai Need a Filming Permit?</h2>
+<p>Corporate video shoots in public locations in Dubai generally need a filming permit, arranged through a licensed UAE-based production house. A 2024 Khaleej Times guide lists a non-refundable application fee of AED 520 and a government location fee of AED 2,500 for corporate content, with the corporate video permit valid for up to 7 days.</p>
+<p>According to <a href="https://www.khaleejtimes.com/life-and-living/dubai-how-to-apply-for-filming-permit-rules-fines-process-explained" target="_blank" rel="noopener noreferrer">Khaleej Times' guide to filming permits in Dubai</a>, one application can cover several days and locations. Filming without permission can lead to a fine of AED 25,000. The Dubai Film and TV Commission sets and revises these fees, so the production house should confirm the current schedule when it quotes.</p>
+<p>Three practical points help with budgeting. Shoots on private premises still need the owner's written consent, and private venues can charge their own location fees. The production house should confirm whether a permit also applies. Drone flights need separate aviation approvals, so aerial shots should be requested at quoting stage. Creators who later publish the video as paid promotion may also need a UAE Media Council Advertiser Permit, explained in the content production cost guide linked above.</p>
+
+<h2>How Long Does Brand Video Production Take in Dubai?</h2>
+<p>Brand video production in Dubai usually takes three to six weeks from signed brief to final delivery for a company profile or launch video. Directed brand films with casting, several locations or animation take six to ten weeks. Permits, talent availability and client approval rounds cause most delays, not the shoot itself.</p>
+<p>A typical timeline for a mid-range corporate video looks like this:</p>
+<ol>
+  <li><strong>Brief and quote (week 1):</strong> goals, audience, platforms, languages, budget and deadline agreed.</li>
+  <li><strong>Pre-production (weeks 1 to 3):</strong> script, storyboard, casting, location scouting and permit application.</li>
+  <li><strong>Script approval (week 2 or 3):</strong> sign-off from marketing, leadership and, where needed, legal or compliance.</li>
+  <li><strong>Shoot (1 to 3 days):</strong> filming of interviews, b-roll (supporting footage shown over the interviews), product shots and any Arabic lines.</li>
+  <li><strong>First cut (5 to 10 working days after the shoot):</strong> edited draft with temporary music and graphics.</li>
+  <li><strong>Revisions (1 to 2 weeks):</strong> usually two rounds of feedback, then colour grading and the final sound mix.</li>
+  <li><strong>Delivery:</strong> master file, subtitled versions, social cutdowns and thumbnails in the agreed formats.</li>
+</ol>
+<p>Seasonal timing matters in the UAE, and hospitality, retail and real estate brands feel it most. Ramadan, the Dubai Shopping Festival and year-end campaigns compress studio calendars, so brands planning festive films should follow the lead times in <a href="/blog/dsf-festive-season-content-plan-dubai">how Dubai brands should plan content for DSF and the festive season</a>.</p>
+
+<h2>Should a Dubai Business Hire a Freelancer, a Production House or an Agency for a Brand Video?</h2>
+<p>A Dubai business should hire a freelancer for simple event or interview videos, a production house for large directed shoots with an existing creative concept, and a creative agency when it needs strategy, scripting, production and distribution handled together. The right choice depends on who will own the idea and who will use the footage afterwards.</p>
+<p>The comparison below summarises the trade-offs most Dubai buyers weigh:</p>
+<table>
+  <thead>
+    <tr><th>Option</th><th>Best for</th><th>Typical AED range</th><th>Main trade-off</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Freelance videographer</td><td>Event coverage, simple interviews, small budgets</td><td>AED 2,500 to AED 10,000</td><td>Limited crew, scripting and lighting</td></tr>
+    <tr><td>Production house</td><td>Directed commercials where the concept already exists</td><td>AED 25,000 to AED 150,000 or more</td><td>Strategy and social versions often sit outside scope</td></tr>
+    <tr><td>Creative or content agency</td><td>Concept, script, shoot, edit and social cutdowns in one team</td><td>AED 12,000 to AED 100,000</td><td>Higher than a freelancer for very simple briefs</td></tr>
+  </tbody>
+</table>
+<p>These ranges reflect typical Dubai market rates checked in October 2026, excluding VAT, talent usage and media spend. Scope, not supplier type, explains most of the gap between quotes.</p>
+
+<h2>How Can Dubai Businesses Get More Value From a Brand Video Budget?</h2>
+<p>Dubai businesses get more value from a brand video budget by planning every output before the shoot: the hero film, short cutdowns, vertical social edits, stills and Arabic versions. A single well-planned shoot day can then supply a website, a LinkedIn launch, paid ads on Instagram and YouTube, and weeks of social content.</p>
+<p>Hannah Finch, Head of Content at <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a>, sees the same costly mistake in many corporate video briefs. The brand asks for one three-minute film, then later realises it also needs 15 second ads, vertical Reels and an Arabic version. By then the footage is shot horizontally, the interviews run long and the Arabic lines were never recorded. Her rule of thumb: a two-minute film holds roughly 250 to 300 spoken words. Scripts longer than one page usually need cutting before the shoot, not in the edit.</p>
+<p>Distribution belongs in the plan too. <a href="https://datareportal.com/reports/digital-2026-united-arab-emirates" target="_blank" rel="noopener noreferrer">DataReportal's Digital 2026 UAE report</a> shows that YouTube's ads reached 73.3 percent of the UAE's total population at the end of 2025. Planning a YouTube-ready master and vertical cutdowns from the start costs far less than re-editing later. Short cutdowns also feed an ongoing social media plan, priced in <a href="/blog/social-media-management-cost-dubai">how much social media management costs in Dubai</a>.</p>
+<p>A short checklist before signing a video quote:</p>
+<ul>
+  <li>Confirm the number of finished videos, lengths and aspect ratios (16:9, 9:16, 1:1).</li>
+  <li>Ask how many revision rounds are included and what each extra round costs.</li>
+  <li>Check whether music is licensed for paid ads, not only organic posts.</li>
+  <li>Agree who owns the raw footage and whether it is delivered.</li>
+  <li>Get talent usage terms in writing: media, countries and duration.</li>
+  <li>Decide on Arabic subtitles, Arabic voiceover or Arabic on-camera lines before the shoot.</li>
+  <li>Confirm who handles permits and location consent.</li>
+</ul>
+<p>Real people and real Dubai locations also build more trust than synthetic footage, a point explored in <a href="/blog/ai-generated-ads-vs-real-shoots-dubai">whether Dubai brands should use AI-generated ads or real shoots</a>. AI tools remain useful for transcripts, subtitles, rough cuts and resizing, which lowers post-production time without replacing the human story.</p>
+
+<h2>How Can CoArt Studio Help With a Brand Video in Dubai?</h2>
+<p>CoArt Studio helps Dubai businesses plan, shoot and edit brand films, company profiles, launch videos and the social cutdowns that come from them. Every project starts with a discovery call that sets goals, formats, languages and budget, then turns into an itemised AED quote with clear deliverables, revision rounds and usage terms.</p>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> is a human-first Dubai studio where real strategists, directors, camera operators and editors handle every stage, using AI as a tool for speed, never as a substitute for creative judgement. Our team delivers videography, photography, content production, social media management and branding, in English and Arabic. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to scope your brand video and get a clear AED quote.</p>
+
+<h2>Related Reading</h2>
+<ul>
+  <li><a href="/blog/how-to-choose-social-media-agency-dubai">How to choose a social media agency in Dubai</a></li>
+  <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
+  <li><a href="/blog/brand-identity-why-it-matters">Why brand identity matters and when to invest in it</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "how-to-choose-social-media-agency-dubai",
+    title: "How Do You Choose a Social Media Agency in Dubai?",
+    excerpt: "To choose a social media agency in Dubai, compare 3 on strategy, content, replies, reporting, Arabic and contract terms. UAE retainers start at AED 4,000.",
+    date: "October 12, 2026",
+    category: "Digital Marketing",
+    image: "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=85",
+    readTime: "11 min read",
+    content: `
+<p>To choose a social media agency in Dubai, compare at least three agencies on strategy, content production, community management, reporting, Arabic capability and contract terms, then score each proposal against your goals. Retainers in the UAE typically start at AED 4,000 a month, so account ownership and a clear exit clause matter as much as price.</p>
+
+<h2>What Does a Social Media Agency in Dubai Actually Do?</h2>
+<p>A social media agency in Dubai plans, creates, publishes and manages a brand's content on platforms such as Instagram, TikTok, LinkedIn and Snapchat, then reports on the results. Choosing well starts with knowing which of these jobs a business needs, because many Dubai agencies are strong at one or two and outsource the rest.</p>
+<p>Most agency work falls into four jobs. Buyers should check which ones each proposal actually covers:</p>
+<ul>
+  <li><strong>Strategy:</strong> audience research, content pillars, tone of voice and platform goals.</li>
+  <li><strong>Content production:</strong> the shoots, filming, design and editing that create posts. Production is often priced separately, as explained in <a href="/blog/social-media-content-production-cost-dubai">how much social media content production costs in Dubai</a>.</li>
+  <li><strong>Community management:</strong> the daily work of replying to comments and direct messages and passing leads or complaints to the business.</li>
+  <li><strong>Paid social:</strong> planning and optimising ads in Meta Ads Manager, TikTok Ads Manager or LinkedIn Campaign Manager.</li>
+</ul>
+<p>A content pillar is a recurring theme a brand posts about, such as behind the scenes, product education or customer stories. An agency that cannot name three or four pillars for a business after the first meeting has not yet understood it. The same logic applies to choosing any creative partner, as covered in <a href="/blog/how-to-choose-a-digital-agency-for-your-startup">how to choose the right digital agency for your startup</a>.</p>
+
+<h2>What Questions Should You Ask a Social Media Agency in Dubai?</h2>
+<p>The most useful questions to ask a social media agency in Dubai cover who does the work, where the content comes from, how fast messages are answered, who owns the accounts and how results are measured. Asking every shortlisted agency the same questions in writing makes their answers directly comparable and exposes vague proposals before a contract is signed.</p>
+<p>Use these questions in the first call or send them with the brief:</p>
+<ol>
+  <li>Who will run the account day to day, and can we meet them before signing?</li>
+  <li>Which parts of the work are done in-house, and which are freelanced or outsourced?</li>
+  <li>Can you show two or three Dubai accounts you manage now, in a sector close to ours?</li>
+  <li>Where will the photos and videos come from each month: your shoots, our footage, or stock?</li>
+  <li>What are your reply hours for comments and DMs, including Fridays and weekends?</li>
+  <li>Who writes Arabic captions: a native Arabic copywriter or a translation tool?</li>
+  <li>How do you get access to our accounts, and do we keep full admin control?</li>
+  <li>What does a monthly report look like? Please share an anonymised example.</li>
+  <li>What is the minimum term, the notice period, and what do we receive if we leave?</li>
+  <li>Which tasks do you use AI for, and which are always done by a person?</li>
+</ol>
+<p>The answer to question 2 often explains the price. A low retainer usually means a junior account manager, template designs and stock imagery. Typical Dubai package prices are broken down in <a href="/blog/social-media-management-cost-dubai">how much social media management costs in Dubai</a>.</p>
+
+<h2>What Red Flags Should Dubai Businesses Watch For in a Social Media Agency?</h2>
+<p>The biggest red flags in a Dubai social media agency are guaranteed follower numbers and the agency holding sole admin access to a brand's accounts. Others include reports that show only likes, no named account lead, and portfolios full of stock or AI-generated imagery. Each one signals a risk to the brand's accounts, budget or reputation that is hard to undo later.</p>
+<p>The table below pairs each red flag with what it usually means and a better question to ask.</p>
+<table>
+  <thead>
+    <tr><th>Red flag</th><th>What it usually means</th><th>What to ask instead</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Guaranteed followers or viral reach</td><td>Paid followers, engagement groups or overpromising</td><td>What results did similar Dubai accounts see in 90 days?</td></tr>
+    <tr><td>The agency creates and owns the accounts</td><td>The brand can lose its pages if the contract ends badly</td><td>Will you join as a partner in our Meta business portfolio?</td></tr>
+    <tr><td>Reports show only likes and followers</td><td>No link between social activity and enquiries or sales</td><td>How do you track DMs, WhatsApp clicks and bookings?</td></tr>
+    <tr><td>No named account lead</td><td>Work is spread across juniors or freelancers</td><td>Who is our day-to-day contact, and what is their experience?</td></tr>
+    <tr><td>Portfolio of stock or AI-generated visuals</td><td>Little real production capability</td><td>Can we see raw footage from a recent shoot?</td></tr>
+    <tr><td>12-month lock-in with no exit clause</td><td>The agency expects clients to leave</td><td>Can we start with a three-month term and monthly notice after?</td></tr>
+  </tbody>
+</table>
+<p>Synthetic visuals deserve a separate check. Real people and real Dubai locations build more trust than generated imagery, a trade-off explored in <a href="/blog/ai-generated-ads-vs-real-shoots-dubai">whether Dubai brands should use AI-generated ads or real shoots</a>.</p>
+
+<h2>Is a Retainer or a Project Better When Hiring a Social Media Agency in Dubai?</h2>
+<p>A retainer is better when a Dubai business needs social media managed every month, while a project suits one-off work such as an account audit, a launch campaign or a festive push. Retainers buy consistency and community management; projects buy a defined result with a fixed end date, which makes them a low-risk way to test a new agency.</p>
+<p>Most Dubai brands that switch agencies successfully start with a short project, then move to a retainer once the working relationship is proven. The table compares the main engagement models.</p>
+<table>
+  <thead>
+    <tr><th>Engagement model</th><th>Best for</th><th>Typical AED price</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Audit and strategy project</td><td>Testing an agency, or resetting a stalled account</td><td>AED 3,000 to AED 10,000 one-off</td></tr>
+    <tr><td>Starter retainer</td><td>One or two platforms, 12 to 16 posts a month</td><td>AED 4,000 to AED 9,000 per month</td></tr>
+    <tr><td>Growth retainer</td><td>Two or three platforms, Reels and daily replies</td><td>AED 9,000 to AED 20,000 per month</td></tr>
+    <tr><td>Full-service retainer</td><td>Monthly shoots, bilingual content and paid social</td><td>AED 30,000 to AED 60,000 per month</td></tr>
+    <tr><td>Paid social management</td><td>Brands running ads on Meta, TikTok or Snapchat</td><td>10 to 20 percent of ad spend, or a flat monthly fee</td></tr>
+  </tbody>
+</table>
+<p>These ranges are typical Dubai market rates checked in October 2026 and match CoArt Studio's social media management pricing guide; they exclude VAT, advertising spend and talent fees. Platform count, Arabic versions and monthly shoot days move a quote from the low end to the high end.</p>
+<p>Seasonal projects are a common test. A brand can hire an agency for a single Dubai Shopping Festival or Ramadan campaign. The planning steps are outlined in <a href="/blog/dsf-festive-season-content-plan-dubai">how Dubai brands should plan DSF and festive season content</a>. The campaign shows how the agency works before a year-long commitment.</p>
+
+<h2>How Should You Compare Social Media Agency Proposals in Dubai?</h2>
+<p>The fairest way to compare social media agency proposals in Dubai is a weighted scorecard. List five or six criteria, weight each one by the business's goals, score every agency from 1 to 5, and multiply. A weighted scorecard stops the lowest price or the most polished pitch deck from deciding the choice on its own.</p>
+<p>In the worked example below, a Dubai restaurant group compares three proposals. Content and community management carry the most weight because most of its bookings start in Instagram DMs.</p>
+<table>
+  <thead>
+    <tr><th>Criterion (weight)</th><th>Agency A</th><th>Agency B</th><th>Agency C</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Strategy and audience insight (20%)</td><td>3</td><td>4</td><td>5</td></tr>
+    <tr><td>Content production capability (25%)</td><td>2</td><td>4</td><td>3</td></tr>
+    <tr><td>Community management and reply hours (15%)</td><td>2</td><td>4</td><td>3</td></tr>
+    <tr><td>Reporting linked to bookings (15%)</td><td>2</td><td>3</td><td>5</td></tr>
+    <tr><td>Arabic and English capability (10%)</td><td>2</td><td>4</td><td>3</td></tr>
+    <tr><td>Contract terms and account ownership (15%)</td><td>3</td><td>4</td><td>2</td></tr>
+    <tr><td>Weighted score out of 5</td><td>2.35</td><td>3.85</td><td>3.55</td></tr>
+  </tbody>
+</table>
+<p>Agency A was the cheapest at AED 5,000 a month, but it scored lowest because it relied on stock imagery and business-hours replies. Agency C pitched the strongest strategy and reporting, yet asked for a 12-month lock-in and would own the TikTok account. Agency B won on balance at AED 14,000 a month. These agencies and prices are illustrative, not real quotes.</p>
+<p>The scorecard also shows the cost of a wrong choice. A three-month minimum term at AED 14,000 a month commits AED 42,000 before a brand can leave, plus the time to brief a replacement. Spending a week on comparison is cheap by that measure.</p>
+
+<h2>What Should Monthly Social Media Reporting Include?</h2>
+<p>Monthly social media reporting should connect activity to business results. It should cover reach and non-follower reach, saves and shares, profile visits, website and WhatsApp clicks, DMs that became enquiries, and a plan for next month. A report that lists only likes and follower counts tells a Dubai business very little about whether its retainer is paying off.</p>
+<p>A useful report reads like a decision document, not a screenshot dump. These are the metrics worth asking for:</p>
+<table>
+  <thead>
+    <tr><th>Metric</th><th>What it shows</th><th>Why it matters</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Non-follower reach</td><td>How many new people saw the content</td><td>Shows whether the account is growing beyond existing fans</td></tr>
+    <tr><td>Shares and saves</td><td>Content people valued enough to send or keep</td><td>A stronger quality signal than likes</td></tr>
+    <tr><td>Profile visits and link clicks</td><td>Interest after seeing a post</td><td>The step between attention and action</td></tr>
+    <tr><td>DMs and WhatsApp enquiries</td><td>Direct sales conversations started on social</td><td>The closest link to revenue for most Dubai service brands</td></tr>
+    <tr><td>Average reply time</td><td>How fast the agency answered comments and DMs</td><td>Slow replies lose bookings, especially at weekends</td></tr>
+  </tbody>
+</table>
+<p>Non-follower reach is the share of views that come from people who do not yet follow the account. CoArt Studio reports that one Dubai hospitality and F&amp;B client reached nearly 215,000 Instagram views in 90 days, with 51 percent from non-followers. A good report puts a figure like that on page one. Format trends that drive these numbers are covered in <a href="/blog/social-media-marketing-trends-dubai-2026">the social media marketing trends shaping Dubai in 2026</a>.</p>
+
+<h2>Which UAE Rules Should a Social Media Agency Follow?</h2>
+<p>A social media agency working for UAE brands should hold a valid trade licence for its activity, handle customer data under the UAE Personal Data Protection Law, Federal Decree-Law No. 45 of 2021, and make sure creators it hires hold a UAE Media Council Advertiser Permit. Checking these basics protects the brand, because the brand's name sits on every post.</p>
+<p>Three checks take less than an hour:</p>
+<ul>
+  <li><strong>Trade licence:</strong> mainland Dubai licences can be verified on the Department of Economy and Tourism (DET) website by company name or licence number, which shows status, expiry date and licensed activities, according to <a href="https://www.khaleejtimes.com/life-and-living/dubai-trade-licence" target="_blank" rel="noopener noreferrer">Khaleej Times' guide to Dubai trade licences</a>. Free zone companies, for example in DMCC or Dubai Media City, are verified through their own free zone registers.</li>
+  <li><strong>Personal data:</strong> agencies read DMs, collect leads and run ad audiences, so they process personal data. The <a href="https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws" target="_blank" rel="noopener noreferrer">UAE government portal's summary of the data protection law</a> states that processing personal data without consent is generally prohibited and that holders must keep it secure and confidential.</li>
+  <li><strong>Creator permits:</strong> any influencer or on-camera creator the agency books should hold a valid Advertiser Permit from the <a href="https://www.nma.gov.ae/en/services/permit-for-an-individual-to-provide-advertising-or-media-content-on-social-media-and-other-digital-platforms" target="_blank" rel="noopener noreferrer">National Media Authority</a>; permit fees are covered in <a href="/blog/social-media-management-cost-dubai">the social media management cost guide</a>.</li>
+</ul>
+<p>Two independent sources agree that the data protection law took effect on 2 January 2022: the UAE government portal and <a href="https://www.clydeco.com/en/insights/2021/11/uae-issues-landmark-personal-data-protection-law" target="_blank" rel="noopener noreferrer">Clyde &amp; Co's analysis of the law</a>. Clyde &amp; Co also notes that third-party processors must follow the controller's instructions under a contract, so the agency agreement should say how lead and customer data is stored and deleted. Companies in the DIFC and ADGM follow those centres' own data protection rules. This is general information, not legal advice.</p>
+<p>Account access is the other practical safeguard. <a href="https://www.facebook.com/business/help/1717412048538897" target="_blank" rel="noopener noreferrer">Meta's Business Help Center</a> explains how a business gives a partner access to assets in its business portfolio, which lets an agency work on Instagram and Facebook without ever owning them. Ask for the same arrangement on TikTok Business Center and LinkedIn pages.</p>
+
+<h2>What Happens in the First 30 Days With a New Social Media Agency?</h2>
+<p>The first 30 days with a new social media agency in Dubai should cover access set-up, an account audit, an agreed strategy and content pillars, a first content calendar and a reporting baseline. Very little should be published in week one. An agency that starts posting before it has audited the account is guessing.</p>
+<p>A typical first month runs in this order:</p>
+<ol>
+  <li><strong>Days 1 to 5:</strong> partner access granted, brand guidelines and past results shared, a kick-off call with the named account lead.</li>
+  <li><strong>Days 6 to 12:</strong> audit of the last 90 days of content, competitor review and a reporting baseline.</li>
+  <li><strong>Days 13 to 20:</strong> strategy, content pillars and tone of voice approved; first shoot planned.</li>
+  <li><strong>Days 21 to 30:</strong> first monthly calendar approved and the first shoot day completed, so the second month starts with real content in hand.</li>
+</ol>
+<p>Hannah Finch, Head of Content at CoArt Studio, sees the same mistake in most agency switches: the business sends a long brief about what it wants to post, but no list of what failed before. The previous agency's reports, the posts that flopped and the most common DM questions save a new team weeks of repeating old tests. She also advises booking the first shoot during the first month, because an agency that has to wait for footage spends month two posting graphics instead of video. Planning a shoot that feeds a full month is covered in <a href="/blog/brand-video-production-cost-dubai">how much a corporate or brand video costs in Dubai</a>.</p>
+<p>A short handover checklist for the business:</p>
+<ul>
+  <li>Logins and admin roles for every platform, held by the business.</li>
+  <li>Brand guidelines, logo files, fonts and templates.</li>
+  <li>The last three months of reports from any previous agency.</li>
+  <li>A list of the ten questions customers ask most often in DMs.</li>
+  <li>Approval contacts and their turnaround time.</li>
+  <li>Key dates: launches, Ramadan, Eid, DSF and sector events.</li>
+</ul>
+
+<h2>How Can CoArt Studio Help You Choose and Run Social Media in Dubai?</h2>
+<p>CoArt Studio helps Dubai businesses comparing social media agencies by starting with a discovery call on goals, platforms, languages and content needs. It then sends an itemised AED proposal that can be scored like any other. The proposal names the account lead, the shoot plan, reply hours, reporting metrics and contract terms in writing.</p>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> is a human-first Dubai studio where real strategists, creatives and community managers run every account, using AI as a tool for speed, never as a substitute for creative judgement. Our team delivers social media management, content production, videography, photography and branding, in English and Arabic. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to talk through your brief and get a clear proposal you can compare.</p>
+
+<h2>Related Reading</h2>
+<ul>
+  <li><a href="/blog/social-media-management-cost-dubai">How much does social media management cost in Dubai?</a></li>
+  <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
+  <li><a href="/blog/brand-identity-why-it-matters">Why brand identity matters and when to invest in it</a></li>
 </ul>
     `.trim(),
   },
