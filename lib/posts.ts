@@ -1257,7 +1257,7 @@ export const posts: Post[] = [
 <ul>
   <li><a href="/blog/how-to-choose-social-media-agency-dubai">How to choose a social media agency in Dubai</a></li>
   <li><a href="/blog/social-media-marketing-trends-dubai-2026">What are the social media marketing trends in Dubai for 2026?</a></li>
-  <li><a href="/blog/brand-identity-why-it-matters">Why brand identity matters and when to invest in it</a></li>
+  <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
 </ul>
     `.trim(),
   },
@@ -1395,7 +1395,7 @@ export const posts: Post[] = [
 <ul>
   <li><a href="/blog/how-to-choose-social-media-agency-dubai">How to choose a social media agency in Dubai</a></li>
   <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
-  <li><a href="/blog/brand-identity-why-it-matters">Why brand identity matters and when to invest in it</a></li>
+  <li><a href="/blog/dsf-festive-season-content-plan-dubai">How should Dubai brands plan DSF and festive season content?</a></li>
 </ul>
     `.trim(),
   },
@@ -1550,7 +1550,7 @@ export const posts: Post[] = [
 <ul>
   <li><a href="/blog/social-media-management-cost-dubai">How much does social media management cost in Dubai?</a></li>
   <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
-  <li><a href="/blog/brand-identity-why-it-matters">Why brand identity matters and when to invest in it</a></li>
+  <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
 </ul>
     `.trim(),
   },

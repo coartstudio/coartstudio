@@ -12,6 +12,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }))
 
+  const latestPost = new Date(
+    Math.max(...posts.map((post) => Date.parse(post.updated ?? post.date)))
+  )
+
   return [
     {
       url: baseUrl,
@@ -21,13 +25,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${baseUrl}/blog`,
-      lastModified: new Date(),
+      lastModified: latestPost,
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
       url: `${baseUrl}/faq`,
-      lastModified: new Date('2026-09-28'),
+      lastModified: new Date('2026-10-17'),
       changeFrequency: 'monthly',
       priority: 0.6,
     },

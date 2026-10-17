@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     template: '%s | CoArt Studio',
   },
   description:
-    'Social media, brand identity, custom websites, mobile apps, and AI automation crafted by real designers, strategists, and developers. Not AI slop. Dubai digital agency.',
+    'Dubai studio for social media management, content production, videography, photography, branding, websites and AI, made by real people. Not AI slop.',
   keywords: [
     'digital agency',
     'branding agency',
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     siteName: 'CoArt Studio',
     title: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
     description:
-      'Social media, brand identity, custom websites, mobile apps, and AI automation crafted by real designers, strategists, and developers. Not AI slop. Dubai digital agency.',
+      'Dubai studio for social media management, content production, videography, photography, branding, websites and AI, made by real people. Not AI slop.',
     images: [
       {
         url: '/og-image.png',
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
     description:
-      'Social media, brand identity, custom websites, mobile apps, and AI automation crafted by real designers, strategists, and developers. Dubai digital agency.',
+      'Dubai studio for social media management, content production, videography, photography, branding, websites and AI, made by real people. Not AI slop.',
     images: ['/og-image.png'],
   },
   robots: {
@@ -129,7 +129,7 @@ export default function RootLayout({
                     'Search engine optimization',
                   ],
                   description:
-                    'Human-first digital agency crafting social media, brand identity, custom websites, mobile apps, and AI automation. Real designers, strategists, and developers in Dubai.',
+                    'CoArt Studio is a human-first Dubai studio for social media management, content production, videography, photography, branding, web development and AI automation. Real strategists, creatives and developers lead every project, in English and Arabic.',
                   contactPoint: {
                     '@type': 'ContactPoint',
                     contactType: 'sales',
@@ -158,7 +158,7 @@ export default function RootLayout({
                     '@id': 'https://www.coart.studio/#organization',
                   },
                   description:
-                    'Social media, brand identity, custom websites, mobile apps, and AI automation crafted by real designers, strategists, and developers. Not AI slop. Dubai digital agency.',
+                    'Dubai studio for social media management, content production, videography, photography, branding, websites and AI, made by real people. Not AI slop.',
                 },
                 {
                   '@type': 'ProfessionalService',
