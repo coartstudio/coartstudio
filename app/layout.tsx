@@ -6,7 +6,7 @@ import './globals.css'
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.coart.studio'),
   title: {
-    default: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
+    default: 'CoArt Studio: Dubai Social Media, Video & Branding, Made by Humans',
     template: '%s | CoArt Studio',
   },
   description:
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: '/',
     siteName: 'CoArt Studio',
-    title: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
+    title: 'CoArt Studio: Dubai Social Media, Video & Branding, Made by Humans',
     description:
       'Dubai studio for social media management, content production, videography, photography, branding, websites and AI, made by real people. Not AI slop.',
     images: [
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
+    title: 'CoArt Studio: Dubai Social Media, Video & Branding, Made by Humans',
     description:
       'Dubai studio for social media management, content production, videography, photography, branding, websites and AI, made by real people. Not AI slop.',
     images: ['/og-image.png'],
@@ -150,7 +150,7 @@ export default function RootLayout({
                   '@type': 'WebPage',
                   '@id': 'https://www.coart.studio/#webpage',
                   url: 'https://www.coart.studio',
-                  name: 'CoArt Studio: Digital Marketing, Branding, Web & AI Built by Humans Who Care',
+                  name: 'CoArt Studio: Dubai Social Media, Video & Branding, Made by Humans',
                   isPartOf: {
                     '@id': 'https://www.coart.studio/#website',
                   },
