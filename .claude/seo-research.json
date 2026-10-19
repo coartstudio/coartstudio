@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-18",
   "target_geo": "Dubai/UAE primary, MENA secondary, global tertiary",
   "domain": "www.coart.studio",
   "services": [
@@ -242,7 +242,7 @@
         "when to rebrand business"
       ],
       "notes": "Signs you need a rebrand vs refresh, process, AED ranges; link to branding-cost-dubai.",
-      "status": "queued"
+      "status": "published"
     },
     {
       "rank": 16,
@@ -251,7 +251,7 @@
       "category": "Branding",
       "intent": "informational",
       "priority": "high",
-      "status": "queued",
+      "status": "published",
       "keywords": [
         "Arabic branding Dubai",
         "bilingual brand identity UAE",
@@ -500,6 +500,36 @@
         "episodic content marketing"
       ],
       "notes": "Dubai brands (real estate, hospitality, finance) moving from one-off promo clips to documentary and episodic formats with real voices instead of scripted actors. Cover formats, how one shoot block feeds a season of episodes plus Reels cutdowns, and when it beats ads. Distinct from #13 (video pricing) and #29 (Instagram ranking): this is a format/strategy explainer. CTA to video production + content retainer."
+    },
+    {
+      "rank": 33,
+      "title": "Does Your Dubai Brand Need a Motion Identity?",
+      "slug": "motion-brand-identity-dubai",
+      "category": "Branding",
+      "intent": "commercial",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": [
+        "motion branding Dubai",
+        "animated logo UAE",
+        "motion identity design"
+      ],
+      "notes": "UAE agencies describe 2026 identities as digital-first and motion-ready because most brand touchpoints are now Reels, Stories and screens. Cover what a motion identity is (animated logo, transitions, type in motion, sound), when a static identity is enough, how it plugs into social video templates, and typical scope/AED ranges framed as market rates. Distinct from #15 (when to rebrand) and #16 (bilingual branding): this is about extending an existing identity into motion. CTA to CoArt branding + video."
+    },
+    {
+      "rank": 34,
+      "title": "Should Your Dubai Brand Go Live for a Launch?",
+      "slug": "live-stream-launch-dubai-brands",
+      "category": "Digital Marketing",
+      "intent": "commercial",
+      "priority": "medium",
+      "status": "queued",
+      "keywords": [
+        "live stream product launch Dubai",
+        "Instagram Live TikTok Live brands UAE",
+        "live shopping UAE"
+      ],
+      "notes": "Dubai production houses report live streaming for launches and Q&As as a 2026 video trend, and UAE social commerce is projected to double by 2030 (verify the source report). Cover when live beats a produced launch video, formats (launch, Q&A, live shopping, behind the scenes), what a live production needs (crew, multi-camera, connectivity, bilingual host), repurposing the stream into Reels, and Media Council advertiser-permit basics for hosts (verify current rules). Distinct from #13 (video pricing) and #32 (episodic series). CTA to video production + social media management."
     }
   ],
   "seo_rules": {

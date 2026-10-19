@@ -224,6 +224,7 @@ export const posts: Post[] = [
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
   <li><a href="/blog/ai-automation-for-small-business">How can AI automation help my small business save time and money?</a></li>
   <li><a href="/blog/branding-cost-dubai">How much does branding cost in Dubai?</a></li>
+  <li><a href="/blog/arabic-english-branding-dubai">Do you need Arabic and English branding in Dubai?</a></li>
 </ul>
     `.trim(),
   },
@@ -337,6 +338,7 @@ export const posts: Post[] = [
   <li><a href="/blog/brand-identity-why-it-matters">Why does brand identity matter and when should you invest in it?</a></li>
   <li><a href="/blog/website-cost-dubai">How much does a website cost in Dubai?</a></li>
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
+  <li><a href="/blog/when-to-rebrand-dubai">When should a Dubai business rebrand?</a></li>
 </ul>
     `.trim(),
   },
@@ -1155,6 +1157,7 @@ export const posts: Post[] = [
   <li><a href="/blog/brand-identity-why-it-matters">Why does brand identity matter and when should you invest in it?</a></li>
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
   <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
+  <li><a href="/blog/tiktok-instagram-search-dubai-brands">How do Dubai brands get found on TikTok and Instagram search?</a></li>
 </ul>
     `.trim(),
   },
@@ -1551,6 +1554,370 @@ export const posts: Post[] = [
   <li><a href="/blog/social-media-management-cost-dubai">How much does social media management cost in Dubai?</a></li>
   <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
   <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "tiktok-instagram-search-dubai-brands",
+    title: "How Do Dubai Brands Get Found on TikTok and Instagram Search?",
+    excerpt: "TikTok and Instagram search for Dubai brands: put Arabic and English keywords in captions, bios, on-screen text and location tags, then post answer-style Reels.",
+    date: "October 19, 2026",
+    category: "Digital Marketing",
+    image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=800&q=85",
+    readTime: "11 min read",
+    content: `
+<p>Dubai brands get found on TikTok and Instagram search by putting the exact words people type, such as "brunch JLT" or "abaya Dubai", into captions, profile names, bios and location tags, then repeating them on screen and on camera. In the UAE, that means planning keywords in both Arabic and English, plus neighbourhood names.</p>
+
+<h2>What Is Social Search and Why Does It Matter for UAE Brands?</h2>
+<p>Social search is the habit of typing a question or product into TikTok or Instagram instead of a search engine, then choosing from the videos and accounts that appear. Social search matters for UAE brands because the audience is already there: <a href="https://datareportal.com/reports/digital-2026-united-arab-emirates" target="_blank" rel="noopener noreferrer">DataReportal</a> counts 12.5 million TikTok users aged 18 and above in the UAE, and short video now answers many local buying questions.</p>
+<p>Two independent sources show that search is now a core use of these apps. TikTok's own <a href="https://newsroom.tiktok.com/creator-search-insights?lang=en" target="_blank" rel="noopener noreferrer">March 2024 announcement of Creator Search Insights</a> states that search powers discovery on TikTok. Separately, an <a href="https://www.adobe.com/express/learn/blog/using-tiktok-as-a-search-engine" target="_blank" rel="noopener noreferrer">Adobe Express survey</a> of 807 US consumers and 200 US small business owners, run in January and February 2026, found that 49 percent of consumers had used TikTok as a search engine, up from 41 percent in 2024. Google still led: 85 percent named it the most helpful platform for finding information.</p>
+<p>The Adobe figures cover the US, not the UAE, where <a href="https://datareportal.com/reports/digital-2026-united-arab-emirates" target="_blank" rel="noopener noreferrer">TikTok ads reached 134.6 percent of adults</a> at the end of 2025 (above 100 percent because of duplicate and business accounts). Platform-by-platform reach is broken down in <a href="/blog/social-media-marketing-trends-dubai-2026">the social media marketing trends shaping Dubai in 2026</a>.</p>
+<p>Competition for those searches is real. A TikTok report produced with Redseer Strategy Consultants, presented at the 2026 World Government Summit, counts more than 70,000 local SMBs active on the platform, according to <a href="https://fastcompanyme.com/news/tiktok-report-estimates-299-5-million-boost-to-uae-economy/" target="_blank" rel="noopener noreferrer">Fast Company Middle East</a>. It is a TikTok-commissioned estimate. Specific, local searches such as "flat white Al Quoz" are where a small brand can still win.</p>
+
+<h2>Which Signals Do TikTok and Instagram Use to Match Content to a Search?</h2>
+<p>TikTok and Instagram match content to a search mainly by the text attached to it: captions, hashtags, account names, bios and location tags. Instagram says the search text itself is by far its most important search signal, followed by the searcher's own activity and the popularity of each result. TikTok lists captions, sounds and hashtags among the video information it uses.</p>
+<p>Instagram's head Adam Mosseri set this out in a <a href="https://about.instagram.com/blog/announcements/break-down-how-instagram-search-works/" target="_blank" rel="noopener noreferrer">2021 explainer on how Instagram Search works</a>. Instagram matches a query against usernames, bios, captions, hashtags and places. The explainer gives three practical tips: use a handle and profile name related to the content, include keywords about the business in the bio, and put keywords and hashtags in the caption rather than the comments. Location-specific businesses are advised to add their location so local users find them.</p>
+<p>The signals fall into three groups:</p>
+<ul>
+  <li><strong>Text on the post:</strong> the caption, hashtags and location tag. This is the part a brand controls completely.</li>
+  <li><strong>Text on the account:</strong> the username, profile name and bio. These decide whether the account itself appears in results.</li>
+  <li><strong>Viewer response:</strong> clicks, likes, shares, follows and how much of the video people watch. These rank results when many posts match the same words.</li>
+</ul>
+<p>Neither platform publishes a full list of search signals, and vendor claims about caption length or keyword timing are unconfirmed. The safe approach is consistency. When the caption, the on-screen title and the first spoken line all use the same phrase, the video is clear to the viewer and to any system reading speech or on-screen text.</p>
+
+<h2>Which Keywords Should a Dubai Brand Target in Arabic and English?</h2>
+<p>A Dubai brand should target the short phrases its customers actually type in both Arabic and English: a product or service plus a place, a "best" query, a price question and a "what to order" or "how to" question. Neighbourhood names such as JLT, DIFC, Dubai Marina, Jumeirah and Al Quoz narrow the competition and match how residents search for nearby options.</p>
+<p>Arabic and English searches rarely translate word for word. Arabic speakers in the Gulf often type dialect words and transliterations, so the Arabic list should be written by a native speaker, not machine-translated from the English one. The table below shows the main query types with example phrases to adapt:</p>
+<table>
+  <thead>
+    <tr><th>Query type</th><th>English example</th><th>Arabic example</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Product or service plus area</td><td>brunch JLT</td><td>برانش دبي</td></tr>
+    <tr><td>Product plus city</td><td>abaya Dubai</td><td>عبايات دبي</td></tr>
+    <tr><td>Best-of question</td><td>best karak in Dubai</td><td>أفضل كرك في دبي</td></tr>
+    <tr><td>Price question</td><td>how much is a facial in Dubai</td><td>سعر تنظيف البشرة في دبي</td></tr>
+    <tr><td>What to order or choose</td><td>what to order at a Dubai brunch</td><td>ماذا أطلب في برانش دبي</td></tr>
+  </tbody>
+</table>
+<p>To build a real list, type each seed phrase into the TikTok and Instagram search bars and note the autocomplete suggestions, which reflect what people search. TikTok's Creator Search Insights tool, available in select regions, shows topics people search for often and flags "content gap" topics that are searched for often but covered by few videos. Brands planning a bilingual identity should align keywords with their brand name and tone, covered in <a href="/blog/arabic-english-branding-dubai">whether a Dubai business needs Arabic and English branding</a>.</p>
+
+<h2>What Does a Search-Optimised Reel Look Like for a Dubai Business?</h2>
+<p>A search-optimised Reel for a Dubai business targets one search phrase and repeats it in four places: the first spoken line, the on-screen title in the first frame, the first line of the caption and the location tag. The video then answers the question fully, so viewers watch to the end, which helps it rank when many videos match the same phrase.</p>
+<p>Here is a worked example for a café in Al Quoz targeting "best flat white Al Quoz" and its Arabic equivalent:</p>
+<ul>
+  <li><strong>Spoken hook (first two seconds):</strong> "Looking for the best flat white in Al Quoz? Here are three things that make ours different."</li>
+  <li><strong>On-screen title:</strong> "Best flat white in Al Quoz?" in English, with an Arabic version on a second line, inside the safe area away from the app buttons.</li>
+  <li><strong>Caption, first line:</strong> "Best flat white in Al Quoz: what goes into ours" followed by an Arabic line written by a native speaker, then two or three specific hashtags such as #AlQuoz and #DubaiCoffee.</li>
+  <li><strong>Location tag:</strong> the café's exact location, not just "Dubai".</li>
+  <li><strong>Body:</strong> three short shots of the beans, the milk and the price.</li>
+  <li><strong>Alt text on Instagram:</strong> a plain description of the drink and the café, which also helps viewers who use screen readers.</li>
+</ul>
+<p>Hannah Finch, Head of Content at CoArt Studio, finds that most brand captions fail the search test before anyone films a frame. Captions written as clever one-liners, such as "Monday mood", contain no word anyone would type. Her rule of thumb is one target phrase per video, said aloud in the first three seconds and shown on screen in the first frame.</p>
+
+<h2>What Does a Social Search Content Series Cost in Dubai?</h2>
+<p>A social search content series in Dubai typically costs AED 1,500 to AED 6,000 per finished Reel, or AED 7,000 to AED 20,000 per shoot day that produces a batch of Reels. Ongoing social media management for one or two platforms costs AED 4,000 to AED 9,000 per month. Search-led content needs no special budget, only a different brief.</p>
+<p>The table compares the main options, from in-house filming to a monthly retainer:</p>
+<table>
+  <thead>
+    <tr><th>Option</th><th>What is included</th><th>Typical AED price</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>In-house, filmed on a phone</td><td>Staff time for scripting, filming, editing and posting</td><td>No agency fee; staff time only</td></tr>
+    <tr><td>Single finished Reel</td><td>Script, filming, editing, on-screen text and captions</td><td>AED 1,500 to AED 6,000 per Reel</td></tr>
+    <tr><td>Shoot day</td><td>Crew, filming and a batch of edited Reels</td><td>AED 7,000 to AED 20,000 per day</td></tr>
+    <tr><td>Social media management, one or two platforms</td><td>Keyword plan, content calendar, publishing, community management and reporting</td><td>AED 4,000 to AED 9,000 per month</td></tr>
+    <tr><td>Content production retainer</td><td>Monthly shoots, edited Reels and bilingual versions</td><td>AED 8,000 to AED 35,000 per month</td></tr>
+  </tbody>
+</table>
+<p>These ranges match CoArt Studio's Dubai cost guides and typical Dubai market rates checked in October 2026, and they exclude 5 percent VAT, paid ad spend and talent fees. Arabic and English versions of every video and on-camera talent move a project toward the high end. Full breakdowns are in <a href="/blog/social-media-content-production-cost-dubai">how much social media content production costs in Dubai</a> and <a href="/blog/social-media-management-cost-dubai">how much social media management costs in Dubai</a>.</p>
+<p>A worked example shows how the numbers combine for a first month. One shoot day at AED 9,000 produces eight search-led Reels, and management of Instagram and TikTok costs AED 5,000. That is AED 14,000 before tax. The UAE's <a href="https://u.ae/en/information-and-services/finance-and-investment/taxation/vat/valueaddedtaxvat" target="_blank" rel="noopener noreferrer">standard VAT rate is 5 percent</a>, which adds AED 700, for a total of AED 14,700. Divided across eight Reels, the cost before VAT is AED 1,750 per Reel, inside the AED 1,500 to AED 6,000 range.</p>
+
+<h2>How Should a Dubai Brand Set Up Its Profile for Social Search?</h2>
+<p>A Dubai brand should set up its TikTok and Instagram profiles so the account itself matches its main search phrase: a profile name that includes the category and area, a bio with keywords in Arabic and English, and the business location. Instagram's own search guidance recommends keywords in the bio and a location for local businesses.</p>
+<p>A profile checklist for both apps:</p>
+<ul>
+  <li><strong>Profile name:</strong> brand name plus category and area, for example "Brand Name | Specialty Coffee Al Quoz". The name field is separate from the username.</li>
+  <li><strong>Username:</strong> the brand name, kept the same on TikTok and Instagram so people can find it on both.</li>
+  <li><strong>Bio:</strong> one line in English and one in Arabic saying what the business does and where.</li>
+  <li><strong>Location:</strong> the exact address or area, plus the business category on an Instagram professional account.</li>
+  <li><strong>Pinned posts:</strong> three videos that answer the most common questions, such as price, location and what to order.</li>
+</ul>
+
+<h2>What Does a 30-Day Social Search Plan Look Like?</h2>
+<p>A 30-day social search plan for a Dubai brand moves from research to publishing to review: build the keyword list in week one, fix the profiles, film a batch of answer-style videos in week two, publish two or three a week, and compare search-driven views at the end of the month. One month gives enough data to see which phrases work.</p>
+<ol>
+  <li><strong>Days 1 to 5:</strong> list 20 seed phrases in English and Arabic, test them in each app's search bar and autocomplete, and choose eight with clear buying intent.</li>
+  <li><strong>Days 6 to 8:</strong> rewrite profile names, bios and pinned posts on TikTok and Instagram.</li>
+  <li><strong>Days 9 to 12:</strong> script eight videos, one target phrase each, with the spoken hook and on-screen title written out.</li>
+  <li><strong>Days 13 to 15:</strong> film all eight in one shoot day and edit Arabic and English captions.</li>
+  <li><strong>Days 16 to 28:</strong> publish two or three videos a week with exact location tags, and reply to comments that ask follow-up questions.</li>
+  <li><strong>Days 29 and 30:</strong> review which phrases brought views from search and turn the best performers into a recurring series.</li>
+</ol>
+<p>In CoArt Studio's content planning, the most useful series format is a question series: one recurring title, such as "How much is it in Dubai?", answered in a new video each week. It builds a growing library on one theme. Brands timing a search series around peak season can combine it with the calendar in <a href="/blog/dsf-festive-season-content-plan-dubai">how Dubai brands should plan DSF and festive season content</a>.</p>
+
+<h2>How Can a Dubai Brand Measure Whether Social Search Is Working?</h2>
+<p>A Dubai brand can measure social search by checking where each video's views came from. TikTok's video analytics show traffic sources, including search, and Instagram's insights show how many viewers did not already follow the account. A rising share of search and non-follower views on keyword-led videos, compared with the brand's usual posts, shows the approach is working.</p>
+<p>Track four numbers each month in a simple spreadsheet:</p>
+<ul>
+  <li><strong>Search share:</strong> the percentage of each TikTok video's views from search.</li>
+  <li><strong>Non-follower reach:</strong> the share of Instagram viewers who were not following the account.</li>
+  <li><strong>Profile actions:</strong> profile visits, website taps, calls and direction requests.</li>
+  <li><strong>Search rank checks:</strong> a manual search for each target phrase, noting whether the brand's video appears in the top results.</li>
+</ul>
+<p>A video answering "best karak in Dubai" can keep earning views for months, unlike a trend video that peaks in two days. Social search also overlaps with AI assistants such as ChatGPT, Gemini and Perplexity, which draw on clear, well-labelled content across the web, as explained in <a href="/blog/geo-generative-engine-optimization-dubai">what GEO is and why Dubai businesses need it</a>.</p>
+
+<h2>What Should a Dubai Business Ask an Agency About Social Search?</h2>
+<p>A Dubai business hiring an agency for social search should ask how the agency builds its keyword list, who writes the Arabic captions, how each video's spoken hook and on-screen text are planned, and which search metrics appear in monthly reports. An agency that cannot answer these questions is posting content and hoping it gets found.</p>
+<p>Useful questions to ask before signing:</p>
+<ul>
+  <li>Which tools and searches do you use to choose keywords, and will we see the list?</li>
+  <li>Are Arabic captions written by a native speaker or translated by software?</li>
+  <li>Do your scripts include the target phrase in the first spoken line and the first frame?</li>
+  <li>Will monthly reports show views from search and non-follower reach for each video?</li>
+  <li>Do you film in-house, or does production go to a separate supplier?</li>
+</ul>
+<p>Paid creator partnerships are a separate decision, because paid promotional content in the UAE needs a UAE Media Council Advertiser Permit. A wider checklist for comparing agencies is in <a href="/blog/how-to-choose-social-media-agency-dubai">how to choose a social media agency in Dubai</a>.</p>
+
+<h2>How Can CoArt Studio Help Dubai Brands Get Found on TikTok and Instagram Search?</h2>
+<p>CoArt Studio helps Dubai brands get found on TikTok and Instagram search by planning keyword-led content in English and Arabic, shooting it in Dubai and managing the accounts that publish it. A first month typically covers a keyword list, profile rewrites, one shoot day of answer-style videos and a monthly report that tracks views from search.</p>
+<p>CoArt Studio is a Dubai social media management and content production studio, so the keyword plan, the shoot and the publishing sit with one team. Against the criteria in this article, CoArt Studio plans, shoots and edits the content itself, runs its shoots in Dubai and delivers content in English and Arabic, so the keyword plan and the Arabic captions never pass to a separate supplier.</p>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> is a human-first Dubai studio where real strategists, creatives and community managers run every account, using AI as a tool for speed, never as a substitute for creative judgement. Our team delivers social media management, content production, videography, photography and branding, in English and Arabic. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to talk through the searches your customers make and get a clear content plan.</p>
+
+<h2>Related Reading</h2>
+<ul>
+  <li><a href="/blog/how-to-choose-social-media-agency-dubai">How do you choose a social media agency in Dubai?</a></li>
+  <li><a href="/blog/dsf-festive-season-content-plan-dubai">How should Dubai brands plan DSF and festive season content?</a></li>
+  <li><a href="/blog/ai-generated-ads-vs-real-shoots-dubai">Should Dubai brands use AI-generated ads or real shoots?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "when-to-rebrand-dubai",
+    title: "When Should a Dubai Business Rebrand?",
+    excerpt: "Rebrand a Dubai business when its name, audience or positioning no longer fit. A rebrand costs AED 75,000 to AED 500,000; a refresh AED 15,000 to AED 75,000.",
+    date: "October 19, 2026",
+    category: "Branding",
+    image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=800&q=85",
+    readTime: "12 min read",
+    content: `
+<p>A Dubai business should rebrand when its name, audience or positioning has changed so much that a visual update can no longer fix the mismatch, for example after a merger, a move upmarket or an expansion into new markets. In Dubai, a full rebrand costs AED 75,000 to AED 500,000, while a brand refresh costs AED 15,000 to AED 75,000.</p>
+
+<h2>What Is the Difference Between a Rebrand and a Brand Refresh?</h2>
+<p>The difference between a rebrand and a brand refresh is how much of the brand's meaning changes. A rebrand is a change to the brand's strategy, positioning and often its name, followed by a new identity. A brand refresh is an update to the visual and verbal expression of a brand whose strategy still works: the logo, colours, typography, photography style and tone are modernised while the name and promise stay.</p>
+<p>The distinction matters because the two projects carry very different costs, timelines and risks. A refresh keeps the recognition a business has already built, often called brand equity. Brand equity is the value customers attach to a familiar name and look, such as recall, trust and a willingness to pay more. A rebrand deliberately spends some of that equity to reach a new position.</p>
+<p>Gerald Tony, Founder of CoArt Studio, uses a simple five-element test to place a project. The five elements are the name, the positioning, the target audience, the logo and the wider visual system. If only the logo and visual system need to change, the project is a refresh. If two or more of the first three need to change, it is a rebrand, and starting with design would be a mistake.</p>
+
+<h2>What Are the Signs a Dubai Business Needs a Rebrand?</h2>
+<p>The clearest signs a Dubai business needs a rebrand are a change in what the business does, who it serves or who owns it. Typical triggers include a merger or acquisition, a move from a local to a regional or GCC audience, a shift from budget to premium pricing, a name that is hard to say in Arabic or English, or a name that is confused with a competitor.</p>
+<p>Many signs point only to a refresh. A dated logo, inconsistent social media templates or a website that looks older than the service behind it are expression problems, not strategy problems. The table below separates the common triggers by the type of project they usually justify:</p>
+<table>
+  <thead>
+    <tr><th>Trigger</th><th>Usually justifies</th><th>Why</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Merger, acquisition or new ownership</td><td>Rebrand</td><td>Two identities must become one, or the new owner changes the promise</td></tr>
+    <tr><td>Expansion from Dubai to the wider GCC</td><td>Rebrand or refresh</td><td>The name and story must work in new markets and in Arabic</td></tr>
+    <tr><td>Move from budget to premium pricing</td><td>Rebrand</td><td>The positioning and audience change, not only the look</td></tr>
+    <tr><td>Name confused with a competitor or hard to trademark</td><td>Rebrand</td><td>The name itself is the problem</td></tr>
+    <tr><td>Logo looks dated or fails at small sizes</td><td>Refresh</td><td>Strategy still works; expression needs updating</td></tr>
+    <tr><td>Inconsistent social media, packaging and website</td><td>Refresh</td><td>A new visual system and guidelines solve it</td></tr>
+  </tbody>
+</table>
+<p>Dubai adds two local triggers. Businesses that started English-only often find that customers, landlords and regulators expect an Arabic version of the name and logo, which is covered in <a href="/blog/arabic-english-branding-dubai">whether a Dubai business needs Arabic and English branding</a>. Hospitality, F&amp;B and real estate brands also face fast-moving competition, so a concept that felt new three years ago can look generic once similar venues open nearby.</p>
+
+<h2>What Does a Rebrand or Refresh Cost in Dubai?</h2>
+<p>A rebrand or refresh in Dubai costs AED 5,000 to AED 500,000 depending on scope. A logo refinement costs AED 5,000 to AED 20,000, a brand refresh costs AED 15,000 to AED 75,000, and a full rebrand costs AED 75,000 to AED 500,000. Implementation, such as new signage, uniforms and a website update, typically adds 30 to 100 percent of the core fee.</p>
+<p>The cost of each project type rises with the amount of strategy work and the number of touchpoints that must change:</p>
+<table>
+  <thead>
+    <tr><th>Project type</th><th>What changes</th><th>Typical AED price</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Logo refinement</td><td>Redrawn logo, updated colours and file set; name and strategy unchanged</td><td>AED 5,000 to AED 20,000</td></tr>
+    <tr><td>Brand refresh</td><td>New visual system, typography, imagery direction, templates and guidelines</td><td>AED 15,000 to AED 75,000</td></tr>
+    <tr><td>Full rebrand</td><td>Brand audit, positioning, naming or renaming, messaging, new identity and rollout plan</td><td>AED 75,000 to AED 500,000</td></tr>
+    <tr><td>Implementation</td><td>Signage, uniforms, vehicles, print, website and social profiles</td><td>30 to 100 percent of the core fee</td></tr>
+  </tbody>
+</table>
+<p>These ranges match CoArt Studio's published branding cost guide and typical Dubai market rates checked in October 2026, and they exclude 5 percent VAT, trademark fees and the cost of physical production such as sign fabrication. Bilingual Arabic and English identity work, sub-brands and the number of physical locations move a project toward the high end. The full breakdown by tier is in <a href="/blog/branding-cost-dubai">how much branding costs in Dubai</a>.</p>
+<p>A worked example shows why implementation matters. Consider a Dubai F&amp;B business with two outlets that commissions a full rebrand at a core fee of AED 90,000. The illustrative implementation budget is AED 20,000 for two new shopfront signs, AED 25,000 for a website refresh, AED 8,000 for uniforms and print, and AED 9,000 for one launch content shoot day. Implementation totals AED 62,000, or 69 percent of the core fee. The subtotal is AED 152,000. VAT at 5 percent adds AED 7,600, for a total of AED 159,600. Website pricing is broken down in <a href="/blog/website-cost-dubai">how much a website costs in Dubai</a>.</p>
+
+<h2>How Long Does a Rebrand Take, Step by Step?</h2>
+<p>A rebrand for a Dubai small or mid-sized business typically takes 10 to 16 weeks from audit to launch, while a brand refresh takes 4 to 8 weeks. The rebrand timeline is longer because research, positioning and naming must be agreed before design starts, and because legal checks on a new name can take several weeks in the UAE.</p>
+<p>A typical rebrand runs in six stages:</p>
+<ol>
+  <li><strong>Brand audit (weeks 1 to 2):</strong> review every touchpoint, competitor positioning and customer perception, including interviews with staff and a sample of customers.</li>
+  <li><strong>Strategy and positioning (weeks 3 to 4):</strong> define the audience, the promise and the brand's personality, and decide whether the name stays.</li>
+  <li><strong>Naming and legal checks (weeks 4 to 6, if renaming):</strong> shortlist names, check trade name availability and trademark conflicts, and test pronunciation in Arabic and English.</li>
+  <li><strong>Identity design (weeks 6 to 10):</strong> logo, colour, typography, imagery direction and tone of voice, presented as two or three routes before one is refined.</li>
+  <li><strong>Guidelines and assets (weeks 10 to 12):</strong> a brand guidelines document, templates for social media, presentations and print, and a master file set.</li>
+  <li><strong>Rollout and launch (weeks 12 to 16):</strong> signage, website, social profiles, packaging and staff briefing, timed to a single launch date.</li>
+</ol>
+<p>A refresh usually skips stages 1 and 3 in full and shortens stage 2 to a short workshop. New social media templates and launch content are often produced alongside the guidelines, and their cost is covered in <a href="/blog/social-media-content-production-cost-dubai">how much social media content production costs in Dubai</a>.</p>
+
+<h2>What Legal and Licensing Steps Does a Rebrand Involve in the UAE?</h2>
+<p>A rebrand in the UAE that changes the business name involves three legal steps: checking that the new trade name is available, amending the trade licence with the licensing authority, and registering the new brand as a trademark. Trademarks in the UAE are registered with the Ministry of Economy and Tourism under Federal Decree-Law No. 36 of 2021 on Trademarks.</p>
+<p>A trade name is the legal name on the business licence, while a trademark is the protected name or logo used to sell products or services. The two are separate. The UAE government portal confirms that the <a href="https://u.ae/en/information-and-services/business/Business-laws-and-compliance/intellectual-property" target="_blank" rel="noopener noreferrer">Ministry of Economy and Tourism is the competent authority to register trademarks</a> and that applications can be filed online. A new trade name does not protect the brand on its own.</p>
+<p>The practical sequence for a Dubai mainland company is:</p>
+<ul>
+  <li><strong>Check availability:</strong> search the National Economic Register for existing trade names, and search the trademark register for similar marks in the same classes.</li>
+  <li><strong>Amend the licence:</strong> mainland companies apply to the Department of Economy and Tourism (DET); free zone companies apply to their free zone authority.</li>
+  <li><strong>File the trademark:</strong> register the new word mark and logo in each class of goods or services the business uses. Official fees are charged per class, so confirm the current schedule with the Ministry before budgeting.</li>
+  <li><strong>Update signage:</strong> new shopfront signs must follow Dubai's trade-name signage rules, including one trade name per shopfront and Arabic above English, as the <a href="https://mediaoffice.ae/en/news/2026/may/12-05/shopfront-advertising-framework-continues-to-enhance-quality-of-dubai-urban-landscape" target="_blank" rel="noopener noreferrer">Dubai Media Office reported in May 2026</a>.</li>
+  <li><strong>Update digital records:</strong> domain names, social media handles on Instagram, TikTok and LinkedIn, the Google Business Profile, and supplier and bank records.</li>
+</ul>
+<p>Securing the trademark and the social handles before the public announcement prevents a competitor or squatter from claiming the new name first.</p>
+
+<h2>Does Rebranding Actually Improve Business Performance?</h2>
+<p>Rebranding improves business performance when the new name or identity signals a real change in the business, according to two peer-reviewed studies of corporate name changes. Both found that markets rewarded name changes that accompanied genuine changes in strategy, while a new name alone did not lift demand. A rebrand works as a signal of change, not a substitute for it.</p>
+<p>A 1987 study in Marketing Science by Horsky and Swyngedouw examined <a href="https://ideas.repec.org/a/inm/ormksc/v6y1987i4p320-335.html" target="_blank" rel="noopener noreferrer">58 US corporations that changed their names between 1981 and 1985</a>. For most firms, the name change was associated with improved performance, and the largest gains came from firms whose prior performance was relatively poor. The authors found no evidence that the new name itself increased demand. Instead, the change signalled that new products or organisational changes would follow.</p>
+<p>A later study of <a href="https://ideas.repec.org/a/eee/jbrese/v68y2015i2p281-290.html" target="_blank" rel="noopener noreferrer">180 publicly listed US firms by Kashmiri and Mahajan, published in the Journal of Business Research in 2015</a>, reached a consistent conclusion. Firms earned greater stock market rewards when the name change proactively communicated a future change in products or markets. Firms with strong marketing capability and marketing influence in the C-suite also gained more.</p>
+<p>Both studies cover listed US companies, not UAE small businesses, but the lesson transfers. A Dubai business that rebrands should be able to state in one sentence what has changed for customers. In CoArt Studio's own client work, brands refreshed by the studio report 35 percent stronger audience recall within 60 days, a reported result for refreshes rather than full renames. The broader case for identity investment is set out in <a href="/blog/brand-identity-why-it-matters">why brand identity matters and when to invest in it</a>.</p>
+
+<h2>What Are the Most Common Rebranding Mistakes in Dubai?</h2>
+<p>The most common rebranding mistakes in Dubai are starting with the logo before the strategy, launching on social media before the licence, signage and trademark are updated, and treating the Arabic version of the name as an afterthought. Each one either wastes design fees or creates a period in which customers see two different brands and trust neither.</p>
+<p>Gerald Tony sees the timing mistake most often. A business shares its new logo on Instagram while the old sign, invoices and Google Business Profile still carry the previous name for weeks. His rule of thumb is to treat launch day as the day every customer-facing touchpoint changes at once, and to keep a short "formerly known as" line on the website and social profiles for three to six months.</p>
+<p>Other mistakes to avoid:</p>
+<ul>
+  <li><strong>Renaming without testing:</strong> a name that reads well in English can sound awkward or carry an unintended meaning in Arabic.</li>
+  <li><strong>Ignoring staff:</strong> employees who learn about the rebrand on launch day cannot explain it to customers.</li>
+  <li><strong>Budgeting only the design fee:</strong> implementation costs can equal the core fee for businesses with several locations.</li>
+  <li><strong>Discarding all equity:</strong> keeping one familiar element, such as a colour or symbol, helps existing customers recognise the brand.</li>
+  <li><strong>No measurement plan:</strong> without a baseline of recall, enquiries or social reach, the rebrand's effect cannot be judged.</li>
+</ul>
+
+<h2>How Do You Choose a Rebranding Agency in Dubai?</h2>
+<p>A Dubai business choosing a rebranding agency should look for a documented strategy phase before design, experience with Arabic and English identities, a clear rollout plan covering signage and digital assets, and an itemised AED quote that separates the core fee from implementation. An agency that presents logo concepts in the first meeting has skipped the work that makes a rebrand succeed.</p>
+<p>Useful questions to ask before signing:</p>
+<ul>
+  <li>How does your audit and strategy phase work, and what will we receive at the end of it?</li>
+  <li>Who designs the Arabic logotype, and is it drawn to match the Latin version?</li>
+  <li>Do you check trade name and trademark availability, or do we need a separate adviser?</li>
+  <li>Does the quote include brand guidelines, social media templates and a rollout plan?</li>
+  <li>Can the same team produce launch photography, video and social content?</li>
+</ul>
+<p>The last question matters because a rebrand is only visible once new content appears. A launch film or set of brand photographs is often the first public expression of the new identity, and typical prices are in <a href="/blog/brand-video-production-cost-dubai">how much a corporate or brand video costs in Dubai</a>.</p>
+
+<h2>How Can CoArt Studio Help a Dubai Business Rebrand?</h2>
+<p>CoArt Studio helps Dubai businesses decide between a rebrand and a refresh, then delivers the strategy, identity, guidelines and launch content in one engagement. Projects run in four phases: discovery, strategy, design and documentation. Arabic and English versions are planned from the start, and the same team can produce the photography, video and social content that introduces the new brand.</p>
+<p>CoArt Studio is a Dubai rebranding and brand identity studio, so the strategy, the identity and the launch content sit with one team. Against the criteria in this article, CoArt Studio runs a strategy phase before design, delivers brand guidelines and templates, works in English and Arabic, provides itemised AED proposals after a discovery call, and produces photography, video and social content in-house in Dubai. Brands refreshed by CoArt Studio report 35 percent stronger audience recall within 60 days, according to the studio's own client results.</p>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> is a human-first Dubai studio where real strategists, designers and creatives lead every brand project, using AI as a tool for speed, never as a substitute for judgement. Our team delivers branding, content production, videography, photography, social media management and web development, in English and Arabic. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to talk through whether your business needs a rebrand or a refresh, and get a clear AED estimate.</p>
+
+<h2>Related Reading</h2>
+<ul>
+  <li><a href="/blog/branding-cost-dubai">How much does branding cost in Dubai?</a></li>
+  <li><a href="/blog/arabic-english-branding-dubai">Do you need Arabic and English branding in Dubai?</a></li>
+  <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "arabic-english-branding-dubai",
+    title: "Do You Need Arabic and English Branding in Dubai?",
+    excerpt: "Arabic and English branding in Dubai is needed for shopfronts and consumer brands. A matched Arabic logotype costs AED 5,000 to AED 20,000. See when and how.",
+    date: "October 19, 2026",
+    category: "Branding",
+    image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=85",
+    readTime: "11 min read",
+    content: `
+<p>You need Arabic and English branding in Dubai if your business has a shopfront, packaging or a consumer audience, because Dubai's signage rules place Arabic above English on trade-name signs. Business-to-business firms selling mainly in English can start English-only, and adding a matched Arabic logotype to an existing brand costs AED 5,000 to AED 20,000.</p>
+
+<h2>What Do Dubai's Signage Rules Require for Arabic and English?</h2>
+<p>Dubai's signage rules require a shopfront trade-name sign to show Arabic above English, displayed horizontally, with one trade name per establishment. The Department of Economy and Tourism (DET) regulates trade-name signage under the Outdoor Advertising Manual introduced in 2024 by the RTA and Dubai Municipality, so any Dubai business with a physical storefront needs an Arabic version of its name.</p>
+<p>Two independent sources confirm the rule. The <a href="https://mediaoffice.ae/en/news/2026/may/12-05/shopfront-advertising-framework-continues-to-enhance-quality-of-dubai-urban-landscape" target="_blank" rel="noopener noreferrer">Dubai Media Office announced in May 2026</a> that signage must be horizontal, with Arabic positioned above English, and that each establishment may display one trade name only. <a href="https://www.khaleejtimes.com/uae/shop-owners-in-dubai-asked-to-abide-by-signage-rules" target="_blank" rel="noopener noreferrer">Khaleej Times reported the same rules</a> the following day, noting that vertical signs are not allowed.</p>
+<p>The rule has a direct branding consequence. If the Arabic name on the sign is set in a default font while the English name uses a custom logo, the storefront shows two brands of unequal quality. The Arabic version will appear on the most visible asset the business owns, so it should be designed, not improvised by the sign maker.</p>
+
+<h2>Which Dubai Businesses Can Use an English-Only Brand?</h2>
+<p>A Dubai business can use an English-only brand when it has no shopfront, no consumer packaging and an audience that buys mainly in English, such as many technology, consulting and professional services firms selling to other businesses. English-only branding works at the start for these firms, but most add Arabic once they sell to government entities, enter Saudi Arabia or open a physical location.</p>
+<p>The decision depends on where the brand appears and who reads it. Dubai's population is highly international and English is the common business language, yet Arabic remains the official language and the first language for Emirati and many Arab customers. The table below shows how the main business types usually decide:</p>
+<table>
+  <thead>
+    <tr><th>Business type</th><th>Arabic needed?</th><th>Main reason</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Retail, F&amp;B and hospitality with a shopfront</td><td>Yes, from launch</td><td>Trade-name signage shows Arabic above English</td></tr>
+    <tr><td>Consumer brands sold in shops or on noon and Amazon.ae</td><td>Yes, from launch</td><td>Packaging and product listings reach Arabic-speaking shoppers</td></tr>
+    <tr><td>Real estate developers and brokers</td><td>Usually</td><td>Buyers from the GCC and wider Arab world expect Arabic materials</td></tr>
+    <tr><td>Firms selling to government entities</td><td>Usually</td><td>Proposals and events are often bilingual</td></tr>
+    <tr><td>B2B technology and consulting, online only</td><td>Optional at first</td><td>Buyers mostly read English; add Arabic before regional expansion</td></tr>
+  </tbody>
+</table>
+<p>Founders often plan the bilingual question as part of a wider identity decision. Businesses that launched English-only and now need Arabic should weigh whether a refresh or a full rebrand fits, covered in <a href="/blog/when-to-rebrand-dubai">when a Dubai business should rebrand</a>.</p>
+
+<h2>Should a Brand Name Be Translated or Transliterated into Arabic?</h2>
+<p>Most Dubai brand names should be transliterated into Arabic rather than translated. Transliteration is writing the same sounds of a name in Arabic letters, so customers say one name in both languages. Translation is replacing the name with Arabic words that carry the same meaning, which creates a second name. Translation suits descriptive names, such as "The Green Kitchen", where the meaning is the point.</p>
+<p>Transliteration keeps one spoken identity across both audiences, which is why many international chains in Dubai use their original name spelled in Arabic script. It also keeps search simpler: people who hear the name can type it in either language and find the same brand. The trade-off is that some sounds have no exact Arabic letter. The letters P and V, for example, have no standard equivalent in Arabic and are usually written as ب and ف.</p>
+<p>Gerald Tony, Founder of CoArt Studio, recommends testing an Arabic name the way customers meet it: read aloud by a native speaker, typed into a phone and seen at sign distance. A transliteration that is technically correct can still read awkwardly, carry an unintended meaning in Gulf dialect or be spelled three different ways by customers. The spelling chosen should then be fixed in the brand guidelines and used everywhere.</p>
+<p>A protected brand also needs legal work. The UAE government portal confirms that the <a href="https://u.ae/en/information-and-services/business/Business-laws-and-compliance/intellectual-property" target="_blank" rel="noopener noreferrer">Ministry of Economy and Tourism registers trademarks under Federal Decree-Law No. 36 of 2021</a>. Businesses using an Arabic logotype should confirm with the Ministry or an IP adviser that their filing covers the Arabic form of the mark as well as the Latin one.</p>
+
+<h2>What Makes Arabic Typography Different From Latin Typography?</h2>
+<p>Arabic typography differs from Latin typography in direction, letter structure and proportion. Arabic is written right to left, its letters join to their neighbours, and each letter can take different shapes depending on its position in a word. Arabic has no capital letters, so a Latin logo built on bold capitals cannot simply be converted letter by letter into Arabic.</p>
+<p>The W3C's <a href="https://www.w3.org/TR/alreq/" target="_blank" rel="noopener noreferrer">Arabic and Persian Layout Requirements</a>, a draft note updated in October 2025, sets out these rules for digital text. It states that Arabic script is written from right to left, that letters can join to neighbouring letters, and that every Arabic letter has one, two or four joining forms. It also notes that numbers are written left to right, even inside Arabic text, which affects price tags, menus and phone numbers in bilingual layouts.</p>
+<p>Three terms come up in every bilingual identity project:</p>
+<ul>
+  <li><strong>Logotype:</strong> a logo made from the letters of the brand name, drawn rather than typed. An Arabic logotype is drawn to sit beside the Latin one with matching weight and character.</li>
+  <li><strong>Type pairing:</strong> the choice of an Arabic typeface and a Latin typeface that look related in weight, contrast and tone, used together across all materials.</li>
+  <li><strong>Optical balance:</strong> adjusting sizes so the two scripts look equal. Arabic set at the same point size as Latin often looks smaller, so designers usually scale it up slightly by eye.</li>
+</ul>
+<p>Gerald Tony's rule of thumb for Dubai briefs is that the Arabic logotype should be designed in the same sessions as the Latin one, not commissioned afterwards. When the English logo is finished first, its proportions are fixed, and the Arabic version is forced to fit a shape that was never planned for it.</p>
+
+<h2>How Do Arabic and English Work Together in One Identity System?</h2>
+<p>Arabic and English work together in one identity system when both versions share the same colours, spacing rules, imagery style and tone of voice, with clear guidance on which language leads in each context. A bilingual identity system is a set of brand rules that covers both scripts, so a sign, an Instagram post and an invoice all look like the same brand.</p>
+<p>A bilingual identity checklist covers these elements:</p>
+<ul>
+  <li><strong>Lockups:</strong> approved arrangements of the Arabic and English logos, stacked and side by side, with the Arabic-above-English version ready for signage.</li>
+  <li><strong>Type pairing:</strong> one Arabic and one Latin family for headings and body text, with sizes set for optical balance.</li>
+  <li><strong>Layout mirroring:</strong> rules for flipping layouts right to left for Arabic pages, posts and presentations, and for which elements, such as photos and logos, stay fixed.</li>
+  <li><strong>Tone of voice:</strong> guidance for writing in Arabic directly, including whether to use Modern Standard Arabic or a Gulf dialect, rather than translating English copy line by line.</li>
+  <li><strong>Numerals:</strong> a choice between Western digits and Eastern Arabic-Indic digits, applied consistently on menus, price tags and packaging.</li>
+  <li><strong>Templates:</strong> bilingual templates for social media, menus, packaging and proposals, so staff do not improvise.</li>
+</ul>
+<p>The choice between Modern Standard Arabic and dialect depends on the audience. Formal documents, government proposals and packaging usually use Modern Standard Arabic, while social media content often uses Emirati or wider Gulf dialect to sound natural.</p>
+
+<h2>What Does Bilingual Branding Cost in Dubai?</h2>
+<p>Bilingual branding in Dubai costs AED 5,000 to AED 500,000 depending on scope. A matched Arabic logotype for an existing English brand costs AED 5,000 to AED 20,000, a full bilingual brand identity costs AED 15,000 to AED 75,000, and a bilingual rebrand with renaming and rollout costs AED 75,000 to AED 500,000.</p>
+<p>The cost of bilingual work depends mainly on whether Arabic is added to an existing identity or designed in from the start:</p>
+<table>
+  <thead>
+    <tr><th>Scope</th><th>What is included</th><th>Typical AED price</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Arabic logotype for an existing brand</td><td>Arabic name check, drawn Arabic logotype matched to the Latin logo, lockups and files</td><td>AED 5,000 to AED 20,000</td></tr>
+    <tr><td>Full bilingual brand identity</td><td>Strategy, Arabic and English logos, type pairing, colours, guidelines and templates</td><td>AED 15,000 to AED 75,000</td></tr>
+    <tr><td>Bilingual rebrand</td><td>Brand audit, naming in both languages, new identity, legal checks and rollout plan</td><td>AED 75,000 to AED 500,000</td></tr>
+  </tbody>
+</table>
+<p>These ranges match CoArt Studio's published branding cost guide and typical Dubai market rates checked in October 2026, and they exclude 5 percent VAT, trademark fees, sign fabrication and printing. The number of templates, packaging formats and physical locations moves a project toward the high end. The tier-by-tier breakdown is in <a href="/blog/branding-cost-dubai">how much branding costs in Dubai</a>.</p>
+<p>A worked example shows the arithmetic for a Dubai retail brand with three stores. A full bilingual identity refresh costs AED 40,000. Implementation artwork for three shopfront signs and two packaging formats adds 30 percent of the core fee, or AED 12,000. The subtotal is AED 52,000. VAT at 5 percent adds AED 2,600, for a total of AED 54,600, or AED 18,200 per store. Product images for bilingual packaging and listings are priced in <a href="/blog/product-photography-cost-dubai">how much product photography costs in Dubai</a>.</p>
+
+<h2>How Should Bilingual Branding Carry Into Social Media Content?</h2>
+<p>Bilingual branding should carry into social media content through native Arabic captions, Arabic on-screen text, mirrored templates and occasional Arabic-led videos, not only translated English posts. Young Arab audiences want Arabic content that feels current: a 2025 survey found that 71 percent of young Arabs prefer media in Arabic, while 67 percent feel Arabic content is outdated.</p>
+<p>The figures come from the Congress ACI Arab Youth Pulse Survey 2025, conducted by Ipsos with the Abu Dhabi Arabic Language Centre. It covered 4,092 respondents aged 18 to 25 in ten countries, including the UAE, as reported by <a href="https://thenationalnews.com/arts-culture/books/2026/09/20/young-arabs-want-more-arabic-content-but-say-much-of-it-feels-outdated" target="_blank" rel="noopener noreferrer">The National in September 2026</a>. The survey gives no UAE-only breakdown. The gap between preference and satisfaction is an opening for brands that publish modern, well-designed Arabic content.</p>
+<p>In practice, Arabic content on Instagram and TikTok uses the same identity rules as print: the Arabic typeface from the guidelines, right-to-left layouts and the agreed spelling of the brand name. Bilingual captions also help customers find the brand when they search in Arabic, as explained in <a href="/blog/tiktok-instagram-search-dubai-brands">how Dubai brands get found on TikTok and Instagram search</a>. The cost of producing that content each month is broken down in <a href="/blog/social-media-content-production-cost-dubai">how much social media content production costs in Dubai</a>.</p>
+
+<h2>What Should You Ask a Designer About Arabic Branding?</h2>
+<p>A Dubai business hiring a designer for Arabic branding should ask who draws the Arabic logotype, whether a native Arabic speaker reviews names and copy, how the type pairing is chosen, and whether the guidelines cover right-to-left layouts. A designer who plans to convert the finished English logo with an Arabic font is offering a translation, not a bilingual identity.</p>
+<p>Questions to ask before signing:</p>
+<ul>
+  <li>Will the Arabic and English logos be designed together, and can we see bilingual work you have delivered?</li>
+  <li>Who reviews the Arabic spelling and tone, and are they a native speaker?</li>
+  <li>Which Arabic typefaces do you recommend, and are they licensed for commercial use?</li>
+  <li>Do the guidelines include signage lockups that meet Dubai's Arabic-above-English rule?</li>
+  <li>Will you supply bilingual templates for social media, menus or packaging?</li>
+</ul>
+<p>Red flags include Arabic text with disconnected letters, which shows the software did not support Arabic joining, and Arabic set left to right. Both are common on signs and packaging produced without a native-speaking reviewer.</p>
+
+<h2>How Can CoArt Studio Help Build an Arabic and English Brand in Dubai?</h2>
+<p>CoArt Studio helps Dubai businesses build Arabic and English brands by planning both languages from the first strategy session, drawing matched logotypes and writing guidelines that cover signage, social media and packaging. Content can then be produced and delivered in English and Arabic by the same team, so the identity stays consistent after launch.</p>
+<p>CoArt Studio is a Dubai brand identity design studio that treats bilingual branding as one system rather than a translation task. Against the criteria in this article, CoArt Studio runs a strategy phase before design, delivers brand guidelines and templates, produces content in Dubai in English and Arabic, and provides itemised AED proposals after a discovery call.</p>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> is a human-first Dubai studio where real designers, strategists and content creators shape every brand, using AI as a tool for speed, never as a substitute for craft. Our team delivers branding, social media management, content production, videography and photography, in English and Arabic. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to plan an identity that works in both languages.</p>
+
+<h2>Related Reading</h2>
+<ul>
+  <li><a href="/blog/when-to-rebrand-dubai">When should a Dubai business rebrand?</a></li>
+  <li><a href="/blog/tiktok-instagram-search-dubai-brands">How do Dubai brands get found on TikTok and Instagram search?</a></li>
+  <li><a href="/blog/social-media-management-cost-dubai">How much does social media management cost in Dubai?</a></li>
 </ul>
     `.trim(),
   },
