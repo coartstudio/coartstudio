@@ -22,7 +22,7 @@ export async function GET() {
   <channel>
     <title>CoArt Studio Blog</title>
     <link>${baseUrl}/blog</link>
-    <description>Insights on branding, web development, AI automation, and digital marketing from CoArt Studio.</description>
+    <description>Guides on social media management, content production, videography, photography, branding, web development and AI for Dubai businesses, from CoArt Studio.</description>
     <language>en</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <atom:link href="${baseUrl}/feed.xml" rel="self" type="application/rss+xml"/>

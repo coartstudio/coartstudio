@@ -104,6 +104,7 @@ const services: ServiceData[] = [
     guides: [
       { title: "How much does branding cost in Dubai?", href: "/blog/branding-cost-dubai" },
       { title: "Why does brand identity matter?", href: "/blog/brand-identity-why-it-matters" },
+      { title: "When should a Dubai business rebrand?", href: "/blog/when-to-rebrand-dubai" },
     ],
     blurb:
       "We craft brand identities that make your business impossible to ignore and easy to trust, across every platform, touchpoint, and audience.",
