@@ -114,6 +114,18 @@ export default function RootLayout({
                     'https://www.instagram.com/coartstudio',
                     'https://www.linkedin.com/company/coart-studio',
                   ],
+                  founder: {
+                    '@type': 'Person',
+                    name: 'Gerald Tony',
+                    jobTitle: 'Founder',
+                    url: 'https://www.coart.studio/authors/gerald-tony',
+                    sameAs: ['https://www.linkedin.com/in/gerald-tony/'],
+                  },
+                  address: {
+                    '@type': 'PostalAddress',
+                    addressLocality: 'Dubai',
+                    addressCountry: 'AE',
+                  },
                   knowsAbout: [
                     'Social media management',
                     'Social media content production',

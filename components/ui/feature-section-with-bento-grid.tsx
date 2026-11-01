@@ -191,7 +191,7 @@ const services: ServiceData[] = [
     guides: [
       { title: "How much does content production cost in Dubai?", href: "/blog/social-media-content-production-cost-dubai" },
       { title: "How much does social media management cost in Dubai?", href: "/blog/social-media-management-cost-dubai" },
-      { title: "How to choose the right digital agency", href: "/blog/how-to-choose-a-digital-agency-for-your-startup" },
+      { title: "How do you choose a social media agency in Dubai?", href: "/blog/how-to-choose-social-media-agency-dubai" },
     ],
     blurb:
       "We build and execute marketing strategies that attract the right audience, convert them into paying customers, and build the kind of brand loyalty that compounds over time.",
