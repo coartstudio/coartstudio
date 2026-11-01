@@ -1697,6 +1697,7 @@ export const posts: Post[] = [
     title: "When Should a Dubai Business Rebrand?",
     excerpt: "Rebrand a Dubai business when its name, audience or positioning no longer fit. A rebrand costs AED 75,000 to AED 500,000; a refresh AED 15,000 to AED 75,000.",
     date: "October 19, 2026",
+    updated: "November 1, 2026",
     category: "Branding",
     image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=800&q=85",
     readTime: "12 min read",
@@ -1727,7 +1728,7 @@ export const posts: Post[] = [
 <p>Dubai adds two local triggers. Businesses that started English-only often find that customers, landlords and regulators expect an Arabic version of the name and logo, which is covered in <a href="/blog/arabic-english-branding-dubai">whether a Dubai business needs Arabic and English branding</a>. Hospitality, F&amp;B and real estate brands also face fast-moving competition, so a concept that felt new three years ago can look generic once similar venues open nearby.</p>
 
 <h2>What Does a Rebrand or Refresh Cost in Dubai?</h2>
-<p>A rebrand or refresh in Dubai costs AED 5,000 to AED 500,000 depending on scope. A logo refinement costs AED 5,000 to AED 20,000, a brand refresh costs AED 15,000 to AED 75,000, and a full rebrand costs AED 75,000 to AED 500,000. Implementation, such as new signage, uniforms and a website update, typically adds 30 to 100 percent of the core fee.</p>
+<p>A brand refresh in Dubai costs AED 15,000 to AED 75,000, and a full rebrand costs AED 75,000 to AED 500,000. A logo refinement alone costs AED 5,000 to AED 20,000. Implementation, such as new signage, uniforms and a website update, typically adds 30 to 100 percent of the core fee.</p>
 <p>The cost of each project type rises with the amount of strategy work and the number of touchpoints that must change:</p>
 <table>
   <thead>
@@ -1801,14 +1802,14 @@ export const posts: Post[] = [
 
 <h2>How Can CoArt Studio Help a Dubai Business Rebrand?</h2>
 <p>CoArt Studio helps Dubai businesses decide between a rebrand and a refresh, then delivers the strategy, identity, guidelines and launch content in one engagement. Projects run in four phases: discovery, strategy, design and documentation. Arabic and English versions are planned from the start, and the same team can produce the photography, video and social content that introduces the new brand.</p>
-<p>CoArt Studio is a Dubai rebranding and brand identity studio, so the strategy, the identity and the launch content sit with one team. Against the criteria in this article, CoArt Studio runs a strategy phase before design, delivers brand guidelines and templates, works in English and Arabic, provides itemised AED proposals after a discovery call, and produces photography, video and social content in-house in Dubai. Brands refreshed by CoArt Studio report 35 percent stronger audience recall within 60 days, according to the studio's own client results.</p>
+<p>CoArt Studio is a Dubai rebranding and brand identity studio, so the strategy, the identity and the launch content sit with one team. Against the criteria in this article, CoArt Studio runs a strategy phase before design, delivers brand guidelines and templates, works in English and Arabic, provides itemised AED proposals after a discovery call, and produces photography, video and social content in-house in Dubai.</p>
 <p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> is a human-first Dubai studio where real strategists, designers and creatives lead every brand project, using AI as a tool for speed, never as a substitute for judgement. Our team delivers branding, content production, videography, photography, social media management and web development, in English and Arabic. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to talk through whether your business needs a rebrand or a refresh, and get a clear AED estimate.</p>
 
 <h2>Related Reading</h2>
 <ul>
   <li><a href="/blog/branding-cost-dubai">How much does branding cost in Dubai?</a></li>
   <li><a href="/blog/arabic-english-branding-dubai">Do you need Arabic and English branding in Dubai?</a></li>
-  <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
+  <li><a href="/blog/brand-video-production-cost-dubai">How much does a corporate or brand video cost in Dubai?</a></li>
 </ul>
     `.trim(),
   },
@@ -1817,6 +1818,7 @@ export const posts: Post[] = [
     title: "Do You Need Arabic and English Branding in Dubai?",
     excerpt: "Arabic and English branding in Dubai is needed for shopfronts and consumer brands. A matched Arabic logotype costs AED 5,000 to AED 20,000. See when and how.",
     date: "October 19, 2026",
+    updated: "November 1, 2026",
     category: "Branding",
     image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=85",
     readTime: "11 min read",
@@ -1876,7 +1878,7 @@ export const posts: Post[] = [
 <p>The choice between Modern Standard Arabic and dialect depends on the audience. Formal documents, government proposals and packaging usually use Modern Standard Arabic, while social media content often uses Emirati or wider Gulf dialect to sound natural.</p>
 
 <h2>What Does Bilingual Branding Cost in Dubai?</h2>
-<p>Bilingual branding in Dubai costs AED 5,000 to AED 500,000 depending on scope. A matched Arabic logotype for an existing English brand costs AED 5,000 to AED 20,000, a full bilingual brand identity costs AED 15,000 to AED 75,000, and a bilingual rebrand with renaming and rollout costs AED 75,000 to AED 500,000.</p>
+<p>A matched Arabic logotype for an existing English brand in Dubai costs AED 5,000 to AED 20,000, a full bilingual brand identity costs AED 15,000 to AED 75,000, and a bilingual rebrand with renaming and rollout costs AED 75,000 to AED 500,000.</p>
 <p>The cost of bilingual work depends mainly on whether Arabic is added to an existing identity or designed in from the start:</p>
 <table>
   <thead>
