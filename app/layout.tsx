@@ -116,11 +116,16 @@ export default function RootLayout({
                   ],
                   founder: {
                     '@type': 'Person',
+                    '@id': 'https://www.coart.studio/authors/gerald-tony#person',
                     name: 'Gerald Tony',
                     jobTitle: 'Founder',
                     url: 'https://www.coart.studio/authors/gerald-tony',
                     sameAs: ['https://www.linkedin.com/in/gerald-tony/'],
                   },
+                  employee: [
+                    { '@id': 'https://www.coart.studio/authors/gerald-tony#person' },
+                    { '@id': 'https://www.coart.studio/authors/hannah-finch#person' },
+                  ],
                   address: {
                     '@type': 'PostalAddress',
                     addressLocality: 'Dubai',
