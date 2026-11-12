@@ -131,6 +131,7 @@ export default function RootLayout({
                     addressLocality: 'Dubai',
                     addressCountry: 'AE',
                   },
+                  knowsLanguage: ['en', 'ar'],
                   knowsAbout: [
                     'Social media management',
                     'Social media content production',
