@@ -399,6 +399,7 @@ export const posts: Post[] = [
   <li><a href="/blog/mobile-app-development-cost-dubai">How much does it cost to build a mobile app in Dubai?</a></li>
   <li><a href="/blog/branding-cost-dubai">How much does branding cost in Dubai?</a></li>
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
+  <li><a href="/blog/website-redesign-dubai">When Does a Dubai Business Need a Website Redesign?</a></li>
 </ul>
     `.trim(),
   },
@@ -1407,6 +1408,7 @@ export const posts: Post[] = [
   <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
   <li><a href="/blog/dsf-festive-season-content-plan-dubai">How should Dubai brands plan DSF and festive season content?</a></li>
   <li><a href="/blog/plan-brand-photoshoot-dubai">How should a Dubai brand plan a photoshoot?</a></li>
+  <li><a href="/blog/linkedin-b2b-lead-generation-dubai">How Can a Dubai Business Use LinkedIn for B2B Lead Generation?</a></li>
 </ul>
     `.trim(),
   },
@@ -1562,6 +1564,7 @@ export const posts: Post[] = [
   <li><a href="/blog/social-media-management-cost-dubai">How much does social media management cost in Dubai?</a></li>
   <li><a href="/blog/product-photography-cost-dubai">How much does product photography cost in Dubai?</a></li>
   <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
+  <li><a href="/blog/linkedin-b2b-lead-generation-dubai">How Can a Dubai Business Use LinkedIn for B2B Lead Generation?</a></li>
 </ul>
     `.trim(),
   },
@@ -1697,6 +1700,7 @@ export const posts: Post[] = [
   <li><a href="/blog/how-to-choose-social-media-agency-dubai">How do you choose a social media agency in Dubai?</a></li>
   <li><a href="/blog/dsf-festive-season-content-plan-dubai">How should Dubai brands plan DSF and festive season content?</a></li>
   <li><a href="/blog/ai-generated-ads-vs-real-shoots-dubai">Should Dubai brands use AI-generated ads or real shoots?</a></li>
+  <li><a href="/blog/how-often-post-instagram-tiktok-dubai">How Often Should a Dubai Business Post on Instagram and TikTok?</a></li>
 </ul>
     `.trim(),
   },
@@ -1818,6 +1822,7 @@ export const posts: Post[] = [
   <li><a href="/blog/branding-cost-dubai">How much does branding cost in Dubai?</a></li>
   <li><a href="/blog/arabic-english-branding-dubai">Do you need Arabic and English branding in Dubai?</a></li>
   <li><a href="/blog/brand-video-production-cost-dubai">How much does a corporate or brand video cost in Dubai?</a></li>
+  <li><a href="/blog/website-redesign-dubai">When Does a Dubai Business Need a Website Redesign?</a></li>
 </ul>
     `.trim(),
   },
@@ -2324,6 +2329,393 @@ export const posts: Post[] = [
   <li><a href="/blog/social-media-management-cost-dubai">How much does social media management cost in Dubai?</a></li>
   <li><a href="/blog/ai-generated-ads-vs-real-shoots-dubai">Should Dubai brands use AI-generated ads or real shoots?</a></li>
   <li><a href="/blog/tiktok-instagram-search-dubai-brands">How do Dubai brands get found on TikTok and Instagram search?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "how-often-post-instagram-tiktok-dubai",
+    title: "How Often Should a Dubai Business Post on Instagram and TikTok?",
+    excerpt: "A Dubai business should post on Instagram 3 to 5 times a week and TikTok 2 to 5 times, per Buffer's 2025 data. See costs, UAE rules and a bilingual plan.",
+    date: "November 16, 2026",
+    category: "Digital Marketing",
+    image: "https://images.unsplash.com/photo-1611262588024-d12430b98920?w=800&q=85",
+    readTime: "12 min read",
+    content: `
+<p>A Dubai business should post on Instagram 3 to 5 times a week and on TikTok 2 to 5 times a week, the cadences Buffer's 2025 studies of 2.1 million Instagram and 11.4 million TikTok posts linked to faster growth than posting once or twice weekly. For UAE brands, a sustainable bilingual calendar matters more than raw volume.</p>
+
+<p>Posting frequency is the number of times an account publishes in a set period, usually counted per week. A content calendar is the dated plan that says what goes out, on which platform and in which language. This guide covers what the data says, how to split posts between platforms, what a managed cadence costs in AED, which UAE rules apply and how to measure results.</p>
+
+<h2>What Did Buffer's 2025 Posting Studies Actually Find?</h2>
+<p>Buffer's 2025 posting studies linked 3 to 5 Instagram feed posts a week with more than double the follower growth of 1 to 2 posts, and 2 to 5 TikTok posts a week with 17% more views per post than one post. Both studies compared each account with its own lighter and heavier weeks, so the figures are associations, not guarantees.</p>
+<p>The Instagram study, <a href="https://buffer.com/resources/how-often-to-post-on-instagram/" target="_blank" rel="noopener noreferrer">published by Buffer in August 2025</a>, analysed 2.1 million feed posts from 102,000 accounts. Compared with weeks of no posting, the modelled lift in follower growth rate was 0.12% at 1 to 2 posts, 0.26% at 3 to 5 posts, 0.44% at 6 to 9 posts and 0.66% at 10 or more. Reach per post was about 12% higher at 3 to 5 posts than at 1 to 2 posts, and about 24% higher at 10 or more.</p>
+<p>The TikTok study, <a href="https://buffer.com/resources/how-often-should-you-post-on-tiktok/" target="_blank" rel="noopener noreferrer">published by Buffer in October 2025</a>, analysed 11.4 million posts from more than 150,000 accounts. Compared with one post a week, views per post rose 17% at 2 to 5 posts, 29% at 6 to 10 posts and 34% at 11 or more. Both studies used a fixed-effects model, a method that compares each account with itself in heavier and lighter weeks, so the results describe the same brand posting more, not big brands versus small ones. They show association, not proof of cause.</p>
+<p>The table below sets out the weekly cadence this guide recommends for a typical Dubai business.</p>
+<table>
+<thead><tr><th>Platform and format</th><th>Recommended weekly cadence</th><th>Evidence behind it</th></tr></thead>
+<tbody>
+<tr><td>Instagram feed (Reels, carousels, photos)</td><td>3 to 5 posts</td><td>Buffer, 2.1 million posts, August 2025</td></tr>
+<tr><td>TikTok videos</td><td>2 to 5 posts</td><td>Buffer, 11.4 million posts, October 2025</td></tr>
+<tr><td>Instagram Stories</td><td>Most days, 2 to 4 frames</td><td>Practitioner rule of thumb (not covered by either study)</td></tr>
+<tr><td>Arabic versions</td><td>At least 1 to 2 of the week's posts</td><td>Practitioner rule of thumb for bilingual UAE audiences</td></tr>
+</tbody>
+</table>
+
+<h2>Does Posting More Often Hurt Quality on Instagram and TikTok?</h2>
+<p>Posting more often on Instagram and TikTok raises reach per post on average, but the typical post does not improve. Buffer's October 2025 TikTok data shows median views of 489 at one post a week and 459 at 11 or more, while the 90th percentile rose from 3,722 to 14,401 views. Extra volume buys more chances of a breakout, not a better average.</p>
+<p>That pattern matters for a small Dubai team. Doubling output with rushed, repetitive edits adds lottery tickets, not quality. Buffer's own <a href="https://buffer.com/resources/how-often-to-post-on-instagram/" target="_blank" rel="noopener noreferrer">Instagram analysis</a> describes the gains above 3 to 5 posts as real but diminishing.</p>
+<p>Hannah Finch, Head of Content at CoArt Studio, sets a quality floor before setting a volume target: every post needs a hook in the first two seconds, one clear message and a reason to send it to someone. If a brand cannot hit that floor five times a week, three strong posts beat five weak ones.</p>
+
+<h2>Which Platform Should a UAE Brand Post to Most Often?</h2>
+<p>A UAE brand should usually post most often on the platform where its buyers already spend time, and the audiences are large on both. DataReportal's Digital 2026 UAE report counted 8.05 million Instagram users in the UAE in late 2025, and 12.5 million TikTok users aged 18 and above, equal to 134.6% of UAE adults, so the TikTok figure counts accounts rather than unique people.</p>
+<p>The <a href="https://datareportal.com/reports/digital-2026-united-arab-emirates" target="_blank" rel="noopener noreferrer">DataReportal Digital 2026 report for the UAE</a> cautions that platform audience figures may not represent unique individuals, so they show relative scale. Both platforms' UAE audiences grew about 16.7% between late 2024 and late 2025. In practice, Instagram remains the home for the brand grid, Stories and direct messages, and TikTok is where new audiences discover a brand through the For You feed, TikTok's algorithmic recommendation page.</p>
+<ul>
+<li><strong>Hospitality, beauty and fashion:</strong> Instagram first, with TikTok carrying the same vertical videos.</li>
+<li><strong>Consumer products and food delivery:</strong> TikTok and Instagram at equal weight, because both drive discovery.</li>
+<li><strong>B2B services:</strong> a lighter Instagram cadence, with LinkedIn carrying most of the posting load.</li>
+</ul>
+<p>Search behaviour also affects cadence. Posts that answer what people type into TikTok and Instagram search keep earning views for months, which is covered in the guide to <a href="/blog/tiktok-instagram-search-dubai-brands">how Dubai brands get found on TikTok and Instagram search</a>.</p>
+
+<h2>How Do Arabic and English Versions Change a Dubai Posting Schedule?</h2>
+<p>Arabic and English versions change a Dubai posting schedule by multiplying captions, on-screen text and voiceovers rather than shoot days. A brand posting 4 Instagram Reels a week can publish 2 in English, 1 in Arabic and 1 bilingual post, so the calendar reaches both audiences without doubling production.</p>
+<p>Native writing matters more than volume. An Arabic post that reads like a machine translation of the English caption undercuts the trust the schedule is trying to build. The guide to <a href="/blog/arabic-english-branding-dubai">whether Dubai brands need Arabic and English branding</a> covers when a bilingual identity is worth the investment. For the calendar, three practical rules apply:</p>
+<ol>
+<li>Write the Arabic caption from the brief, not from the finished English caption.</li>
+<li>Set on-screen text in the language of the voiceover, and add subtitles in the other.</li>
+<li>Track Arabic and English posts separately in reporting, so each language's reach is visible.</li>
+</ol>
+
+<h2>How Should a Dubai Restaurant or Café Plan Its Posting Frequency?</h2>
+<p>A Dubai restaurant or café should plan 4 to 5 Instagram posts and 3 to 4 TikTok videos a week, timed around service. Food and beverage (F&amp;B) content works best when it follows service times, so Stories showing the day's dishes, a weekend brunch Reel posted on Thursday and quick kitchen clips sit at the core. Menu launches and seasonal events justify short bursts above that baseline.</p>
+<p>Repeatable formats make the cadence sustainable: a weekly dish reveal, a chef or barista moment, a guest reaction and a neighbourhood tag such as JLT, Jumeirah or Business Bay. In CoArt Studio's own client work, content for a Dubai hospitality and F&amp;B client reached nearly 215,000 Instagram views in 90 days, with 51% of views coming from non-followers, which is the kind of reach a steady vertical-video cadence is designed to unlock.</p>
+
+<h2>How Does One Shoot Day Keep a Posting Calendar Full?</h2>
+<p>One well-planned shoot day keeps a Dubai posting calendar full for about a month when it is batched. In Hannah Finch's planning, a shoot day covers 4 set-ups with 3 to 4 short videos each, giving 12 to 16 vertical videos, plus stills for carousels. First edits arrive within 5 working days, with two revision rounds before scheduling.</p>
+<p>Batching is the practice of producing many posts in one session and scheduling them across the following weeks. The arithmetic shows why it works. Take a shoot day at AED 12,000, inside the AED 7,000 to AED 20,000 shoot-day range in the <a href="/blog/social-media-content-production-cost-dubai">guide to social media content production costs in Dubai</a>:</p>
+<ul>
+<li>16 finished vertical videos: AED 12,000 / 16 = AED 750 per video.</li>
+<li>Each video posted to both Instagram and TikTok: 32 placements, so AED 12,000 / 32 = AED 375 per placement.</li>
+<li>Adding 5% UAE value added tax (VAT): AED 12,600 / 32 = AED 393.75 per placement.</li>
+<li>At a Growth cadence of 4 Instagram and 4 TikTok posts a week, 32 placements cover 4 weeks.</li>
+</ul>
+<p>The planning side, from shot lists to locations and permits, is covered in the guide on <a href="/blog/plan-brand-photoshoot-dubai">how a Dubai brand should plan a photoshoot</a>.</p>
+
+<h2>How Much Does a Managed Posting Cadence Cost in Dubai?</h2>
+<p>A managed posting cadence in Dubai costs AED 4,000 to AED 9,000 per month for the Starter cadence. The Growth cadence costs AED 9,000 to AED 20,000 per month. The High-volume cadence costs AED 30,000 or more per month, including regular content production. Prices exclude 5% VAT and ad spend, and rise with platform count and Arabic versions.</p>
+<p>Each tier maps to a realistic weekly output, so the table below lets a business match its goal to a budget.</p>
+<table>
+<thead><tr><th>Cadence tier</th><th>Typical weekly output</th><th>Typical monthly price (AED)</th></tr></thead>
+<tbody>
+<tr><td>Starter cadence</td><td>3 Instagram posts, 2 TikToks, Stories on 3 to 4 days, one or two platforms</td><td>AED 4,000 to AED 9,000</td></tr>
+<tr><td>Growth cadence</td><td>4 to 5 Instagram posts, 3 to 5 TikToks, Stories most days, Arabic versions, community management</td><td>AED 9,000 to AED 20,000</td></tr>
+<tr><td>High-volume cadence</td><td>Daily posting across platforms, monthly shoot days, bilingual captions and voiceovers, paid social support</td><td>AED 30,000 or more</td></tr>
+</tbody>
+</table>
+<p>These tiers follow the retainer bands in CoArt Studio's <a href="/blog/social-media-management-cost-dubai">social media management cost guide for Dubai</a> and typical Dubai market rates checked in November 2026; they leave out VAT, ad budgets and creator fees, and the main factors that push a brand up a tier are the number of platforms and whether shoots are included.</p>
+
+<h2>Which UAE Rules Apply When a Business Posts More Often?</h2>
+<p>The UAE Media Council's 20 content standards apply to media content that businesses, creators and advertisers publish in the UAE, including social posts, so posting more often means more posts to check. The standards took effect on 29 May 2025 under Federal Decree-Law No. 55 of 2023, with fines of up to AED 1 million, doubling to AED 2 million for repeat offences.</p>
+<p>The official <a href="https://u.ae/en/Media/Media-In-The-UAE/Media-regulation" target="_blank" rel="noopener noreferrer">UAE government media regulation page</a> states that all media individuals and institutions operating in the UAE must comply with the national standards for media content, including respect for religions and avoiding false or misleading news. Two independent reports agree on the AED 1 million ceiling: <a href="https://www.thenationalnews.com/news/uae/2025/05/29/uae-reveals-new-media-rules-with-fines-of-up-to-dh2-million" target="_blank" rel="noopener noreferrer">The National's May 2025 report</a> adds that fines can double to AED 2 million for repeat offences, and <a href="https://gulfnews.com/uae/uae-media-law-media-must-follow-20-key-standards-to-avoid-fines-of-up-to-dh1m-1.500157204" target="_blank" rel="noopener noreferrer">Gulf News' summary of the media law</a> gives a range of AED 10,000 to AED 1 million depending on the offence.</p>
+<p>Creators paid to promote a brand also need the National Media Authority (NMA) advertiser permit, summarised in one place in the guide to <a href="/blog/ugc-vs-professional-content-dubai">UAE rules for user-generated content (UGC) and creator content</a>. A higher cadence needs a short approval step: one person checks claims, prices, national symbols and creator permits before anything is scheduled.</p>
+
+<h2>What Posting Mistakes Do Dubai Brands Make Most Often?</h2>
+<p>The most common posting mistake Dubai brands make is bursting and then going silent, for example 15 posts in a launch week followed by a month off. Buffer's August 2025 Instagram study found that weeks with zero posts fell below the same account's own average follower growth, so a steady 3 posts a week beats an uneven 12 in one week.</p>
+<ul>
+<li>Cross-posting TikTok videos to Instagram with the other platform's watermark still visible.</li>
+<li>Translating English captions word for word instead of writing native Arabic.</li>
+<li>Scheduling posts without anyone answering comments and direct messages in the first hour.</li>
+<li>Planning the calendar week by week, which leaves no buffer for Eid, National Day or Dubai Shopping Festival (DSF) peaks.</li>
+</ul>
+
+<h2>How Should a Dubai Business Measure Whether Its Posting Frequency Works?</h2>
+<p>A Dubai business should measure posting frequency by comparing reach per post, follower growth and enquiries across four-week blocks at different cadences. Buffer's August 2025 Instagram study found reach per post about 12% higher at 3 to 5 posts a week than at 1 to 2, so a useful test is one month at each cadence, keeping formats similar.</p>
+<p>Instagram Insights and TikTok Analytics both report reach, views, saves and shares per post. Add one business metric: direct-message enquiries, WhatsApp clicks or bookings from link-in-bio. A simple four-week test looks like this:</p>
+<ol>
+<li>Weeks 1 to 4: post at the Starter cadence and record median reach per post.</li>
+<li>Weeks 5 to 8: move to the Growth cadence with the same formats.</li>
+<li>Compare median reach, total reach and enquiries; keep the higher cadence only if total reach and enquiries both rise.</li>
+</ol>
+
+<h2>What Should a Dubai Business Ask Before Handing Its Posting Calendar to an Agency?</h2>
+<p>A Dubai business should ask a social media agency how many posts per platform the retainer includes, who writes the Arabic versions, how many shoot days are included and who answers comments. A good provider puts weekly output, languages, revision rounds and reporting in the proposal, not just a monthly fee.</p>
+<ul>
+<li>How many feed posts, Stories and TikToks per week are included, and on which platforms?</li>
+<li>Are Arabic captions written natively or translated?</li>
+<li>How many shoot days are included, and how many finished videos does each produce?</li>
+<li>Who checks posts against UAE Media Council standards and creator permits?</li>
+<li>Which numbers appear in the monthly report: reach per post, enquiries or only followers?</li>
+</ul>
+<p>The fuller checklist is in the guide on <a href="/blog/how-to-choose-social-media-agency-dubai">how to choose a social media agency in Dubai</a>.</p>
+
+<h2>What Does CoArt Studio's First Month on a Posting Calendar Look Like?</h2>
+<p>CoArt Studio's first month on a posting calendar for a Dubai brand typically follows a weekly sequence: an audit and keyword list in week 1, one shoot day in week 2, edits and Arabic and English captions in week 3, and a full scheduled month from week 4. Profile rewrites happen alongside, so new posts land on an updated bio and highlights.</p>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> provides social media management and content production in Dubai, producing posting calendars in English and Arabic from in-house shoots. In a typical first month, the single shoot day yields 12 to 16 vertical videos and a set of stills, enough for a Growth cadence of about 32 placements across Instagram and TikTok. Week 4 ends with a reach-per-post report that sets the cadence for month 2. Recent shoots and posts are visible on <a href="https://www.instagram.com/coartstudio" target="_blank" rel="noopener noreferrer">CoArt Studio's Instagram</a>.</p>
+
+<h2>How Can a Dubai Business Book a Posting Calendar Review?</h2>
+<p>A Dubai business can book a posting calendar review through a free discovery call with CoArt Studio, where the team looks at the current cadence, the platforms that matter and the budget for content. Bring the last three months of Instagram and TikTok reach figures to get a specific recommendation.</p>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> is a Dubai creative studio whose human strategists, editors and camera crews plan, shoot and schedule social content in English and Arabic, using AI only to speed up the work around them. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to set a posting rhythm your team can keep.</p>
+
+<h2>Related Reading</h2>
+<ul>
+<li><a href="/blog/ugc-vs-professional-content-dubai">UGC vs Professional Content: What Should Dubai Brands Post?</a></li>
+<li><a href="/blog/social-media-marketing-trends-dubai-2026">Social Media Marketing Trends in Dubai for 2026</a></li>
+<li><a href="/blog/plan-brand-photoshoot-dubai">How Should a Dubai Brand Plan a Photoshoot?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "website-redesign-dubai",
+    title: "When Does a Dubai Business Need a Website Redesign?",
+    excerpt: "A Dubai website redesign is due when a site fails mobile speed or outgrows its brand. Refresh: AED 8,000 to AED 25,000. Full redesign: AED 15,000 to AED 55,000.",
+    date: "November 16, 2026",
+    category: "Web & Mobile Apps",
+    image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=85",
+    readTime: "12 min read",
+    content: `
+<p>A Dubai business needs a website redesign when its site fails Google's Core Web Vitals on mobile, no longer matches its brand or services, or cannot support Arabic, bookings or online sales. In Dubai in 2026, a website refresh costs AED 8,000 to AED 25,000 and a full redesign costs AED 15,000 to AED 55,000, excluding 5% value added tax.</p>
+
+<p>A website redesign is a rebuild of a site's structure, design and code, rather than edits to single pages. This guide covers the warning signs, prices, timelines, search rankings and what to ask an agency.</p>
+
+<h2>What Are the Signs a Dubai Business Website Needs a Redesign?</h2>
+<p>The signs a Dubai business website needs a redesign are measurable: the site fails Google's Core Web Vitals on mobile, the brand or services have changed since launch, Arabic-speaking customers have no Arabic version, or staff cannot update pages without a developer. Globally, only 48% of mobile websites had good Core Web Vitals in July 2025 data, according to the <a href="https://almanac.httparchive.org/en/2025/performance" target="_blank" rel="noopener noreferrer">HTTP Archive 2025 Web Almanac</a>.</p>
+<p>Core Web Vitals are Google's three measurements of real-visitor experience: Largest Contentful Paint (LCP) for loading, Interaction to Next Paint (INP) for responsiveness and Cumulative Layout Shift (CLS) for visual stability. Two Google sources agree on the targets. The <a href="https://web.dev/articles/vitals" target="_blank" rel="noopener noreferrer">web.dev Core Web Vitals guide</a> (last updated October 2024) and <a href="https://developers.google.com/search/docs/appearance/core-web-vitals" target="_blank" rel="noopener noreferrer">Google Search Central</a> both set LCP at 2.5 seconds, INP at 200 milliseconds and CLS at 0.1. INP replaced the older First Input Delay metric in 2024, and no threshold change has been announced since.</p>
+<p>The same Almanac data shows where sites fall short. Only 62% of mobile pages achieved a good LCP score in 2025, against 74% on desktop. Put the other way, 52% of mobile websites failed at least one target.</p>
+<p>The practical checklist below covers the signs that show up most often in Dubai business sites:</p>
+<ul>
+<li>Mobile pages fail one or more Core Web Vitals in Google Search Console or PageSpeed Insights.</li>
+<li>The logo, services, pricing or audience have changed, and the site still describes the old business.</li>
+<li>There is no Arabic version, or the Arabic pages are machine-translated and break the layout.</li>
+<li>Simple edits, such as a new team member or an updated offer, need a developer ticket.</li>
+<li>The site has no structured data, so search engines and AI assistants struggle to read prices, services and location.</li>
+<li>The content management system (CMS) or theme no longer gets security updates.</li>
+</ul>
+<p>Gerald Tony, Founder of CoArt Studio, uses a simple count with clients: one or two signs usually call for targeted fixes, while three or more mean a redesign will cost less than another year of patching. A CMS is the software staff use to edit pages, such as WordPress, Webflow or Shopify.</p>
+
+<h2>What Is the Difference Between a Website Refresh and a Full Redesign?</h2>
+<p>The difference between a website refresh and a full redesign is how much changes beneath the surface. A website refresh updates the visual design, imagery and copy on the existing platform, keeping the page structure and URLs. A full redesign rebuilds the sitemap, page templates and code, often on a new content management system, and usually changes URLs, which brings search and migration work.</p>
+<p>A refresh suits a sound platform with a dated look. A full redesign suits a site that fails on speed, editing or functionality, because new styling does not fix slow templates or a CMS nobody can use. The same logic applies to brands, and the line between a brand refresh and a rebrand is set out in <a href="/blog/when-to-rebrand-dubai">when a Dubai business should rebrand</a>.</p>
+<p>When the brand and the site both need work, settle the brand first, because logo, colour and type feed every page template. Typical brand budgets are covered in <a href="/blog/branding-cost-dubai">how much branding costs in Dubai</a>.</p>
+
+<h2>How Much Does a Website Redesign Cost in Dubai?</h2>
+<p>A website refresh in Dubai costs AED 8,000 to AED 25,000. A full redesign costs AED 15,000 to AED 55,000, the same band as a new custom business website, because most of the site is rebuilt. Both figures are 2026 Dubai market rates excluding 5% value added tax (VAT). Online stores and web applications sit in higher tiers.</p>
+<p>The table shows that the price rises with how deep the rebuild goes, not with how the new design looks:</p>
+<table>
+<thead><tr><th>Redesign tier</th><th>What changes</th><th>Typical timeline</th><th>Typical AED price</th></tr></thead>
+<tbody>
+<tr><td>Website refresh</td><td>New visual design, imagery and copy on the existing platform; URLs unchanged</td><td>3 to 5 weeks</td><td>AED 8,000 to AED 25,000</td></tr>
+<tr><td>Full redesign</td><td>New sitemap, user experience, templates and build, often on a new CMS, with a redirect map</td><td>6 to 10 weeks</td><td>AED 15,000 to AED 55,000</td></tr>
+<tr><td>E-commerce redesign</td><td>New store theme or custom build, product data migration, checkout and payment testing</td><td>8 to 14 weeks</td><td>AED 20,000 to AED 110,000</td></tr>
+<tr><td>Web application rebuild</td><td>Customer portals, booking systems or SaaS platforms rebuilt on new architecture</td><td>3 to 8 months</td><td>From AED 75,000</td></tr>
+</tbody>
+</table>
+<p>These bands line up with CoArt Studio's <a href="/blog/website-cost-dubai">guide to how much a website costs in Dubai</a> and with typical Dubai market rates reviewed in November 2026; they leave out VAT, new photography, Arabic copywriting or translation, and paid media. Page templates, a second language and integrations such as booking, customer relationship management (CRM) or property listing feeds move a project towards the top of its band.</p>
+<h3>What Does a Full Redesign Budget Look Like Line by Line?</h3>
+<p>A worked example makes the full redesign band concrete. Take a 15-page bilingual services site for a Dubai professional services firm, moving from an old WordPress theme to a new build:</p>
+<ul>
+<li>User experience and visual design for 6 page templates: AED 12,000</li>
+<li>Development and CMS set-up: AED 16,000</li>
+<li>Arabic layout and right-to-left testing: AED 6,000</li>
+<li>Content migration and a 60-URL redirect map: AED 3,500</li>
+<li>Core Web Vitals tuning and launch quality checks: AED 2,500</li>
+</ul>
+<p>The subtotal is AED 40,000. VAT at 5% adds AED 2,000, for a total of AED 42,000, or AED 2,800 per page. Arabic translation and any new shoot are extra. Templates drive cost more than pages: extra pages on existing templates add content entry time, not design fees.</p>
+
+<h2>How Long Does a Website Redesign Take in Dubai?</h2>
+<p>A website redesign in Dubai typically takes 3 to 5 weeks for a refresh and 6 to 10 weeks for a full redesign, measured from signed brief to launch. Content is the usual bottleneck rather than code: approved copy, Arabic translation and new photography take longer to gather than templates take to build, so content should start in week one.</p>
+<p>A typical full redesign runs in this order:</p>
+<ol>
+<li>Weeks 1 to 2: audit of current pages, traffic, Core Web Vitals and every indexed URL.</li>
+<li>Weeks 2 to 3: new sitemap and wireframes for each page template.</li>
+<li>Weeks 3 to 5: visual design in English and Arabic, with two revision rounds per template.</li>
+<li>Weeks 5 to 8: development, CMS set-up and content entry.</li>
+<li>Weeks 8 to 9: redirect map, speed tuning, form testing and quality checks on real phones.</li>
+<li>Week 10: launch, followed by 30 days of daily monitoring.</li>
+</ol>
+<p>In practice, Gerald Tony scopes a redesign by page templates rather than page count: a services business usually needs 6 to 8 templates, each with two revision rounds, and a staging link goes to the client about two weeks before launch. Sites that need new imagery should book the shoot by week 3, and a <a href="/blog/plan-brand-photoshoot-dubai">guide to planning a brand photoshoot in Dubai</a> sets out the lead times.</p>
+
+<h2>How Does a Website Redesign Protect Google Rankings and Traffic?</h2>
+<p>A website redesign protects Google rankings by mapping every old URL to its closest new page with permanent 301 redirects before launch. <a href="https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes" target="_blank" rel="noopener noreferrer">Google's site move guidance</a> says 301 and other permanent redirects do not cause a loss in PageRank, and that medium-sized sites can take a few weeks or more before Google shows the new URLs in results.</p>
+<p>A 301 redirect is a server instruction that tells browsers and search engines a page has moved permanently. PageRank is the link-based signal Google uses to judge a page's importance. A redirect map is a spreadsheet listing every old URL beside its new destination, built from a full crawl and a Google Search Console export.</p>
+<p>The same Google guidance adds three rules worth writing into any redesign brief. Keep redirects in place for as long as possible, and generally at least one year. Keep redirect chains short, ideally no more than three hops and fewer than five. Expect temporary ranking fluctuation during the move, so avoid launching the week before a major campaign.</p>
+
+<h2>How Should a Dubai Real Estate Brokerage Approach a Website Redesign?</h2>
+<p>A Dubai real estate brokerage should plan its website redesign around listing pages, because property advertising in Dubai is permit-based. The <a href="https://mediaoffice.ae/en/news/2023/april/18-04/dubai-land-department-barcode-check" target="_blank" rel="noopener noreferrer">Dubai Media Office announced in April 2023</a> that the Dubai Land Department (DLD) Madmoun service issues a quick response (QR) code for every real estate advertisement permit in its Trakheesi system, which companies are expected to show on print and audiovisual ads from 24 April 2023.</p>
+<p>For a brokerage site, that means listing templates need a fixed place for the permit number and QR code, filled from the listing feed rather than typed by hand. Image-heavy listing pages are also the likeliest to miss the 2.5-second LCP target on mobile. Buyers and tenants in Dubai search by community, so filters by area, unit type and price, in English and Arabic, matter more than a decorative homepage. Enquiry forms should pass the listing reference straight to the brokerage's CRM.</p>
+
+<h2>How Do Arabic and English Versions Change a Website Redesign?</h2>
+<p>Arabic and English versions change a website redesign because Arabic reads right to left, so navigation, icons, forms and image crops must be mirrored and tested, not only translated. At typical Dubai market rates in November 2026, a bilingual build adds roughly 25 to 40 percent to design and development fees, before translation or Arabic copywriting.</p>
+<p>Right-to-left (RTL) layout is a mirrored page structure in which text, menus and reading order flow from the right. Each language version should live at its own URL with hreflang tags, which are HTML attributes that tell search engines which language and region a page serves. The brand side of bilingual work, including Arabic logos and names, is covered in <a href="/blog/arabic-english-branding-dubai">whether a Dubai business needs Arabic and English branding</a>.</p>
+
+<h2>What Mistakes Do Dubai Businesses Make During a Website Redesign?</h2>
+<p>The most common mistakes Dubai businesses make during a website redesign are launching without a redirect map, redesigning before the brand is settled, judging speed on a fast office connection, and leaving copy and photography until the build is finished. Google's site move guidance specifically warns against redirecting many old URLs to one irrelevant page, such as the new home page.</p>
+<ul>
+<li>Redirecting every old URL to the home page, which throws away the relevance each old page had built.</li>
+<li>Approving designs with placeholder text, then finding that real copy, or longer Arabic copy, breaks the layout.</li>
+<li>Testing only on desktop, when Core Web Vitals are assessed separately for mobile and desktop visits.</li>
+<li>Handing over a site with no editing training, so the business is back to developer tickets within a month.</li>
+<li>Letting the agency register the domain or hosting in its own name instead of the business's name.</li>
+</ul>
+
+<h2>How Should a Dubai Business Measure Whether a Redesign Worked?</h2>
+<p>A Dubai business should measure a website redesign against a baseline captured before launch: Core Web Vitals on real mobile visits, organic clicks in Google Search Console, enquiry or sales conversion rate, and traffic to key service pages. The web.dev guide treats a page as passing only when all three Core Web Vitals meet their targets at the 75th percentile of page loads.</p>
+<p>The 75th percentile means three in four real visits must meet each target. That field data comes from the Chrome User Experience Report (CrUX), Google's dataset of real Chrome visits, which feeds Search Console and PageSpeed Insights. Compare 28-day windows before and after launch, and judge search traffic over about 90 days, because Google takes weeks to process moved URLs.</p>
+<p>A redesign is also the cheapest moment to make a site readable by AI assistants such as ChatGPT, Perplexity and Gemini. Question headings, visible prices and schema.org structured data help, as explained in <a href="/blog/geo-generative-engine-optimization-dubai">what generative engine optimization means for Dubai businesses</a>.</p>
+
+<h2>What Should a Dubai Business Ask a Web Agency Before a Redesign?</h2>
+<p>A Dubai business should ask a web agency six questions before a redesign: who will own the code, domain and hosting accounts; how old URLs will be redirected; which Core Web Vitals targets the build must meet, such as LCP under 2.5 seconds; how Arabic will be designed and tested; what training staff receive; and what support follows launch.</p>
+<ul>
+<li>Ask for an itemised AED quote that separates design, development, migration, content and VAT.</li>
+<li>Ask to see the redirect map format and who signs it off.</li>
+<li>Ask for two live sites the agency built, and test them on a phone with PageSpeed Insights.</li>
+<li>Ask what happens in the first 30 days after launch, and what monthly support costs after that.</li>
+</ul>
+
+<h2>How Does CoArt Studio Run a Website Redesign in Dubai?</h2>
+<p>CoArt Studio runs a website redesign in Dubai through its four published steps: Discover and Strategize, Design and Create, Build and Launch, and Grow and Optimise. For a full redesign of a services site, the first three steps usually cover about nine weeks, and the fourth covers the first 90 days after launch, with real designers and developers on each stage.</p>
+<ol>
+<li>Discover and Strategize (weeks 1 to 2): page and traffic audit, Core Web Vitals field data, a full URL export and a new sitemap.</li>
+<li>Design and Create (weeks 2 to 5): page templates designed in English and Arabic, with two revision rounds each.</li>
+<li>Build and Launch (weeks 5 to 9): development, content entry, the redirect map, testing on real phones and launch.</li>
+<li>Grow and Optimise (first 90 days): weekly checks on Search Console, Core Web Vitals and enquiries, with fixes shipped as they appear.</li>
+</ol>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> provides website redesign in Dubai alongside branding and content production, so a new identity, fresh photography and the rebuilt site can be planned on one timeline. CoArt Studio reports that its web clients see an average 2.4x lift in online conversions after launch, a figure from its own client work rather than an industry benchmark.</p>
+
+<h2>How Can a Dubai Business Book a Website Redesign Review?</h2>
+<p>A Dubai business can book a website redesign review through a discovery call with CoArt Studio. The call looks at the current site's Core Web Vitals, the pages that bring enquiries, the state of the Arabic version and whether a refresh or a full redesign fits the budget, so the next step is scoped before any design starts.</p>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> pairs human designers and developers with AI tools that speed up testing and content checks, building bilingual websites, brands and launch content for Dubai businesses. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a> to plan your redesign.</p>
+
+<h2>Related Reading</h2>
+<ul>
+<li><a href="/blog/when-to-rebrand-dubai">When Should a Dubai Business Rebrand?</a></li>
+<li><a href="/blog/agentic-commerce-dubai-online-store-ai-shopping-agents">What Is Agentic Commerce and Is Your Dubai Online Store Ready for AI Shopping Agents?</a></li>
+<li><a href="/blog/mobile-app-development-cost-dubai">How Much Does It Cost to Build a Mobile App in Dubai?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "linkedin-b2b-lead-generation-dubai",
+    title: "How Can a Dubai Business Use LinkedIn for B2B Lead Generation?",
+    excerpt: "LinkedIn B2B lead generation in Dubai costs AED 4,000 to AED 9,000 a month organic, or AED 9,000 to AED 20,000 with ads. See setup, UAE rules and metrics.",
+    date: "November 16, 2026",
+    category: "Digital Marketing",
+    image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=85",
+    readTime: "11 min read",
+    content: `
+<p>A Dubai business uses LinkedIn for B2B (business-to-business) lead generation by pairing founder-led posts with targeted LinkedIn Ads, typically paying AED 4,000 to AED 9,000 a month for an Organic LinkedIn programme or AED 9,000 to AED 20,000 for Organic plus LinkedIn Ads, before ad spend. DataReportal counted 10.0 million registered UAE LinkedIn members in late 2025.</p>
+
+<h2>What Does LinkedIn B2B Lead Generation Involve?</h2>
+<p>LinkedIn B2B lead generation in Dubai involves four connected jobs: a company page and founder profiles that answer a buyer's first questions, a steady flow of useful posts, paid campaigns aimed at named job titles and companies, and a follow-up process that turns replies and form fills into sales conversations. Hannah Finch, Head of Content at CoArt Studio, treats a LinkedIn programme as incomplete until all four run in the same month.</p>
+<p>A lead, in this context, is a person at a target company who has given contact details or started a conversation. A qualified lead is one that fits the buyer profile on company size, role and need. The difference matters, because LinkedIn can produce many leads that never become meetings.</p>
+<ul>
+<li><strong>Profiles:</strong> the company page plus the profiles of the founder and two or three senior staff.</li>
+<li><strong>Content:</strong> posts, short videos, documents and case notes published on a fixed weekly rhythm.</li>
+<li><strong>Paid reach:</strong> LinkedIn Ads run from LinkedIn Campaign Manager, the platform's advertising dashboard.</li>
+<li><strong>Follow-up:</strong> a named person who replies to comments, messages and form leads, ideally within one working day.</li>
+</ul>
+
+<h2>Why Does LinkedIn Suit B2B Buyers in the UAE?</h2>
+<p>LinkedIn suits B2B buyers in the UAE because DataReportal's Digital 2026 report counted 10.0 million LinkedIn members in the country in late 2025, equal to 87.6 percent of the total population, and found LinkedIn's UAE ad reach grew by 1.00 million (11.1 percent) between the end of 2024 and the end of 2025. Few markets give B2B sellers that much professional coverage on one platform.</p>
+<p>DataReportal notes that the member figure counts registered accounts, not monthly active users, so the active audience is smaller than 10.0 million. The ad reach growth in the <a href="https://datareportal.com/reports/digital-2026-united-arab-emirates" target="_blank" rel="noopener noreferrer">DataReportal Digital 2026 United Arab Emirates report</a> is the more useful number for paid planning. CoArt Studio's <a href="/blog/social-media-marketing-trends-dubai-2026">guide to social media marketing trends in Dubai for 2026</a> compares LinkedIn with Instagram, TikTok and Snapchat on the same dataset.</p>
+
+<h2>How Should a Dubai Company Set Up Its LinkedIn Profiles for Lead Generation?</h2>
+<p>A Dubai company sets up LinkedIn for lead generation by fixing the profiles before spending on content or ads: the company page needs a clear one-line description of who it serves, a Dubai location, a website link and recent posts, and the founder's profile needs a headline that names the buyer and the outcome. Buyers check both profiles within minutes of seeing a post or an ad.</p>
+<p>A short checklist covers the common gaps:</p>
+<ol>
+<li>Write the company page tagline as a buyer statement, for example "Facilities management for Dubai hotels and offices", not a slogan.</li>
+<li>Rewrite the founder's headline and About section around the buyer's problem, with one proof point and a call to book.</li>
+<li>Pin one featured post that explains the offer and links to a booking or contact page.</li>
+<li>Add English and Arabic versions of the company description where the buyer base includes Arabic-speaking decision makers.</li>
+</ol>
+<p>Founder portraits fit into a wider shoot, as CoArt Studio's <a href="/blog/plan-brand-photoshoot-dubai">guide to planning a brand photoshoot in Dubai</a> shows, and bilingual pages follow the logic of <a href="/blog/arabic-english-branding-dubai">Arabic and English branding in Dubai</a>.</p>
+
+<h2>What Content Generates B2B Leads on LinkedIn?</h2>
+<p>LinkedIn content that generates B2B leads in Dubai teaches buyers before they are ready to buy, because research from both the LinkedIn B2B Institute and the Ehrenberg-Bass Institute finds that about 95 percent of a company's potential B2B buyers are not in the market at any given time. Posts that only sell reach the 5 percent; useful posts keep the brand remembered by the other 95 percent.</p>
+<p>The <a href="https://business.linkedin.com/marketing-solutions/b2b-institute/b2b-research/trends/95-5-rule" target="_blank" rel="noopener noreferrer">LinkedIn B2B Institute's 95-5 rule page</a> describes the 95 percent as "out-market" today but in-market later. The <a href="https://marketingscience.info/the-955-rule-why-b2b-growth-starts-long-before-the-purchase" target="_blank" rel="noopener noreferrer">Ehrenberg-Bass Institute's summary of Professor John Dawes's 95:5 rule</a> makes the same point: only about 5 percent of target customers are actively looking to buy. The 95:5 figure is a planning heuristic across B2B categories, not a measured UAE statistic.</p>
+<p>Formats that work for Dubai B2B audiences include:</p>
+<ul>
+<li><strong>Founder posts:</strong> a short opinion on a market change, such as new regulation or a pricing shift, written in plain language.</li>
+<li><strong>Short talking-head video:</strong> 45 to 90 seconds, captioned, answering one question buyers ask on sales calls.</li>
+<li><strong>Document posts:</strong> a five to eight page carousel, such as a checklist or a cost breakdown.</li>
+</ul>
+<p>A rule Hannah Finch, Head of Content at CoArt Studio, applies to B2B accounts is that two in three posts should answer a buyer question and only one in three should ask for a meeting. The same cadence logic for consumer platforms is set out in the companion guide on <a href="/blog/how-often-post-instagram-tiktok-dubai">how often a Dubai business should post on Instagram and TikTok</a>.</p>
+
+<h2>When Should a UAE Business Use LinkedIn Ads and Lead Gen Forms?</h2>
+<p>A UAE business should use LinkedIn Ads and Lead Gen Forms once its profiles are complete and it has at least four weeks of organic posts, because paid traffic lands on those profiles. Lead Gen Forms are LinkedIn ad forms that pre-fill a member's name, job title and company, and LinkedIn's marketing blog, updated in August 2025, reports a 13 percent average conversion rate for them against 4.02 percent for landing pages.</p>
+<p>The <a href="https://www.linkedin.com/business/marketing/blog/lead-generation/how-to-use-linkedin-lead-gen-forms" target="_blank" rel="noopener noreferrer">LinkedIn guide to Lead Gen Forms</a> takes the 4.02 percent landing-page figure from a study by Unbounce and the 13 percent from LinkedIn's own data, so the comparison is a platform average, not a UAE benchmark.</p>
+<p>Targeting is where LinkedIn Ads differ from Meta. Campaign Manager can target by job title, seniority, company size, industry and named company lists. A Dubai firm selling to 200 named companies can upload that list and run ads only to people who work there, which is called account-based marketing.</p>
+
+<h2>How Much Does LinkedIn Lead Generation Cost in Dubai?</h2>
+<p>LinkedIn lead generation in Dubai typically costs AED 4,000 to AED 9,000 a month for an Organic LinkedIn programme. Organic plus LinkedIn Ads typically costs AED 9,000 to AED 20,000 a month in management fees, with the advertising budget paid to LinkedIn on top. Account-based programmes for named target lists start at around AED 20,000 a month.</p>
+<p>The table shows that cost rises with paid reach and targeting depth, not with the number of posts alone:</p>
+<table>
+<thead><tr><th>Programme tier</th><th>What is included</th><th>Typical AED price</th></tr></thead>
+<tbody>
+<tr><td>Profile setup (one-off)</td><td>Company page and founder profile rewrites, banner design, headshots brief, featured post</td><td>AED 3,000 to AED 8,000 once</td></tr>
+<tr><td>Organic LinkedIn programme</td><td>8 to 12 posts a month across page and founder, one short video, comment management, monthly report</td><td>AED 4,000 to AED 9,000 a month</td></tr>
+<tr><td>Organic plus LinkedIn Ads</td><td>Organic programme plus campaign setup in Campaign Manager, Lead Gen Forms, ad creative and weekly optimisation</td><td>AED 9,000 to AED 20,000 a month</td></tr>
+<tr><td>Account-based programme</td><td>Named-company targeting, tailored creative per segment, CRM handover rules, sales enablement content</td><td>From AED 20,000 a month</td></tr>
+</tbody>
+</table>
+<p>The bands above are typical Dubai agency rates as checked in November 2026, quoted before 5 percent VAT and before any budget paid to LinkedIn; bilingual English and Arabic posting and on-site video shoots are the two factors that most often move a client from the bottom of a band to the top.</p>
+<p>A worked example shows how the numbers combine. A Dubai consultancy on the Organic plus LinkedIn Ads tier pays AED 12,000 in management fees and sets AED 8,000 of ad budget, making AED 20,000. VAT at 5 percent on the management fee adds AED 600, for AED 20,600 in the month. If the campaign produces 40 form leads, each lead costs AED 515. If 10 of those 40 leads qualify, the cost per qualified lead is AED 2,060. One contract worth AED 60,000 recovers that month almost three times over. These figures are illustrative, not a forecast. Retainer structures for other platforms are compared in CoArt Studio's <a href="/blog/social-media-management-cost-dubai">breakdown of social media management costs in Dubai</a>.</p>
+
+<h2>How Should a Dubai Hotel Use LinkedIn to Win Corporate and Events Business?</h2>
+<p>A Dubai hotel uses LinkedIn to win corporate and events business by targeting event planners, association managers and corporate travel buyers rather than leisure guests. Dubai Business Events, part of the Dubai Department of Economy and Tourism, won 504 bids for international business events in 2025, expected to bring an estimated 272,262 delegates to Dubai through 2029, according to a January 2026 Dubai Media Office release.</p>
+<p>The <a href="https://www.mediaoffice.ae/en/news/2026/january/26-01/dubai-secures-504-successful" target="_blank" rel="noopener noreferrer">Dubai Media Office announcement of the 2025 Dubai Business Events results</a> ties those wins to the D33 economic agenda. For a hotel sales team, the buyers behind those events are reachable on LinkedIn by title: conference organisers, meeting planners and HR leaders booking offsites. Content that works shows meeting rooms set up for a real format, menu options for a 200-person gala, and travel times from Dubai World Trade Centre.</p>
+
+<h2>Which UAE Data Rules Apply to LinkedIn Leads?</h2>
+<p>LinkedIn leads collected by a UAE company fall under the UAE Personal Data Protection Law, Federal Decree-Law No. 45 of 2021, which the UAE government portal summarises as prohibiting the processing of personal data without the owner's consent, except in limited cases. A Lead Gen Form name and email address is personal data, so consent wording and storage rules matter.</p>
+<p>The <a href="https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws" target="_blank" rel="noopener noreferrer">UAE government portal's page on data protection laws</a>, updated in December 2025, lists the federal law, in force since 2 January 2022, alongside the separate DIFC Data Protection Law, DIFC Law No. 5 of 2020, which applies to companies in the Dubai International Financial Centre. Commentators in 2026 still differ on whether the federal law's executive regulations have been published, so a firm storing large lead lists should add a privacy link and consent line to every form and take legal advice.</p>
+
+<h2>How Long Does LinkedIn Lead Generation Take to Produce Results?</h2>
+<p>LinkedIn lead generation in Dubai usually takes 60 to 90 days to produce a steady flow of qualified leads: the first month fixes profiles and builds a content base, the second month adds paid campaigns and tests audiences, and the third month shifts budget to the audiences that produced meetings. Paid campaigns can produce form leads in the first week, but quality takes longer.</p>
+<p>CoArt Studio reports that its marketing clients average a 3x increase in qualified leads within the first 90 days, which is CoArt's own reported result across its client work rather than an independent industry figure. The 90-day mark measures pipeline, not closed revenue.</p>
+<p>In practice, a LinkedIn content month in Hannah Finch's plans starts with one half-day shoot that yields 15 to 20 headshots and portraits plus 6 to 8 short talking-head clips. Those become 12 posts across the company page and the founder's profile, with first edits returned within 5 working days and two revision rounds before scheduling.</p>
+
+<h2>What LinkedIn Mistakes Do Dubai B2B Companies Make?</h2>
+<p>Dubai B2B companies most often make five LinkedIn mistakes: posting only from the company page, sending connection requests followed by an immediate sales pitch, running ads to a homepage instead of a form, targeting too broadly by country alone, and leaving form leads unanswered for days, by which time many buyers have forgotten filling them in. Each mistake wastes reach that the UAE's large LinkedIn audience would otherwise reward.</p>
+<ul>
+<li><strong>Company page only:</strong> buyers tend to engage with people they recognise, so founder and staff posts often travel further than brand-page posts.</li>
+<li><strong>Pitch-first outreach:</strong> automated message sequences damage the founder's reputation in a market where buyers know each other.</li>
+<li><strong>Homepage traffic:</strong> paid clicks sent to a general homepage rarely convert, and a slow site makes it worse, as the guide on <a href="/blog/website-redesign-dubai">when a Dubai business needs a website redesign</a> explains.</li>
+<li><strong>Country-only targeting:</strong> "UAE, all professionals" spends budget on people who will never buy.</li>
+</ul>
+
+<h2>How Should a Dubai Business Measure LinkedIn Lead Generation?</h2>
+<p>A Dubai business should measure LinkedIn lead generation by cost per qualified lead and meetings booked, not by followers or likes. LinkedIn Campaign Manager reports cost per lead and form completion rate; the CRM must add which leads matched the buyer profile, which booked a meeting and which became revenue, because only that chain shows whether the AED spent is working.</p>
+<p>A simple monthly scorecard has five lines: impressions among the target job titles, engagement rate on organic posts, form leads, qualified leads and meetings held. Comparing cost per qualified lead month by month, as in the AED 2,060 worked example above, shows when to shift budget.</p>
+
+<h2>What Should a Dubai Business Ask Before Hiring Help With LinkedIn?</h2>
+<p>A Dubai business hiring help with LinkedIn lead generation should ask who writes the founder's posts and how the founder's voice is captured, whether the provider produces its own photography and video, how leads are handed to sales, which metrics appear in the monthly report, and who owns the ad account. Clear answers on those five points separate a lead programme from a posting service.</p>
+<ul>
+<li>Will the founder approve every post written in their name?</li>
+<li>Are shoots done in-house in Dubai or bought in?</li>
+<li>Is Arabic content written natively or translated?</li>
+<li>Does the business keep admin rights to its page and ad account?</li>
+</ul>
+<p>Founder time is the hidden cost: Hannah Finch budgets about 30 minutes a week for a founder to review and approve posts written in their voice, plus one 60-minute interview a month to collect new opinions and stories. The wider checklist in CoArt Studio's <a href="/blog/how-to-choose-social-media-agency-dubai">guide to choosing a social media agency in Dubai</a> applies to LinkedIn providers too.</p>
+
+<h2>How Does CoArt Studio Match a Dubai Company's LinkedIn Buying Criteria?</h2>
+<p>CoArt Studio supports LinkedIn B2B lead generation in Dubai with founder and company content, corporate video, portrait photography and social media management, delivered in English and Arabic by human strategists and creatives. The table below answers the buying questions from the previous section with facts CoArt publishes on its site, including where a buyer should confirm scope on the first call.</p>
+<table>
+<thead><tr><th>Buying criterion</th><th>CoArt Studio's answer</th></tr></thead>
+<tbody>
+<tr><td>Who writes and shapes the content?</td><td>Real strategists and creatives lead every project; AI is used as a tool, not as the author.</td></tr>
+<tr><td>Is photography and video produced in-house?</td><td>Yes: brand and corporate videos, short-form video and photography are produced in Dubai.</td></tr>
+<tr><td>Is Arabic content available?</td><td>Yes: LinkedIn posts, profile copy and Lead Gen Form questions can be written in English and Arabic.</td></tr>
+<tr><td>What results are reported?</td><td>Qualified leads, cost per qualified lead and meetings booked, reviewed against the 90-day timeline above.</td></tr>
+<tr><td>Are LinkedIn Ads managed?</td><td>CoArt's published paid advertising covers Google and Meta; LinkedIn Campaign Manager scope is confirmed on the discovery call.</td></tr>
+</tbody>
+</table>
+<p>Recent shoots and posts are visible on <a href="https://www.instagram.com/coartstudio" target="_blank" rel="noopener noreferrer">CoArt Studio's Instagram</a>, which shows the production style a LinkedIn programme would draw on. Studio details are at <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a>.</p>
+
+<h2>How Can a Dubai Business Plan Its LinkedIn Lead Generation With CoArt Studio?</h2>
+<p>A Dubai business can plan its LinkedIn lead generation with <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> on a free discovery call covering profiles, a first month of founder content, a shoot plan and whether paid campaigns make sense yet. Our Dubai team of strategists, writers, photographers and video producers plans LinkedIn content for B2B companies in English and Arabic, with AI kept as a helper rather than the voice. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a>.</p>
+
+<h2>Related Reading</h2>
+<ul>
+<li><a href="/blog/how-often-post-instagram-tiktok-dubai">How Often Should a Dubai Business Post on Instagram and TikTok?</a></li>
+<li><a href="/blog/brand-video-production-cost-dubai">How Much Does a Corporate or Brand Video Cost in Dubai?</a></li>
+<li><a href="/blog/ugc-vs-professional-content-dubai">UGC vs Professional Content: What Should Dubai Brands Post?</a></li>
 </ul>
     `.trim(),
   },
