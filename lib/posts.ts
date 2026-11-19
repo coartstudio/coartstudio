@@ -859,6 +859,7 @@ export const posts: Post[] = [
   <li><a href="/blog/geo-generative-engine-optimization-dubai">What is GEO and why your Dubai business needs it</a></li>
   <li><a href="/blog/social-media-marketing-trends-dubai-2026">What are the social media marketing trends in Dubai for 2026?</a></li>
   <li><a href="/blog/how-to-choose-social-media-agency-dubai">How Do You Choose a Social Media Agency in Dubai?</a></li>
+  <li><a href="/blog/how-often-post-instagram-tiktok-dubai">How Often Should a Dubai Business Post on Instagram and TikTok?</a></li>
 </ul>
     `.trim(),
   },
@@ -1165,6 +1166,8 @@ export const posts: Post[] = [
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
   <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
   <li><a href="/blog/tiktok-instagram-search-dubai-brands">How do Dubai brands get found on TikTok and Instagram search?</a></li>
+  <li><a href="/blog/how-often-post-instagram-tiktok-dubai">How Often Should a Dubai Business Post on Instagram and TikTok?</a></li>
+  <li><a href="/blog/linkedin-b2b-lead-generation-dubai">How Can a Dubai Business Use LinkedIn for B2B Lead Generation?</a></li>
 </ul>
     `.trim(),
   },
@@ -2709,7 +2712,7 @@ export const posts: Post[] = [
 <p>Recent shoots and posts are visible on <a href="https://www.instagram.com/coartstudio" target="_blank" rel="noopener noreferrer">CoArt Studio's Instagram</a>, which shows the production style a LinkedIn programme would draw on. Studio details are at <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a>.</p>
 
 <h2>How Can a Dubai Business Plan Its LinkedIn Lead Generation With CoArt Studio?</h2>
-<p>A Dubai business can plan its LinkedIn lead generation with <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> on a free discovery call covering profiles, a first month of founder content, a shoot plan and whether paid campaigns make sense yet. Our Dubai team of strategists, writers, photographers and video producers plans LinkedIn content for B2B companies in English and Arabic, with AI kept as a helper rather than the voice. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a>.</p>
+<p>A Dubai business can plan its LinkedIn lead generation with <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> on a free discovery call covering profiles, a first month of founder content, a shoot plan and whether paid campaigns make sense yet. CoArt Studio's Dubai team of strategists, writers, photographers and video producers plans LinkedIn content for B2B companies in English and Arabic, with AI kept as a helper rather than the voice. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a>.</p>
 
 <h2>Related Reading</h2>
 <ul>
