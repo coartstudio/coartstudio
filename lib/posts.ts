@@ -2706,13 +2706,13 @@ export const posts: Post[] = [
 <tr><td>Is photography and video produced in-house?</td><td>Yes: brand and corporate videos, short-form video and photography are produced in Dubai.</td></tr>
 <tr><td>Is Arabic content available?</td><td>Yes: LinkedIn posts, profile copy and Lead Gen Form questions can be written in English and Arabic.</td></tr>
 <tr><td>What results are reported?</td><td>Qualified leads, cost per qualified lead and meetings booked, reviewed against the 90-day timeline above.</td></tr>
-<tr><td>Are LinkedIn Ads managed?</td><td>CoArt's published paid advertising covers Google and Meta; LinkedIn Campaign Manager scope is confirmed on the discovery call.</td></tr>
+<tr><td>Are LinkedIn Ads managed?</td><td>No: CoArt's paid advertising covers Google and Meta. CoArt produces the organic LinkedIn content, video and photography, and LinkedIn Ads stay with the business or its media buyer.</td></tr>
 </tbody>
 </table>
 <p>Recent shoots and posts are visible on <a href="https://www.instagram.com/coartstudio" target="_blank" rel="noopener noreferrer">CoArt Studio's Instagram</a>, which shows the production style a LinkedIn programme would draw on. Studio details are at <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a>.</p>
 
 <h2>How Can a Dubai Business Plan Its LinkedIn Lead Generation With CoArt Studio?</h2>
-<p>A Dubai business can plan its LinkedIn lead generation with <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> on a free discovery call covering profiles, a first month of founder content, a shoot plan and whether paid campaigns make sense yet. CoArt Studio's Dubai team of strategists, writers, photographers and video producers plans LinkedIn content for B2B companies in English and Arabic, with AI kept as a helper rather than the voice. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a>.</p>
+<p>A Dubai business can plan its LinkedIn lead generation with <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> on a free discovery call covering profiles, a first month of founder content and a shoot plan. CoArt Studio's Dubai team of strategists, writers, photographers and video producers plans LinkedIn content for B2B companies in English and Arabic, with AI kept as a helper rather than the voice. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a>.</p>
 
 <h2>Related Reading</h2>
 <ul>
