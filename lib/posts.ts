@@ -149,6 +149,7 @@ export const posts: Post[] = [
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
   <li><a href="/blog/brand-identity-why-it-matters">Why does brand identity matter and when should you invest in it?</a></li>
   <li><a href="/blog/ai-consulting-cost-dubai">How much does AI consulting cost in Dubai?</a></li>
+<li><a href="/blog/ai-changing-digital-marketing-uae">How Is AI Changing Digital Marketing in the UAE?</a></li>
 </ul>
     `.trim(),
   },
@@ -400,6 +401,7 @@ export const posts: Post[] = [
   <li><a href="/blog/branding-cost-dubai">How much does branding cost in Dubai?</a></li>
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
   <li><a href="/blog/website-redesign-dubai">When Does a Dubai Business Need a Website Redesign?</a></li>
+<li><a href="/blog/seo-vs-google-ads-dubai">SEO vs Google Ads in Dubai: Where Should You Spend Your Budget?</a></li>
 </ul>
     `.trim(),
   },
@@ -513,6 +515,7 @@ export const posts: Post[] = [
   <li><a href="/blog/ai-consulting-cost-dubai">How much does AI consulting cost in Dubai?</a></li>
   <li><a href="/blog/ai-automation-for-small-business">How can AI automation help my small business save time and money?</a></li>
   <li><a href="/blog/how-to-choose-a-digital-agency-for-your-startup">How to choose the right digital agency for your startup</a></li>
+<li><a href="/blog/seo-vs-google-ads-dubai">SEO vs Google Ads in Dubai: Where Should You Spend Your Budget?</a></li>
 </ul>
     `.trim(),
   },
@@ -1272,6 +1275,7 @@ export const posts: Post[] = [
   <li><a href="/blog/social-media-marketing-trends-dubai-2026">What are the social media marketing trends in Dubai for 2026?</a></li>
   <li><a href="/blog/social-media-content-production-cost-dubai">How much does social media content production cost in Dubai?</a></li>
   <li><a href="/blog/ugc-vs-professional-content-dubai">UGC vs professional content: what should Dubai brands post?</a></li>
+<li><a href="/blog/ai-changing-digital-marketing-uae">How Is AI Changing Digital Marketing in the UAE?</a></li>
 </ul>
     `.trim(),
   },
@@ -1704,6 +1708,7 @@ export const posts: Post[] = [
   <li><a href="/blog/dsf-festive-season-content-plan-dubai">How should Dubai brands plan DSF and festive season content?</a></li>
   <li><a href="/blog/ai-generated-ads-vs-real-shoots-dubai">Should Dubai brands use AI-generated ads or real shoots?</a></li>
   <li><a href="/blog/how-often-post-instagram-tiktok-dubai">How Often Should a Dubai Business Post on Instagram and TikTok?</a></li>
+<li><a href="/blog/local-seo-dubai">Local SEO in Dubai: How Do Businesses Rank in Their Area?</a></li>
 </ul>
     `.trim(),
   },
@@ -2591,6 +2596,7 @@ export const posts: Post[] = [
 <li><a href="/blog/when-to-rebrand-dubai">When Should a Dubai Business Rebrand?</a></li>
 <li><a href="/blog/agentic-commerce-dubai-online-store-ai-shopping-agents">What Is Agentic Commerce and Is Your Dubai Online Store Ready for AI Shopping Agents?</a></li>
 <li><a href="/blog/mobile-app-development-cost-dubai">How Much Does It Cost to Build a Mobile App in Dubai?</a></li>
+<li><a href="/blog/local-seo-dubai">Local SEO in Dubai: How Do Businesses Rank in Their Area?</a></li>
 </ul>
     `.trim(),
   },
@@ -2719,6 +2725,366 @@ export const posts: Post[] = [
 <li><a href="/blog/how-often-post-instagram-tiktok-dubai">How Often Should a Dubai Business Post on Instagram and TikTok?</a></li>
 <li><a href="/blog/brand-video-production-cost-dubai">How Much Does a Corporate or Brand Video Cost in Dubai?</a></li>
 <li><a href="/blog/ugc-vs-professional-content-dubai">UGC vs Professional Content: What Should Dubai Brands Post?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "seo-vs-google-ads-dubai",
+    title: "SEO vs Google Ads in Dubai: Where Should You Spend Your Budget?",
+    excerpt: "SEO vs Google Ads in Dubai: Google Ads management costs AED 2,500 to AED 7,500 a month plus ad spend; a Local SEO retainer AED 2,500 to AED 6,000. Compare both.",
+    date: "November 23, 2026",
+    category: "Digital Marketing",
+    image: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&q=85",
+    readTime: "11 min read",
+    content: `
+<p>SEO (search engine optimisation) vs Google Ads in Dubai is a timing choice: Google Ads management costs AED 2,500 to AED 7,500 a month plus ad spend and brings leads within weeks; a Local SEO retainer costs AED 2,500 to AED 6,000 a month and builds over months. StatCounter puts Google at 95.42 percent of UAE searches in October 2026.</p>
+
+<p>Search engine optimisation is the work of earning unpaid positions in Google's results through site structure, content and local signals, while Google Ads is Google's auction-based advertising platform that places paid listings above and below those results. This guide compares the two on cost, speed, the effect of AI answers, budget splits, sector rules, language choices and how to measure each channel in Dubai.</p>
+
+<h2>What Is the Difference Between SEO and Google Ads?</h2>
+<p>The difference between SEO and Google Ads is who pays for each click: Google Ads charges the advertiser every time someone clicks a paid listing, while SEO earns unpaid listings that cost nothing per click once they rank. In the UAE, StatCounter's October 2026 data shows Google with 95.42 percent of searches and Bing with 2.71 percent, so for most Dubai businesses both channels compete on Google's results page.</p>
+<p>The <a href="https://gs.statcounter.com/search-engine-market-share/all/united-arab-emirates" target="_blank" rel="noopener noreferrer">StatCounter search engine market share chart for the United Arab Emirates</a> measures page views referred by each engine across all platforms, so it shows where search traffic comes from rather than how many people use each engine. The practical point is the same: a plan for search in Dubai is a plan for Google first.</p>
+<p>The two channels behave differently in four ways:</p>
+<ul>
+<li><strong>Speed:</strong> a Google Ads campaign can show the day it is approved; organic rankings build over several months.</li>
+<li><strong>Cost model:</strong> Google Ads is cost per click (CPC), meaning a price set by auction for each click; SEO is a fixed monthly fee for the work.</li>
+<li><strong>Durability:</strong> paid listings stop the moment the budget stops; organic rankings decay slowly if the site is maintained.</li>
+<li><strong>Control:</strong> Google Ads lets a business pick exact keywords, hours and locations; SEO depends on Google's ranking systems.</li>
+</ul>
+
+<h2>How Much Do SEO and Google Ads Cost in Dubai?</h2>
+<p>Google Ads management in Dubai typically costs AED 2,500 to AED 7,500 a month, with the advertising budget paid to Google on top. A Local SEO retainer typically costs AED 2,500 to AED 6,000 a month. A Growth SEO retainer typically costs AED 6,000 to AED 15,000 a month. A combined SEO and Google Ads programme typically costs AED 8,000 to AED 20,000 a month before ad spend.</p>
+<p>The table shows that fees for both channels start at similar levels. The real difference is the ad budget Google Ads needs on top.</p>
+<table>
+<thead><tr><th>Service tier</th><th>What is included</th><th>Typical AED price</th></tr></thead>
+<tbody>
+<tr><td>Google Ads management</td><td>Keyword research, campaign build, ad copy in English and Arabic, conversion tracking, weekly bid and budget changes, monthly report</td><td>AED 2,500 to AED 7,500 a month, plus ad spend</td></tr>
+<tr><td>Local SEO retainer</td><td>Technical fixes, Google Business Profile upkeep, three to five service pages improved a month, local citations, monthly ranking report</td><td>AED 2,500 to AED 6,000 a month</td></tr>
+<tr><td>Growth SEO retainer</td><td>Local SEO scope plus four to eight new articles a month, link outreach, AI answer visibility checks</td><td>AED 6,000 to AED 15,000 a month</td></tr>
+<tr><td>Combined SEO and Google Ads programme</td><td>One plan covering both channels, shared keyword list, landing pages, one combined lead report</td><td>AED 8,000 to AED 20,000 a month, plus ad spend</td></tr>
+</tbody>
+</table>
+<p>These bands come from CoArt Studio's own 2026 quoting and from public Dubai rate cards reviewed in November 2026, including <a href="https://www.globalmediainsight.com/blog/seo-cost-dubai/" target="_blank" rel="noopener noreferrer">Global Media Insight's published SEO packages</a>, which start at AED 4,500 a month for its Bronze plan on a three-month contract. All figures exclude 5 percent VAT and Google ad spend; competitive sectors such as clinics and property, and bilingual campaigns, push fees towards the top of each band.</p>
+<p>Some Dubai agencies price Google Ads management as a percentage of monthly ad spend instead of a flat fee. A percentage model suits large budgets, but a flat fee keeps the agency's income separate from how much the client spends, which makes advice on cutting budget easier to trust.</p>
+
+<h2>How Quickly Do SEO and Google Ads Produce Leads in Dubai?</h2>
+<p>Google Ads in Dubai can produce leads within one to two weeks of a campaign's approval, while SEO for competitive local terms is normally given three to six months before ranking gains are judged. Hannah Finch, Head of Content at CoArt Studio, plans a 90-day test for any new Google Ads account and a six-month first review for SEO, because organic changes take longer for Google to recrawl and reassess.</p>
+<p>Google does not publish a standard timeline. Its own guide for site owners, <a href="https://developers.google.com/search/docs/fundamentals/do-i-need-seo" target="_blank" rel="noopener noreferrer">Google Search Central's "Do you need an SEO?" page</a>, instead tells businesses to ask any SEO provider what results it expects and in what timeframe, and how it measures success. A provider that promises page-one rankings in weeks is answering that question badly.</p>
+<p>In practice, the first 90 days of each channel look different in Hannah Finch's plans:</p>
+<ol>
+<li><strong>Weeks 1 to 2:</strong> Google Ads campaigns go live with 2 to 3 ad groups per service; SEO starts with a technical audit and a keyword list.</li>
+<li><strong>Weeks 3 to 6:</strong> paid search terms that waste budget are excluded each week; the first three to five service pages are rewritten.</li>
+<li><strong>Weeks 7 to 12:</strong> the paid budget moves to the keywords that produced leads; organic impressions usually rise before clicks do.</li>
+</ol>
+
+<h2>How Are AI Overviews Changing the SEO vs Google Ads Decision?</h2>
+<p>AI Overviews, the AI-written summaries Google shows above some search results, are reducing clicks to organic listings, which makes SEO alone a riskier bet for informational keywords. <a href="https://www.pewresearch.org/short-reads/2025/07/22/google-users-are-less-likely-to-click-on-links-when-an-ai-summary-appears-in-the-results/" target="_blank" rel="noopener noreferrer">Pew Research Center</a> found that US Google users clicked a traditional result in 8 percent of visits when an AI summary appeared, against 15 percent without one, in March 2025 browsing data from 900 adults.</p>
+<p>A second, independent dataset points the same way. <a href="https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/" target="_blank" rel="noopener noreferrer">Ahrefs' February 2026 update on AI Overviews</a> compared December 2023 and December 2025 click-through data for 300,000 keywords and estimated a 58 percent lower average click-through rate for the top-ranking page when an AI Overview was present. Pew's July 2025 analysis was still its most recent click study when checked in November 2026, and both datasets come from outside the UAE, so the size of the effect in Dubai may differ.</p>
+<p>The shift does not hit every keyword equally. Pew found that 18 percent of searches in its sample produced an AI summary, and question-style searches triggered one far more often. Transactional searches such as "dentist near Jumeirah" or "book a photographer Dubai" still show paid ads and local results prominently. Being cited inside AI answers is a separate discipline covered in CoArt Studio's <a href="/blog/geo-generative-engine-optimization-dubai">guide to GEO (generative engine optimisation) for Dubai businesses</a>.</p>
+
+<h2>How Should a Dubai Business Split Its Budget Between SEO and Google Ads?</h2>
+<p>A Dubai business should split its search budget between SEO and Google Ads by how established its website is. A new site with no rankings starts with about 70 percent in Google Ads and 30 percent in SEO. An established site splits about half each. A site with strong organic rankings puts about 30 percent into ads. Hannah Finch then moves budget each quarter based on cost per lead.</p>
+<p>The table summarises the starting split for each stage:</p>
+<table>
+<thead><tr><th>Website stage</th><th>Google Ads share</th><th>SEO share</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>New site, no rankings</td><td>About 70 percent</td><td>About 30 percent</td><td>Paid search buys leads while organic foundations are built</td></tr>
+<tr><td>Established site, some rankings</td><td>About 50 percent</td><td>About 50 percent</td><td>Ads cover terms the site does not yet rank for</td></tr>
+<tr><td>Strong organic rankings</td><td>About 30 percent</td><td>About 70 percent</td><td>Ads defend brand terms and test new services</td></tr>
+</tbody>
+</table>
+<p>A worked example shows the arithmetic for a new Dubai service business with AED 15,000 a month for search. It pays AED 4,000 for Google Ads management, AED 7,000 of ad spend and AED 4,000 for a Local SEO retainer. VAT at 5 percent on the two management fees adds AED 400, for AED 15,400 in the month. At an assumed AED 10 per click, AED 7,000 buys 700 clicks. At an assumed 6 percent conversion rate, those clicks produce 42 leads. Ads plus management cost AED 11,000, so each paid lead costs about AED 262. If SEO later brings 30 organic leads a month for the same AED 4,000 retainer, each organic lead costs about AED 133. The click price and conversion rate are illustrative assumptions, not Dubai benchmarks; a business should check real bids in Google Ads Keyword Planner. The landing pages those clicks reach matter as much as the split, as CoArt Studio's guide on <a href="/blog/website-redesign-dubai">when a Dubai business needs a website redesign</a> explains.</p>
+
+<h2>How Should a Dubai Aesthetic Clinic Choose Between SEO and Google Ads?</h2>
+<p>A Dubai aesthetic clinic should usually lead with Google Ads for high-intent treatment searches and build SEO for treatment explainers, writing every ad and page to the Dubai Health Authority (DHA) advertising standards that already govern its social media. Khaleej Times reported in September 2026 that DHA standards for licensed facilities advertising on social media bar words such as "the best", "100%", "no side effects" and "immediate results".</p>
+<p>The <a href="https://www.khaleejtimes.com/uae/dubai-health-authority-claims-words-cannot-be-used-in-doctor-clinic-social-media-ads" target="_blank" rel="noopener noreferrer">Khaleej Times report on the DHA banned-words list</a> covers social media, not search ads. Beauty clinics still apply it to Google Ads headlines. A safe ad reads "Laser hair removal, DHA-licensed clinic, Jumeirah", not "The best laser results, guaranteed".</p>
+
+<h2>Should Dubai Search Campaigns Run in Arabic, English or Both?</h2>
+<p>Dubai search campaigns should run in both Arabic and English when the customer base includes Arabic speakers, with separate keyword lists, ads and landing pages for each language rather than translated copies. Arabic and English searchers use different words for the same need, so a campaign built only in English misses part of the Dubai market.</p>
+<p>Arabic searchers phrase queries differently from English searchers, so a direct translation of an English keyword often misses how people actually search. For example, a clinic targeting "cosmetic clinic in Dubai" would also research the Arabic phrase عيادة تجميل في دبي (cosmetic clinic in Dubai) in Keyword Planner rather than assume the volumes match. Hannah Finch's rule is a minimum of 15 researched keywords per language per service before an ad group launches. The same principle of native, not translated, content applies on social platforms, as the guide on <a href="/blog/tiktok-instagram-search-dubai-brands">how Dubai brands get found on TikTok and Instagram search</a> shows.</p>
+
+<h2>What SEO and Google Ads Mistakes Do Dubai Businesses Make?</h2>
+<p>Dubai businesses most often make five SEO and Google Ads mistakes. They send paid clicks to the homepage, use broad keywords without exclusions, stop SEO after two or three months, forget the 5 percent VAT on agency fees, and judge both channels on clicks instead of leads. Each mistake either wastes ad spend or abandons organic work before it can pay back.</p>
+<ul>
+<li><strong>Homepage landing:</strong> a paid click for "corporate video production" should land on a video page, not a general homepage.</li>
+<li><strong>No negative keywords:</strong> negative keywords are terms that stop an ad showing, such as "free", "jobs" or "course" for a service business.</li>
+<li><strong>Stopping SEO early:</strong> stopping at month three discards most of the work before rankings settle.</li>
+<li><strong>Ignoring VAT:</strong> a AED 6,000 retainer costs AED 6,300 with 5 percent VAT.</li>
+<li><strong>Clicks over leads:</strong> cheap clicks from the wrong audience cost more per customer than expensive clicks from the right one.</li>
+</ul>
+
+<h2>What Should a Dubai Business Ask Before Hiring an SEO or Google Ads Provider?</h2>
+<p>A Dubai business hiring an SEO or Google Ads provider should first ask who owns the Google Ads account and analytics, and what results are expected by when. The other key questions cover the minimum contract, native Arabic copy and the monthly report. Google Search Central's hiring guidance lists similar questions, including how the provider measures success and what timeframe it expects.</p>
+<p>Contract length is worth checking against the timelines above. Public Dubai rate cards often tie SEO packages to fixed terms; Global Media Insight, for example, lists a three-month term for its entry plan and six months for its higher plans. A short checklist covers the rest:</p>
+<ul>
+<li>Will the business keep admin access to the Google Ads account, Google Analytics 4 and Google Search Console?</li>
+<li>Is the management fee flat, or a percentage of ad spend?</li>
+<li>Who writes the Arabic ads and pages, and are they native speakers?</li>
+<li>Are landing pages and ad images produced in-house, or bought in?</li>
+<li>Which leads count as qualified, and who decides?</li>
+</ul>
+
+<h2>How Should a Dubai Business Measure SEO and Google Ads Results?</h2>
+<p>A Dubai business should measure SEO and Google Ads on the same number: cost per qualified lead, meaning total monthly spend on a channel divided by the leads that match the buyer profile. Google Ads reports conversions directly, while SEO results show in Google Search Console, Google's free tool for organic search data, and in Google Analytics 4 (GA4) once lead forms and calls are tracked.</p>
+<p>Comparing the two channels on one figure, as in the worked example of about AED 262 per paid lead against AED 133 per organic lead, shows where the next AED 1,000 should go. A monthly scorecard has five lines: paid cost per lead, organic leads, organic impressions for target keywords, phone calls from the Google Business Profile, and the share of leads that became customers. Social channels belong on the same scorecard, and CoArt Studio's breakdown of <a href="/blog/social-media-management-cost-dubai">how much social media management costs in Dubai</a> shows how those retainers compare.</p>
+
+<h2>What Does a First Month of SEO and Google Ads With CoArt Studio Include?</h2>
+<p>A first month of SEO and Google Ads with CoArt Studio covers a keyword list in English and Arabic, a Google Ads campaign build with conversion tracking, rewrites of the first three to five service pages and one month-end lead report. CoArt Studio provides SEO and Google Ads management in Dubai as part of its digital marketing service, alongside content strategy, Meta advertising and performance analytics.</p>
+<p>The month runs in four blocks. In week one, CoArt Studio's strategists build a list of 40 to 60 target keywords across both languages and audit Google Search Console and GA4. In week two, Google Ads campaigns are built with 2 to 3 ad groups per service and go live once Google approves them. In weeks three and four, the first service pages are rewritten for the keywords with the clearest buying intent. Where a page or ad needs new images, one shoot day in Dubai produces the visuals, because CoArt also runs photography and video production in-house.</p>
+<p>CoArt Studio's fit with the hiring checklist is factual: native English and Arabic copy, human strategists using AI as a research tool rather than as the writer, in-house production for landing page and ad visuals, and reporting on cost per qualified lead. Account ownership, contract length and the fee model are set out and confirmed on the first call. Recent creative work is visible on <a href="https://www.instagram.com/coartstudio" target="_blank" rel="noopener noreferrer">CoArt Studio's Instagram</a>.</p>
+
+<h2>How Can a Dubai Business Get an SEO and Google Ads Plan?</h2>
+<p>A Dubai business can get an SEO and Google Ads plan from <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> on a free discovery call that reviews current rankings, any existing ad account and a suggested budget split for the first 90 days. The call is run by the human strategists who would plan the search work, with SEO, Google Ads, content and photography available in Arabic and English. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a>.</p>
+
+<h2>Related Reading</h2>
+<ul>
+<li><a href="/blog/local-seo-dubai">Local SEO in Dubai: How Do Businesses Rank in Their Area?</a></li>
+<li><a href="/blog/website-cost-dubai">How Much Does a Website Cost in Dubai?</a></li>
+<li><a href="/blog/ai-changing-digital-marketing-uae">How Is AI Changing Digital Marketing in the UAE?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "local-seo-dubai",
+    title: "Local SEO in Dubai: How Do Businesses Rank in Their Area?",
+    excerpt: "Local SEO in Dubai: a Google Business Profile setup costs AED 1,500 to AED 4,000 and a Local SEO retainer AED 2,500 to AED 6,000 a month. See how to rank.",
+    date: "November 23, 2026",
+    category: "Digital Marketing",
+    image: "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800&q=85",
+    readTime: "11 min read",
+    content: `
+<p>Local SEO (search engine optimisation) in Dubai ranks a business in Google Maps and the local pack through an accurate Google Business Profile, steady reviews and location pages. In the UAE, a Google Business Profile setup costs AED 1,500 to AED 4,000 once, and a Local SEO retainer costs AED 2,500 to AED 6,000 a month, excluding VAT.</p>
+
+<p>Local SEO is the work of making a business appear when people nearby search for what it sells, mainly in Google Maps, the local pack (the map and three listings shown above ordinary results) and the AI assistants that now answer "near me" questions. This guide covers how Google ranks local businesses, what local SEO costs in Dubai, profile setup rules, reviews, a restaurant example, Arabic and English listings, AI search, common mistakes, measurement and what to ask a provider.</p>
+
+<h2>How Does Google Decide Which Dubai Businesses Appear in Local Results?</h2>
+<p>Google decides which Dubai businesses appear in local results mainly on relevance, distance and prominence, according to its own Business Profile help pages. Relevance is how well a profile matches the search, distance is how far the business is from the searcher, and prominence is how well known the business is, built from links, articles, directories and Google review count and score.</p>
+<p><a href="https://support.google.com/business/answer/7091?hl=en" target="_blank" rel="noopener noreferrer">Google's guide to improving local ranking</a> also states that there is no way to request or pay for a better local ranking. A business cannot buy a higher map position, although it can buy separate ads above the results, which the guide on <a href="/blog/seo-vs-google-ads-dubai">SEO vs Google Ads in Dubai</a> compares in detail.</p>
+<p>Each factor has a different lever in Dubai:</p>
+<ul>
+<li><strong>Relevance:</strong> the primary category, services, description and photos tell Google what the business does. A Business Bay dental clinic that lists "Dentist" but no treatments competes on one word.</li>
+<li><strong>Distance:</strong> distance cannot be changed, which is why a Jumeirah business rarely ranks for a searcher standing in Dubai Silicon Oasis.</li>
+<li><strong>Prominence:</strong> reviews, local press, directory listings and links from other Dubai websites build it over months.</li>
+</ul>
+
+<h2>What Does Local SEO Cost in Dubai?</h2>
+<p>Local SEO in Dubai costs AED 1,500 to AED 4,000 for a one-off Google Business Profile setup. A Local SEO retainer costs AED 2,500 to AED 6,000 a month for one location. Multi-location local SEO costs AED 6,000 to AED 12,000 a month for businesses with three or more branches. All three figures exclude 5 percent UAE VAT.</p>
+<p>The table shows that most single-location Dubai businesses need the first two rows, not the third.</p>
+<table>
+<thead><tr><th>Service tier</th><th>What is included</th><th>Typical AED price</th></tr></thead>
+<tbody>
+<tr><td>Google Business Profile setup</td><td>Profile claim or creation, verification support, categories, services, hours, 20 to 30 photos, description in English and Arabic</td><td>AED 1,500 to AED 4,000, one-off</td></tr>
+<tr><td>Local SEO retainer</td><td>Profile upkeep, weekly posts, review replies, location pages, directory citations, monthly ranking and calls report</td><td>AED 2,500 to AED 6,000 a month</td></tr>
+<tr><td>Multi-location local SEO</td><td>Local SEO retainer scope for three or more branches, one page per branch, branch-level reporting</td><td>AED 6,000 to AED 12,000 a month</td></tr>
+</tbody>
+</table>
+<p>The ranges above combine CoArt Studio's 2026 quotes with typical Dubai market rates checked in November 2026, before 5 percent VAT, photography and any Google Ads budget. The number of branches and how crowded the category is, such as clinics, property and restaurants, decide where a quote lands within each band.</p>
+
+<h2>How Should a Dubai Business Set Up Its Google Business Profile?</h2>
+<p>A Dubai business should set up its Google Business Profile under its real trading name, at an address where it actually serves customers, and verify it before doing anything else. Google's verification reviews take up to five business days, according to Google's help pages, and the verification method is chosen automatically by Google and cannot be changed by the business.</p>
+<p><a href="https://support.google.com/business/answer/3038177?hl=en" target="_blank" rel="noopener noreferrer">Google's guidelines for representing a business</a> set three rules that catch many Dubai companies. The name must match the real-world name on the storefront and website, with no taglines or location words added. A rented mailing address where the business does not operate counts as a virtual office and is not eligible. An office in a co-working space only qualifies if it has clear signage, receives customers and is staffed during business hours. Service-area businesses, such as cleaners or mobile car detailers, should hide the address and set a service area instead.</p>
+<p><a href="https://support.google.com/business/answer/7105241?hl=en" target="_blank" rel="noopener noreferrer">Google's verification page</a> lists phone, text, email, live video call and postcard as options, with postcard codes that usually arrive within 14 days. A clean setup follows five steps:</p>
+<ol>
+<li>Confirm the trading name matches the trade licence, signage and website exactly.</li>
+<li>Choose one primary category and up to a handful of accurate secondary categories.</li>
+<li>Complete verification with the method Google offers, keeping signage and the licence ready for video.</li>
+<li>Add hours, special hours for Ramadan and public holidays, services, and 20 to 30 real photos.</li>
+<li>Copy the same name, address and phone number to Apple Business Connect, Bing Places and the business's website.</li>
+</ol>
+
+<h2>How Many Reviews Does a Dubai Business Need to Compete Locally?</h2>
+<p>A Dubai business needs at least 20 Google reviews to clear a common consumer threshold, and a steady flow of new ones to stay credible. BrightLocal's Local Consumer Review Survey, published in February 2026, found that 47 percent of consumers in its non-UAE sample will not use a business with fewer than 20 reviews, and 74 percent look for reviews written in the last three months.</p>
+<p>The <a href="https://www.brightlocal.com/research/local-consumer-review-survey/" target="_blank" rel="noopener noreferrer">BrightLocal 2026 survey</a> is the latest edition as of November 2026 and reflects consumers outside the UAE, so Dubai behaviour may differ. Its findings on replies agree with Google's own guidance. BrightLocal found that 89 percent of surveyed consumers expect owners to respond to reviews, and Google's local ranking guide says that replying to customer reviews shows a business values feedback. BrightLocal also found that generic or templated replies put off 50 percent of respondents.</p>
+<p>In Hannah Finch's work as Head of Content at CoArt Studio, the review routine is a fixed weekly task, not a campaign. Her rule of thumb is to reply to every review within 48 hours, name the specific dish, treatment or service mentioned, and ask for reviews at the moment of best experience: when the bill is paid, the keys are handed over or the treatment ends. Paid or discounted reviews undermine the trust the routine is meant to build.</p>
+
+<h2>How Should a Dubai Restaurant Approach Local SEO?</h2>
+<p>A Dubai restaurant should treat local SEO as a weekly fight for map visibility, because competition grows every day. Dubai Municipality figures reported by Gulf News in July 2026 show 1,898 new food establishments opened across Dubai in the first half of 2026, around 10.5 a day. A restaurant that stops posting photos, menus and replies falls behind quickly.</p>
+<p>The <a href="https://gulfnews.com/business/retail/more-than-10-new-food-businesses-are-launching-in-dubai-every-day-1.500611405" target="_blank" rel="noopener noreferrer">Gulf News report on new Dubai food businesses</a> also cites Al Bayan putting the total at 29,303 food establishments. For a restaurant in Dubai Marina or JLT, the profile has to answer what diners check first: the menu, real dish photos, current hours, delivery options and whether the venue suits families or groups. Photos matter most, and the guide on <a href="/blog/product-photography-cost-dubai">how much product photography costs in Dubai</a> covers food shoot pricing.</p>
+<p>A worked six-month budget for one restaurant shows the arithmetic. A Google Business Profile setup at AED 2,500 plus a Local SEO retainer at AED 3,500 a month for six months comes to AED 2,500 + AED 21,000 = AED 23,500. One half-day food shoot at AED 5,000 brings the total to AED 28,500. VAT at 5 percent adds AED 1,425, so the six months cost AED 29,925, or about AED 4,988 a month. If the restaurant serves 400 covers a week and 3 percent of diners leave a review, it gains 12 reviews a week, enough to take a new listing past 20 reviews within a fortnight. The review rate is an illustrative assumption, not a benchmark.</p>
+
+<h2>Should Local SEO in Dubai Cover Arabic and English?</h2>
+<p>Local SEO in Dubai should cover Arabic and English wherever the customer base includes Arabic speakers, with a profile description, services, posts and website location pages written natively in each language. Search terms differ between languages, so a profile written only in English can miss Arabic searches for the same service in the same neighbourhood.</p>
+<p>A restaurant in Dubai Marina, for example, would research the Arabic phrase مطعم في دبي مارينا (restaurant in Dubai Marina) alongside its English equivalent rather than translating keywords word for word. Bilingual listings also matter beyond Google. BrightLocal's 2026 survey found Apple Maps use for reading reviews nearly doubled, from 14 percent in 2025 to 27 percent, while Google's share fell from 83 percent to 71 percent, so Apple Business Connect deserves the same bilingual care. The guide to <a href="/blog/arabic-english-branding-dubai">whether a Dubai brand needs Arabic and English branding</a> explains how to keep names consistent across both scripts.</p>
+
+<h2>How Are AI Assistants Changing Local Search in the UAE?</h2>
+<p>AI assistants are changing local search in the UAE by answering "where should I go" questions directly, often by naming a few businesses instead of listing ten links. BrightLocal's February 2026 survey found that use of ChatGPT and other generative AI tools for local recommendations rose from 6 percent to 45 percent of consumers in its non-UAE sample in one year.</p>
+<p>The UAE audience for these tools is almost the whole country. <a href="https://datareportal.com/reports/digital-2027-united-arab-emirates" target="_blank" rel="noopener noreferrer">DataReportal's Digital 2027 report for the UAE</a> counts 11.5 million internet users in October 2026, 99.0 percent of the population. Assistants draw on the same signals local SEO builds: consistent business details, specific reviews and pages that state services and areas plainly.</p>
+<p>CoArt Studio's own published case study shows the link. For a Dubai F&amp;B business that was nearly invisible in AI search, CoArt Studio reports a 3x increase in AI-sourced brand discovery and an uplift in new foot traffic within 8 weeks, described in its <a href="https://www.coart.studio/#portfolio" target="_blank" rel="noopener noreferrer">portfolio</a>. The guide to <a href="/blog/geo-generative-engine-optimization-dubai">GEO (generative engine optimisation) for Dubai businesses</a> covers the AI side in depth.</p>
+
+<h2>What Local SEO Mistakes Do Dubai Businesses Make?</h2>
+<p>Six local SEO mistakes recur among Dubai businesses: adding keywords to the profile name, listing a virtual office, leaving holiday hours unchanged, ignoring reviews, using different phone numbers on different sites, and sending map visitors to a slow homepage. Each one weakens relevance or prominence, the factors Google's own local ranking guide names.</p>
+<ul>
+<li><strong>Keyword names:</strong> "Best Spa Dubai Marina Massage" instead of the real trading name risks a suspension under Google's naming rules.</li>
+<li><strong>Virtual or flexi-desk addresses:</strong> an unstaffed address is not eligible and often fails verification.</li>
+<li><strong>Stale hours:</strong> Ramadan, Eid and UAE National Day hours left unchanged send customers to closed doors.</li>
+<li><strong>Silent review pages:</strong> unanswered reviews tell both Google and customers nobody is watching.</li>
+<li><strong>Mismatched details:</strong> an old phone number on a directory confuses Google and AI assistants alike.</li>
+<li><strong>Weak landing pages:</strong> a map click that lands on a slow, generic homepage loses the visit, a problem covered in the guide on <a href="/blog/website-redesign-dubai">when a Dubai business needs a website redesign</a>.</li>
+</ul>
+
+<h2>How Should a Dubai Business Measure Local SEO Results?</h2>
+<p>A Dubai business should measure local SEO results by the actions customers take from its Google Business Profile: calls, direction requests, website clicks and bookings. The profile's own performance data tracks these interactions, and Google Search Console, Google's free organic search tool, shows which location pages earn clicks. Rankings alone mislead because map positions change with the searcher's location.</p>
+<p>A monthly scorecard keeps the picture honest. Hannah Finch's version has six lines: profile calls, direction requests, website clicks, new reviews and average rating, reply rate, and leads or bookings that name Google Maps as the source. A fair first review comes at month three, because profile changes, new reviews and citations take weeks to show in results. Ranking checks should use a grid of points across the target area, not one search from the office desk.</p>
+
+<h2>What Should a Dubai Business Ask Before Hiring a Local SEO Provider?</h2>
+<p>A Dubai business hiring a local SEO provider should first ask who will own the Google Business Profile, and then how reviews, Arabic content and reporting are handled. The business should stay the primary owner of its profile, with the provider added as a manager, so it never loses control of its own listing if the contract ends.</p>
+<p>Six questions separate a careful provider from a risky one:</p>
+<ul>
+<li>Will the business remain primary owner of the profile, with the provider as manager only?</li>
+<li>Who writes the Arabic description and posts, and are they native speakers?</li>
+<li>How quickly are reviews answered, and are replies written individually?</li>
+<li>Are photos taken on site by the provider, or supplied by the business?</li>
+<li>Which numbers appear in the monthly report: calls, direction requests, bookings or only rankings?</li>
+<li>Does the provider promise a guaranteed map position? Google says no one can pay for one.</li>
+</ul>
+
+<h2>How Does CoArt Studio Meet These Local SEO Criteria?</h2>
+<p>CoArt Studio meets the local SEO criteria in this guide through native English and Arabic content, on-site photography and video by its own team, and reporting on calls, direction requests and leads rather than rankings alone. CoArt Studio provides local SEO in Dubai within its digital marketing service, alongside SEO and content strategy, social media management and AI search optimisation.</p>
+<p>Checked criterion by criterion, the fit is factual:</p>
+<ul>
+<li><strong>Profile ownership:</strong> the business keeps ownership of its Google Business Profile; CoArt Studio works as a manager on it, confirmed on the first call.</li>
+<li><strong>Bilingual content:</strong> descriptions, posts and location pages can be delivered in English and Arabic.</li>
+<li><strong>Real photos:</strong> photography and videography are produced in Dubai by CoArt Studio's own creatives, so profile images show the actual venue, team and products.</li>
+<li><strong>Reporting:</strong> the monthly report follows the six-line scorecard above, with leads as the main number.</li>
+<li><strong>AI visibility:</strong> AI search optimisation for ChatGPT, Perplexity and Gemini is part of CoArt Studio's published services.</li>
+</ul>
+<p>Examples of the studio's photography and social content appear on <a href="https://www.instagram.com/coartstudio" target="_blank" rel="noopener noreferrer">CoArt Studio's Instagram</a>.</p>
+
+<h2>How Can a Dubai Business Start Local SEO With CoArt Studio?</h2>
+<p>A Dubai business can start local SEO with <a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> by booking a free discovery call, where human strategists review its Google Business Profile, reviews and location pages, then outline a bilingual local search, photography and AI visibility plan built by real people using AI only as a tool. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a>.</p>
+
+<h2>Related Reading</h2>
+<ul>
+<li><a href="/blog/ai-changing-digital-marketing-uae">How Is AI Changing Digital Marketing in the UAE?</a></li>
+<li><a href="/blog/tiktok-instagram-search-dubai-brands">How Do Dubai Brands Get Found on TikTok and Instagram Search?</a></li>
+<li><a href="/blog/website-cost-dubai">How Much Does a Website Cost in Dubai?</a></li>
+</ul>
+    `.trim(),
+  },
+  {
+    slug: "ai-changing-digital-marketing-uae",
+    title: "How Is AI Changing Digital Marketing in the UAE?",
+    excerpt: "AI is changing digital marketing in the UAE: 73.3% of working-age UAE residents used generative AI in Q2 2026, per Microsoft. See costs, rules and what to ask.",
+    date: "November 23, 2026",
+    category: "AI & Technology",
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=85",
+    readTime: "11 min read",
+    content: `
+<p>Artificial intelligence (AI) is changing digital marketing in the UAE by moving product discovery into AI answers, cutting drafting and reporting time, and raising the value of real, human-made content. Microsoft's AI Diffusion Report put AI use among the UAE's working-age population at 73.3% in the second quarter of 2026, the highest rate of any country measured.</p>
+
+<p>AI-assisted marketing is marketing in which people use artificial intelligence tools for research, drafting, editing, targeting and reporting, while strategists and creatives still decide the message and approve every output. This guide covers UAE adoption data, the marketing tasks AI is changing, AI search, AED costs, the rules that apply, a Dubai real estate example, common mistakes, measurement and what to ask an agency.</p>
+
+<h2>How Widely Are UAE Consumers and Marketers Using AI in 2026?</h2>
+<p>UAE consumers use generative AI more than any other population Microsoft tracks: 73.3% of people aged 15 to 64 in the UAE used a generative AI product in the second quarter of 2026, against 18.8% of the working-age population worldwide. Microsoft's AI Economy Institute published that figure in September 2026, the latest edition available when checked in November 2026.</p>
+<p>The figure comes from <a href="https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026/" target="_blank" rel="noopener noreferrer">Microsoft's Q2 2026 Global AI Diffusion update</a>, which measures the share of people aged 15 to 64 who used a generative AI product in the period, using anonymised telemetry adjusted for device share, internet penetration and population. <a href="https://www.middleeastainews.com/p/uae-retains-top-world-ai-use-ranking" target="_blank" rel="noopener noreferrer">Middle East AI News reported the same 73.3% UAE figure</a> and the UAE's first place in its September 2026 summary of the report. Singapore came second at 64.3%.</p>
+<p>Marketers in the UAE are moving fast too, but unevenly. In <a href="https://communicateonline.me/news/uae-marketers-lead-on-ai-trust-but-struggle-with-data-gaps/" target="_blank" rel="noopener noreferrer">Salesforce's tenth State of Marketing report</a>, which surveyed 100 UAE marketing decision-makers between October and November 2025, 85% said they trust AI to respond to customer inquiries, compared with 81% globally. Yet 41% of the UAE respondents said they had not yet adapted their strategy to AI, compared with 48% worldwide. That edition was the most recent available when checked in November 2026.</p>
+<p>The practical reading for a Dubai business is simple. Customers already ask assistants for recommendations, and most competitors are still adjusting their plans, so the gap between early and late adopters is still open.</p>
+
+<h2>Which Marketing Tasks Is AI Changing Most in the UAE?</h2>
+<p>Artificial intelligence is changing UAE marketing most in five tasks: keyword and audience research, first drafts of copy, video editing support, ad testing and performance reporting. Strategy, creative direction, on-set production and final approval of Arabic and English copy still depend on people, because those tasks rest on brand judgement, cultural context and accountability for what a business publishes in the UAE.</p>
+<p>The table below shows where AI saves time in a typical Dubai marketing month and which part of each task still needs a human owner.</p>
+<table>
+<thead><tr><th>Marketing task</th><th>What AI tools now do</th><th>What people still own</th></tr></thead>
+<tbody>
+<tr><td>Research</td><td>Cluster keywords, summarise competitor pages, group customer reviews by theme</td><td>Choosing which audience and offer matter</td></tr>
+<tr><td>Copywriting</td><td>Produce first drafts, caption variants and headline options</td><td>Brand voice, claims checking, Arabic and English approval</td></tr>
+<tr><td>Video and photo editing</td><td>Auto-captions, rough cuts, background clean-up, resizing</td><td>Shooting real people and places, final edit decisions</td></tr>
+<tr><td>Paid advertising</td><td>Bid automation and creative testing on Google and Meta</td><td>Budget, targeting rules, offer and landing page</td></tr>
+<tr><td>Reporting</td><td>Pull dashboards together and flag changes</td><td>Deciding what to change next month</td></tr>
+</tbody>
+</table>
+<p>The table explains why AI has not made content cheaper across the board. Drafting and resizing are faster, but the shoot, the idea and the approval still take the same human hours. The trade-off between generated and filmed visuals is covered in detail in the guide on <a href="/blog/ai-generated-ads-vs-real-shoots-dubai">whether Dubai brands should use AI-generated ads or real shoots</a>.</p>
+
+<h2>How Is AI Search Changing How Customers Find UAE Businesses?</h2>
+<p>AI search is changing how customers find UAE businesses by answering questions directly and naming a few providers instead of listing ten links. Google started rolling out AI Mode in Modern Standard Arabic on 8 October 2025, after an English launch in the Middle East and North Africa, so UAE searchers can now get conversational AI answers in both of the country's main business languages.</p>
+<p><a href="https://blog.google/intl/en-mena/product-updates/explore-get-answers/introducing-ai-mode-in-arabic/" target="_blank" rel="noopener noreferrer">Google's October 2025 announcement</a> lists Arabic among 38 new languages for AI Mode, the search tab that breaks a question into sub-questions and answers them together. ChatGPT, Gemini, Perplexity and Claude work in a similar way: they retrieve passages from pages that answer the question clearly and cite a handful of sources.</p>
+<p>For marketing teams, three changes follow:</p>
+<ul>
+<li>Pages need direct answers near the top, with prices, timelines and service areas stated plainly, which is the core of <a href="/blog/geo-generative-engine-optimization-dubai">generative engine optimisation (GEO) for Dubai businesses</a>.</li>
+<li>Paid search still captures ready-to-buy clicks, so the budget split between the two channels matters more; the comparison of <a href="/blog/seo-vs-google-ads-dubai">SEO vs Google Ads in Dubai</a> sets out how to divide it.</li>
+<li>Local signals such as reviews and a complete Google Business Profile now feed AI answers to "near me" questions, as explained in the guide to <a href="/blog/local-seo-dubai">local SEO in Dubai</a>.</li>
+</ul>
+
+<h2>What Does AI-Assisted Marketing Cost in Dubai?</h2>
+<p>An AI search optimisation retainer in Dubai costs AED 3,000 to AED 15,000 a month. A content production retainer costs AED 8,000 to AED 35,000 a month. Both figures exclude 5% VAT and ad spend, and AI tools do not remove the cost of strategy, filming or approval, which is where most of a Dubai marketing budget still goes in 2026.</p>
+<p>The table lists the four AI-related services Dubai businesses most often buy, with typical monthly or project prices.</p>
+<table>
+<thead><tr><th>Service</th><th>What is included</th><th>Typical AED price</th></tr></thead>
+<tbody>
+<tr><td>AI search optimisation retainer</td><td>Answer-first page rewrites, structured data, AI visibility checks across ChatGPT, Gemini and Perplexity</td><td>AED 3,000 to AED 15,000 a month</td></tr>
+<tr><td>Content production retainer</td><td>Monthly shoot, edited Reels and photos, AI-assisted editing and captions</td><td>AED 8,000 to AED 35,000 a month</td></tr>
+<tr><td>Social media management (1 to 2 platforms)</td><td>Content calendar, posting, community management, reporting</td><td>AED 4,000 to AED 9,000 a month</td></tr>
+<tr><td>AI workflow automation project</td><td>One automated process, such as lead qualification or reporting, built and tested</td><td>AED 55,000 to AED 370,000 per project</td></tr>
+</tbody>
+</table>
+<p>These figures repeat the ranges in CoArt Studio's published 2026 Dubai cost guides and were rechecked against typical Dubai market rates in November 2026; they leave out 5% VAT, ad spend and software subscriptions, and a bilingual scope or integration with an existing customer relationship management (CRM) system pushes a project toward the upper end.</p>
+<p>A worked example shows how the lines combine for a mid-sized Dubai brokerage. An AI search optimisation retainer at AED 5,000, a content production retainer at AED 12,000 and social media management at AED 6,000 add up to AED 23,000 a month. VAT at 5% adds AED 1,150, for a total of AED 24,150. If the content retainer delivers 20 finished photos and videos, each asset costs AED 600 before VAT. Detailed shoot pricing is in the guide to <a href="/blog/social-media-content-production-cost-dubai">social media content production costs in Dubai</a>.</p>
+
+<h2>What Rules Apply to AI in UAE Marketing?</h2>
+<p>AI in UAE marketing falls under the same media, advertising and data rules as any other content, plus one AI-specific line: the National Media Authority requires prior approval before AI is used to depict national symbols or public figures. Paid promotion on social media also needs an advertiser permit, and personal data used to train or target campaigns is covered by the UAE's data protection law.</p>
+<p>The rules most likely to affect an AI-assisted campaign are short enough to check before launch:</p>
+<ol>
+<li>No AI-generated images or videos of national symbols or public figures without prior official approval; the rule and its background are covered in the guide to <a href="/blog/ai-generated-ads-vs-real-shoots-dubai">AI-generated ads vs real shoots</a>.</li>
+<li>Influencers and creators who promote a brand need the UAE advertiser permit and must make paid content clearly promotional.</li>
+<li>Customer lists uploaded to AI tools or ad platforms must have a lawful basis under Federal Decree-Law No. 45 of 2021 on the Protection of Personal Data.</li>
+<li>Claims written by an AI tool, such as prices, awards or health effects, must be checked by a person before publishing, because the advertiser carries responsibility for them.</li>
+</ol>
+<p>The data point is not optional detail. A campaign that targets a scraped list, or that publishes an unchecked AI claim, risks fines and platform removal regardless of how the content was produced.</p>
+
+<h2>How Is AI Changing Real Estate Marketing in Dubai?</h2>
+<p>Artificial intelligence is changing real estate marketing in Dubai by speeding up lead qualification and listing content in a market with record volume. The Dubai Media Office reported over 270,000 real estate transactions worth AED 917 billion in 2025, up 20% on 2024, so brokerages handle more enquiries than sales teams can screen by hand.</p>
+<p>The <a href="https://mediaoffice.ae/en/news/2026/january/12-01/dubais-real-estate-market-records-new-historic-milestone" target="_blank" rel="noopener noreferrer">Dubai Media Office's January 2026 release</a> also counted 129.6 thousand new investors in 2025, a 23% rise, with resident investors making up 56.6% of the total. That mix matters for marketing. Overseas buyers find developers through search and AI assistants, while residents respond to neighbourhood video and walkthroughs. Brokerages now use AI to sort enquiries by budget and area, draft listing descriptions in English and Arabic, and answer first questions after hours. Filming the actual unit, building and community still needs a crew on site, because buyers check what they see against the property.</p>
+
+<h2>What AI Marketing Mistakes Do UAE Businesses Make?</h2>
+<p>UAE businesses most often make four AI marketing mistakes: publishing AI drafts without human editing, buying tools before fixing their customer data, letting AI-generated visuals replace real products and places, and measuring output volume instead of leads. Salesforce's 2025 survey of 100 UAE marketers found 78% struggled to access the customer context needed for personalised engagement, against 69% globally.</p>
+<p>Each mistake has a visible symptom:</p>
+<ul>
+<li><strong>Unedited drafts:</strong> captions that sound alike across brands, and Arabic copy that is grammatical but off-tone.</li>
+<li><strong>Data before tools:</strong> personalisation features switched on with no clean customer list behind them, which is the gap the Salesforce figure describes.</li>
+<li><strong>Synthetic visuals:</strong> product images that do not match the item delivered, which drives returns and complaints.</li>
+<li><strong>Volume metrics:</strong> reports that celebrate 60 posts a month while enquiries stay flat.</li>
+</ul>
+<p>Gerald Tony, Founder of CoArt Studio, sets one rule before any AI tool is added to a client's marketing: name the hour it saves and the person who checks its output. If neither can be named, the tool waits. In his projects, the first AI addition is usually reporting automation, because it frees four to six hours a month without touching anything customers see.</p>
+
+<h2>How Should a UAE Business Measure Whether AI Is Improving Its Marketing?</h2>
+<p>A UAE business should measure AI's effect on marketing through three numbers tracked before and after adoption: hours spent per finished asset, cost per qualified lead and the share of enquiries that mention finding the business through an AI assistant. Output volume alone proves nothing, because AI makes producing more content easy without making it effective.</p>
+<p>The cost per qualified lead calculation keeps the comparison honest. Using the brokerage example above, a monthly spend of AED 24,150 that produces 35 qualified leads gives a cost of AED 690 per lead. If the same budget produces 46 leads three months later, the cost falls to AED 525, a drop of about 24%. The AI search share is measured by adding "How did you hear about us?" with an "AI assistant such as ChatGPT or Gemini" option to enquiry forms and call scripts.</p>
+<p>A quarterly review is long enough to see a trend. Changes made to pages for AI search often take weeks to be recrawled, so a one-month result is too short to judge.</p>
+
+<h2>What Should a UAE Business Ask an Agency About Its Use of AI?</h2>
+<p>A UAE business hiring a marketing agency should ask which tasks the agency does with AI, who reviews AI output before publishing, and whether Arabic copy is written or checked by a native speaker. A good agency answers task by task, names the human reviewer and states that the client keeps ownership of its accounts, data and final files.</p>
+<p>Five questions separate agencies that use AI as a tool from those that sell it as the product:</p>
+<ol>
+<li>Which deliverables in the proposal are drafted with AI, and which are made entirely by people?</li>
+<li>Who approves each post, ad and page before it goes live?</li>
+<li>Is any customer data uploaded to third-party AI tools, and under what data processing terms?</li>
+<li>Are product and location visuals filmed on site, or generated?</li>
+<li>Which report shows whether AI search is sending enquiries?</li>
+</ol>
+<p>Vague answers, such as "AI handles everything", are a warning sign. A detailed answer shows the agency has thought about quality and accountability, not just speed.</p>
+
+<h2>How Would CoArt Studio Apply AI to a Dubai Real Estate Marketing Programme?</h2>
+<p>CoArt Studio would apply AI to a Dubai real estate marketing programme in the back office first: lead research and qualification, listing copy drafts and reporting. Filming of units and communities, Arabic and English copy approval and campaign strategy would stay with its human team, matching the human-first model set out in its published services.</p>
+<p>CoArt Studio offers AI-assisted marketing in Dubai for real estate brands through two published services: AI lead generation and automation, and content production with social media management. Its published Ellington case study shows the first in practice: a custom AI lead generation system for the premium real estate brand cut research time by 70% and doubled qualified lead volume within 90 days, as reported in <a href="https://www.coart.studio/#portfolio" target="_blank" rel="noopener noreferrer">CoArt Studio's portfolio</a>.</p>
+<p>For a brokerage or developer, a first programme would typically include these deliverables:</p>
+<ul>
+<li>An AI-assisted enquiry sorting flow that groups leads by budget, area and timeline for the sales team.</li>
+<li>One shoot day per month covering two to three listings, delivering edited walkthrough Reels and photo sets.</li>
+<li>Listing descriptions drafted with AI and rewritten by native English and Arabic writers.</li>
+<li>Answer-first project and area pages built for AI search, with prices and handover dates stated plainly.</li>
+<li>A monthly report on cost per qualified lead and enquiries that cite an AI assistant.</li>
+</ul>
+<p>The scope, the tools used and who owns the data are set out on the first call, and the plan is built around the published four steps: Discover and Strategize, Design and Create, Build and Launch, Grow and Optimise.</p>
+
+<h2>How Can a UAE Business Plan Its Next Step With AI in Marketing?</h2>
+<p>A UAE business can plan its next step with AI in marketing on a free discovery call with CoArt Studio, where strategists review current content, search visibility and lead handling, then suggest which tasks to automate and which to keep human. The call covers AI search optimisation, content production, social media management and AI automation, delivered in English and Arabic.</p>
+<p><a href="https://www.coart.studio" target="_blank" rel="noopener noreferrer">CoArt Studio</a> pairs real strategists, creatives and developers with AI tools that speed up the routine work, so the parts customers see stay recognisably human. <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ01oD-PXnxFpUPT2V5HC9Zt_zVJVOrjrISIUFOJnTj12lIWoUAI7gRwzY7f8FEpnCcVdpXweDU8" target="_blank" rel="noopener noreferrer">Book a discovery call</a>.</p>
+
+<h2>Related Reading</h2>
+<ul>
+<li><a href="/blog/ai-agents-dubai-businesses-2026">What Are AI Agents and How Are Dubai Businesses Using Them in 2026?</a></li>
+<li><a href="/blog/agentic-commerce-dubai-online-store-ai-shopping-agents">What Is Agentic Commerce and Is Your Dubai Online Store Ready for AI Shopping Agents?</a></li>
+<li><a href="/blog/ai-consulting-cost-dubai">How Much Does AI Consulting Cost in Dubai?</a></li>
 </ul>
     `.trim(),
   },
